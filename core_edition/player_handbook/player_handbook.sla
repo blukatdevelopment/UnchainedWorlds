@@ -187,14 +187,14 @@
                 <trail/>
             </StoryText>
         </FRAMEOBJECT>
-        <MASTEROBJECT XPOS="110.351368421053" YPOS="821.8904" OwnPage="0" ItemID="625485264" PTYPE="4" WIDTH="29.6526315789474" HEIGHT="27.4947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" copath="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" OnMasterPage="Normal Left" gXpos="490814624.723044" gYpos="17404163953.0207" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="110.351368421053" YPOS="821.8904" OwnPage="0" ItemID="625485264" PTYPE="4" WIDTH="29.6526315789474" HEIGHT="27.4947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" copath="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" OnMasterPage="Normal Left" gXpos="491868260.411037" gYpos="17443187674.0182" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONT="DejaVu Sans Bold" FONTSIZE="12"/>
                 <trail/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="630.392968421053" YPOS="821.8904" OwnPage="1" ItemID="625476848" PTYPE="4" WIDTH="29.6526315789474" HEIGHT="27.4947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" copath="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" OnMasterPage="Normal Right" gXpos="808719056.984806" gYpos="18397527101.9035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="630.392968421053" YPOS="821.8904" OwnPage="1" ItemID="625476848" PTYPE="4" WIDTH="29.6526315789474" HEIGHT="27.4947368421052" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="3.6" TEXTRA="3.6" BEXTRA="3.6" REXTRA="3.6" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" copath="M0 0 L29.6526 0 L29.6526 27.4947 L0 27.4947 L0 0 Z" OnMasterPage="Normal Right" gXpos="810650722.412793" gYpos="18433689083.3643" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONT="DejaVu Sans Bold" FONTSIZE="12"/>
@@ -1171,7 +1171,7 @@
                 <para/>
                 <ITEXT CH="Making attacks"/>
                 <para PARENT="H3"/>
-                <ITEXT CH="Make a STR check for melee attacks, or a DEX check for ranged attacks. Add any bonuses from relevant perks. If your attack roll meets or beats the AC of the target, it hits. Rolling a 20 on the D20 for an attack roll always hits and deals max damage, whereas a 1 always misses. Roll a damage die according to the weapon you're using(ie a D2 for unarmed)."/>
+                <ITEXT CH="Make a STR check for melee attacks, or a DEX check for ranged attacks. Add any bonuses from relevant perks. If your attack roll meets or beats the AC of the target, it hits. Rolling a 20 on the D20 for an attack roll always hits and deals double the damage dice, whereas a 1 always misses. Roll a damage die according to the weapon you're using(ie a D2 for unarmed)."/>
                 <para/>
                 <para/>
                 <ITEXT CH="Serious Injury table(D6)"/>
@@ -1202,15 +1202,6 @@
                 <ITEXT FONT="DejaVu Sans Bold" CH="Attack"/>
                 <ITEXT CH=":  Make an attack roll against an enemy, drawing your weapon from an accessible spot such as a quiver, belt, or sheath as part of the action. A second attack suffers -3 penalty on to the attack roll, and a third suffers -6."/>
                 <para/>
-                <ITEXT FONT="Fraunces 9pt Bold" CH="Clash"/>
-                <ITEXT CH=": You and your target make attacks rolls, with the highest roll hitting. On a tie, you both hit. Deals max damage. No penalty to attack two or three times."/>
-                <para/>
-                <ITEXT FONT="Fraunces 9pt Bold" CH="Focus"/>
-                <ITEXT CH=": Grant a D6 bonus to your next attack roll this round. This doesn't stack."/>
-                <para/>
-                <ITEXT FONT="Fraunces 9pt Bold" CH="Wind Up"/>
-                <ITEXT CH=": The next attack made this round deals max damage."/>
-                <para/>
                 <ITEXT FONT="Fraunces 9pt Bold" CH="Stunt"/>
                 <ITEXT CH=": Make"/>
                 <ITEXT FONT="DejaVu Sans Book" CH=" a STR check against the target, who may resists with a STR or DEX check. Common stunts include grappling, knocking prone, pushing up to 10 feet, disarming, or using a grappled target as a humanoid shield."/>
@@ -1222,13 +1213,7 @@
                 <ITEXT CH=": If you have broken line of sight, make a DC 12 DEX save to become hidden."/>
                 <para/>
                 <ITEXT FONT="DejaVu Sans Bold" CH="Interact"/>
-                <ITEXT CH=": Open a door, pick up a rock, push a boulder, retrieve or stash an item from your inventory, etc, etc."/>
-                <para/>
-                <ITEXT FONT="DejaVu Sans Bold" CH="Speak"/>
-                <ITEXT CH=": Relay a message no more than 10 seconds long"/>
-                <para/>
-                <ITEXT FONT="DejaVu Sans Bold" CH="Cast Spell"/>
-                <ITEXT CH=": Takes two actions for Arcane spells, one for others."/>
+                <ITEXT CH=": Open a door, pick up a rock, push a boulder, retrieve an item from your backpack, etc."/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -2536,7 +2521,7 @@
                 <para/>
                 <ITEXT CH="Fixed Perk"/>
                 <para PARENT="H3"/>
-                <ITEXT CH="Each time you gain a level in this class, your max HP increases by 1."/>
+                <ITEXT CH="Each time you gain a level in this class, your max HP increases by 2."/>
                 <para/>
                 <para/>
                 <ITEXT CH="Random Perks"/>

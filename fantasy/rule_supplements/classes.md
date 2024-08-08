@@ -38,7 +38,51 @@ Gain one skill from these options:
 Choose one non-weapon skill that grants a D6 bonus. It now grants a 2d6 bonus.
 
 # Warrior
-TODO
+`Hearts: <Level>d6 + 15`
+
+## Level 1
+### Skills
+- Athletics: Climb, swim, carry, drag, throw, etc.
+- Intimidation: Inspire fear, respect, or terror.
+- Weapons: If you can kill with it, your skill applies.
+
+### Grit
+You have 3 grit, which recovers on a rest. You gain +2 grit at levels 2 and 3. You may spend grit on the following:
+- Ferocious strike: Your next attack has advantage and deals max damage on a hit.
+- Double Strike: Your next attack is a multi-attack(2).
+- Second Wind(2 grit): Heal D6 hearts. 
+- Sentry: Use your action and end your turn. Make up to three attacks at creatures that enter range before your next turn.
+
+## Level 2
+### Specialty
+Choose one specialty:
+- Swords: Skill bonus for swords is now 2d6. You may dual-wield swords to make multi-attacks(2).
+- Bows: Skill bonus for bows is now 2d6. You may multi-attack(2) with bows if you do not move that turn.
+- Pugilist: Skill bonus for unarmed attacks is now 2d6. May dual wield fists to make multi-attack(2).
+- Armorer: Worn armor(not shields) grants an extra +1 armor value and +5 durability value.
+- Tunnel Fighter: You may attack creatures within 10ft normally even without sight. 
+- Crossbows: You may reload crossbows as part of firing them. Skill bonus for crossbows is now 2d6.
+
+## Level 3
+### Advanced Technique
+
+#### Oath
+You swear an oath, and so long as you keep the oath, you may smite. To smite when you hit a target with a melee weapon, you spend 2 grit. A smite deals 2d6 extra damage, or 4d6 against a demon, devil, undead, fae, or a humanoid imbued with any form of evil magic. Oaths include:
+- Vengeance: I will punish all evil I encounter.
+- Protection: I will defend the powerless without exception.
+- Redemption: When able, I will offer wicked creatures a chance to redeem themself.
+- Law: I will enforce the law of the land around me.
+- Truth: I will neither lie, nor deceive, nor willingly allow others to do so.
+
+#### Blood Magic
+Every rest, you may choose a spell from the mage spell list, spell book, or spell scroll. You may then trace the spell onto your sword with a piece of bone. Every time you slay a creature with your sword, it is charged and may cast its spell once. Charges do not stack and are lost on a rest.
+
+#### Commander
+You may use 1 grit to issue a command to all friendly creatures that can hear you and grant a benefit to them this turn.
+- Retreat: Double movement when retreating.
+- Charge!: Advantage on attack rolls.
+- Fire: Max damage on ranged attacks.
+- Hold the line: +2 Armor Value.
 
 # Mage
 `Hearts: 10 + <level>`

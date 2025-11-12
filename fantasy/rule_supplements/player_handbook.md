@@ -1,4 +1,4 @@
-# Dungeons and Delvers: Player Handbook
+# UW: Fantasy Player Handbook
 This is a fantasy dungeon-crawler expansion of the Unchained Worlds system.
 
 # Core Mechanics
@@ -37,6 +37,9 @@ To make a multi-attack, make a normal attack and roll an extra D20 for the secon
 ### Damage
 Most damage comes in multiples of D6. Unarmed attacks deal 2 damage. Some magic weapons may give a flat bonus, such as a +1 sword.
 
+#### Armor
+Armor reduces incoming damage by the **armor value(AV)** of the piece of armor. The **durability value(DV)** is the total number of hits a piece of armor can take before it breaks.
+
 ## XP
 Experience Points(XP) are a measure of progression. When earned, they are divided equally among all members of the party. There are a few ways to gain XP:
 - 1XP per heart of vanquished enemies
@@ -61,6 +64,15 @@ You have no skills or special abilities.
 `Hearts: 10 + 2 * <level>`
 
 ### Level 1
+### Starting Gear
+- Common clothes
+- Backpack
+- 2 Daggers
+- Bow
+- 20 Arrows
+- 50ft Rope
+- Bag of ballbearings
+
 #### Skills
 - Acrobatics: Jump, climb, balance, swing, carthweel.
 - Deception: lie, omit, embellish, downplay.
@@ -77,18 +89,20 @@ You have 3 grit, which recovers on a rest. You gain +2 grit at levels 2 and 3. Y
 - Hide: Attempt to hide without using an action.
 
 ### Level 2
-#### Weapon specialization
-Choose a weapon to specialize in. Your D6 skill bonus for that type of weapon becomes a 2d6 bonus.
+#### Specialty
+Choose a specialty. If it is a weapon, your D6 skill bonus for that type of weapon becomes a 2d6 bonus.
 - Daggers: When dual wielding, you may multi-attack(2). A dagger attack deals extra D6 damage against a surprised target.
 - Bows: You may use 1 grit to multi-attack(2) with a bow.
+- Bard Magic: you choose one spell from the mage spell list, which you may cast by consuming 1 grit. Casting requires you to perform music with an instrument. You may change the spell once each rest.
 
 ### Level 3
 
 #### Skill
-Gain one skill from these options:
+Gain one of the following skills:
 - Sleight of hand: Steal, pick pockets, juggle, pick locks.
 - Insight: detect social disposition, emotions, context.
 - Swords
+- Magic: cast spells, read scrolls, etc.
 
 #### Expertise
 Choose one non-weapon skill that grants a D6 bonus. It now grants a 2d6 bonus.
@@ -102,6 +116,17 @@ Choose one non-weapon skill that grants a D6 bonus. It now grants a 2d6 bonus.
 - Intimidation: Inspire fear, respect, or terror.
 - Weapons: If you can kill with it, your skill applies.
 
+#### Starting Gear
+- Common Clothes
+- Leather Armor
+- Backpack
+- 5 torches
+Choose one of the following options:
+- A melee weapon that deals 3d6 damage
+- Sword and Shield 
+- One melee weapon that deals 2d6, a bow, and 20 arrows
+
+
 #### Grit
 You have 3 grit, which recovers on a rest. You gain +2 grit at levels 2 and 3. You may spend grit on the following:
 - Ferocious strike: Your next attack has advantage and deals max damage on a hit.
@@ -112,12 +137,12 @@ You have 3 grit, which recovers on a rest. You gain +2 grit at levels 2 and 3. Y
 ### Level 2
 #### Specialty
 Choose one specialty:
-- Swords: Skill bonus for swords is now 2d6. You may dual-wield swords to make multi-attacks(2).
-- Bows: Skill bonus for bows is now 2d6. You may multi-attack(2) with bows if you do not move that turn.
-- Pugilist: Skill bonus for unarmed attacks is now 2d6. May dual wield fists to make multi-attack(2).
-- Armorer: Worn armor(not shields) grants an extra +1 armor value and +5 durability value.
-- Tunnel Fighter: You may attack creatures within 10ft normally even without sight. 
-- Crossbows: You may reload crossbows as part of firing them. Skill bonus for crossbows is now 2d6.
+<br>- Swords: Skill bonus for swords is now 2d6. You may dual-wield swords to make multi-attacks(2).
+<br>- Bows: Skill bonus for bows is now 2d6. You may multi-attack(2) with bows if you do not move that turn.
+<br>- Pugilist: Skill bonus for unarmed attacks is now 2d6. May dual wield fists to make multi-attack(2).
+<br>- Armorer: Worn armor(not shields) grants an extra +1 armor value and +5 durability value.
+<br>- Tunnel Fighter: You may attack creatures within 10ft normally even without sight. 
+<br>- Crossbows: You may reload crossbows as part of firing them. Skill bonus for crossbows is now 2d6.
 
 ### Level 3
 #### Advanced Technique
@@ -150,7 +175,15 @@ You may use 1 grit to issue a command to all friendly creatures that can hear yo
 - Lore: recall history, legends, monster facts.
 - Persuasion: convince using honest means.
 
-### Grimoire Magic
+#### Starting Gear
+- Robes
+- Backpack
+- Spellbook
+- Book of lore
+- Wand
+- A dagger or staff(D6 damage)
+
+#### Grimoire Magic
 You learn 3 random spells from the mage spell list and add them to your spellbook. Each night, you may meditate to charge your spellbook. You may then cast each spell in the book once. Casting requires both hands, and acannot be performed while wearing physical armor.
 
 ### Level 2
@@ -180,6 +213,14 @@ You may now copy spells from books and scrolls using 20 coins worth of ink to do
 - Magic: casting spells, reading runes, etc.
 - Insight: vibe check, notice emotions, pick up context clues.
 - Medicine: create mmedicine, diagnose injury, apply first aid.
+
+#### Starting Gear
+- Robes
+- Backpack
+- Holy Symbol
+- Holy book
+- 2 blocks of Incense
+- Mace
 
 #### Lay on Hands
 You have a pool of 10 healing points to draw from. You may touch a creature to heal 1 or more hearts, consuming as many healing points. If a creature has died in the last hour, you may expend 1 healing to repeat their death save. Healing points restore on a rest.
@@ -216,6 +257,16 @@ You may use one blessing to cast any of the following spells
 - Magic: casting spells, reading runes, etc.
 - Insight: detect social disposition, emotions, context.
 - Perception: hear, see, taste, smell, feel.
+
+#### Starting Gear
+- Common clothes
+- Backpack
+- Dagger
+- Book of Lore
+- Lamp
+- 2 flasks of oil
+- Tinderbox
+- a purse containing 5 crowns
 
 #### Naming magic
 You have 7 soul points which recover on a rest. You gain 3 more at levels 2 and 3. You know 3 random true names, and gain 2 more with each level. You may use soul points to craft and cast spells using names. How to do so:
@@ -285,6 +336,14 @@ Gold coins minted by a long gone empire with a crown on each coin. Used by the e
 
 ### Bar(B)
 Gold bars weighing one ounce. Used for larger transactions.
+
+## Light Sources
+- Candle 5ft radius, lasts 1 hour, 10/talon
+- Torch 30ft radius, lasts 1 hour, 10/talon
+- Oil Flask costs 5 talons
+- Lamp, 15ft radius, lasts 6 hours, costs 5 talons
+- Hooded Lantern, 30ft radius, lasts 6 hours, costs 5 crowns
+- Bullsyeye Lantern, 60ft cone, lasts 6 hours, costs 10 crowns
 
 ## Weapons
 DMG = damage

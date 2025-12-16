@@ -68,55 +68,44 @@ An attacker and defender both roll a D20. If the attacker succeeds, they deal da
 Sleeping for eight hours heals an adventurer 1HP. A day of bed rest instead heals 3HP.
 
 # Ancestry
-To determine your adventurer's physical appearance, choose or roll for their ancestry. The world of Verloren is populated by beast folk whose ancestors are non-sapient animals.
+To determine your adventurer's physical appearance, choose or roll for their ancestry. Roll a D6 for the tens place and another D6 for the ones place on the table below.
 
-## 1. Feline
-1. House cat
-2. Tiger
-3. Lion
-4. Leopard
-5. Cheetah
-6. Panther
-
-## 2. Canine
-1. Dog
-2. Raccoon dog
-3. Fox
-4. Coyote
-5. Jackal
-6. Wolf
-
-## 3. Avian
-1. Parrot
-2. Owl
-3. Raven
-4. Eagle
-5. Duck
-6. Bluejay
-
-## 4. Rodent
-1. Rat
-2. Bat
-3. Mouse
-4. Weasel
-5. Possum
-6. Hedgehog
-
-## 5. Ungulate
-1. Horse
-2. Bovine
-3. Deer
-4. Llama
-5. Sheep
-6. Boar
-
-## 6. Reptile
-1. Gecko
-2. Alligator
-3. frog
-4. Chameleon
-5. Salamander
-6. Snake
+11. Small cat
+12. Tiger
+13. Lion
+14. Leopard
+15. Cheetah
+16. Panther
+21. Dog
+22. Raccoon
+23. Fox
+24. Coyote
+25. Jackal
+26. Wolf
+31. Parrot
+32. Owl
+33. Raven
+34. Eagle
+35. Duck
+36. Bluejay
+41. Rat
+42. Bat
+43. Mouse
+44. Weasel
+45. Possum
+46. Hedgehog
+51. Horse
+52. Bovine
+53. Deer
+54. Llama
+55. Sheep
+56. Boar
+61. Chameleon
+62. Alligator
+63. Frog
+64. Bear
+65. Skunk
+66. Snake
 
 # Background
 When creating a adventurer, you will need to decide the background they grew up in. Claymore's core rules offer only peasants. 
@@ -236,7 +225,19 @@ You train to use your jaws more effectively. You are proficient with your jaws, 
 You train to use your natural night vision. You can see well in low-light conditions, albeit colorblind. On starry or moonlit nights you do not need an artificial lightsource, and the range of torches is expanded by 60 feet for you.
 
 ### Healer
-When you use a healer's kit, you heal a total of 2d6.
+When you use a healer's kit, you now heal 2d6 hearts.
+
+### Blood Magic
+Choose one of the starting spells offered to a wizard and learn it. You may now expend hearts in order to cast wizard spells that you know. A 1st level spell consumes D6, 2nd consumes 2d6, and 3rd consumes 3d6.
+
+### Martial Training
+You gain proficiency with swords, spears, bows, horseriding, and survival.
+
+### Endurance Training
+You gain 5 maximum hearts and have advantage when resisting the effects of cold, poison, or illness.
+
+### Academic Training
+If you couldn't before, you can now read and write. Choose one of the following skills and either gain proficiency or expertise(if you are already proficient): Magic, Nature, Animal Handling, Medicine, Survival, Performance, Persuasion.
 
 ## Commoner
 You start with 10 hearts, your unarmed attacks deal 2 damage, your base movement is 30ft per turn, and you may pick one general skill that relates to your profession.

@@ -70,6 +70,7 @@ Sleeping for eight hours heals an adventurer 1HP. A day of bed rest instead heal
 # Ancestry
 To determine your adventurer's physical appearance, choose or roll for their ancestry. Roll a D6 for the tens place and another D6 for the ones place on the table below.
 
+```
 11. Small cat
 12. Tiger
 13. Lion
@@ -106,6 +107,7 @@ To determine your adventurer's physical appearance, choose or roll for their anc
 64. Bear
 65. Skunk
 66. Snake
+```
 
 # Background
 When creating a adventurer, you will need to decide the background they grew up in. Claymore's core rules offer only peasants. 
@@ -116,6 +118,7 @@ You were raised within a village of fifty or so families who all know one anothe
 ### Profession
 with their time left over after farming for their lord, a peasant household spends the rest on a profession to cover living expenses. Roll on the table below for a family profession. This is your last name. You may also add the profession as a skill proficiency.
 
+```
 11. Planter: Farmer
 12. Tiller: Farmer
 13. Fielder: Farmer
@@ -152,6 +155,7 @@ with their time left over after farming for their lord, a peasant household spen
 44. Barber: Cutter of hair, shaver, and surgeon
 45. Carter: Driver of a cart
 46. Chandler: Candlemaker
+```
 
 ### Name
 For a first name, roll on the profession table three times and combine the words into a string of letters. Example below

@@ -11,19 +11,7 @@
 ####################################################
 ```
 # Claymore
-A rules-lite fantasy tabletop roleplaying game.
-
-## Philosophy
-Decisions were made for reasons, which are described in the following section.
-
-### Rulings, not rules
-Claymore's minimal rules change game discussions from "do the rules let me do that?" to "Is this plausible, and what are my odds if it is?". Players have room to negotiate creative actions. Can you ricochet a fire bolt to hit a target around a corner? Can you pour flour on the floor to reveal tripwires or the footsteps of an invisible monster? Can you drop your backpack to knock soldiers off the ladder below you?
-
-### Asymmetry, not balance
-A fair fight means a 50% chance of survival. Naturally, adventurers will want to improve those odds by exploiting their items, surroundings, and opponents. This same skill can allow an experienced party to win or entirely circumvent fights with otherwise impossible odds.
-
-### Combat Deadliness
-In addition to minimizing rules, the ratio of damage to HP is different from many popular TTRPGs. This, and other mechanics such as counter-attacks and simple initiative are intended to keep combat moving quickly toward a resolution. 
+A rules-lite fantasy tabletop roleplaying game for dungeon-delving and adventuring.
 
 # Core mechanics
 The **keeper** controls a world and the creatures in it to the rest of the table. Players control adventurers who explore the world and go on adventures. In general, the keeper describes the situation, the player describes their character's attempted action, and the keeper resolves that action, using dice when needed.
@@ -155,6 +143,18 @@ with their time left over after farming for their lord, a peasant household spen
 44. Barber: Cutter of hair, shaver, and surgeon
 45. Carter: Driver of a cart
 46. Chandler: Candlemaker
+51. Fletcher: Maker of arrows
+52. Webster: Weaver using web-weaving technique
+53. Chaucer: Shoemaker
+54. Churchill: Blacksmith
+55. Mason: Brick-layer
+56. Potter: Maker of pots
+61. Plowman: Farmer
+62. Roper: Rope-maker
+63. Sawyer: Woodcutter
+64. Woodman: Feller of trees
+65. Leech: Doctor or surgeon
+66. Hunter: Hunter
 ```
 
 ### Name
@@ -247,13 +247,6 @@ If you couldn't before, you can now read and write. Choose one of the following 
 You start with 10 hearts, your unarmed attacks deal 2 damage, your base movement is 30ft per turn, and you may pick one general skill that relates to your profession.
 
 ## Thief
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-5:  Class ability
-6-8:  +D6 grit
-9-12:  General ability
-```
 ### At level 1
 #### Skills
 - Daggers
@@ -269,6 +262,14 @@ You have 3 grit, which recovers on a rest. You may spend it on the following opt
 - Sprint: Double your movement this turn without spending an action.
 - Focus: Add an extra D6 bonus to a roll already benefiting from a skill proficiency.
 - Hide: Attempt to hide without using an action.
+
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-5:  Class ability
+6-8:  +D6 grit
+9-12:  General ability
+```
 
 ### Class Abilities
 
@@ -313,13 +314,6 @@ You gain an instrument from the list below. Every rest, you may practice your in
 You make a magically infused insult against a creature who can understand you. Target  must save or take 2d6 damage from the psychic strain.
 
 ## Brute
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-4:  Class ability
-5-9:   +D6+1 HP
-10-12:  General ability 
-```
 ### At level 1
 #### Skills
 - Greataxes
@@ -333,6 +327,14 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Dire Strike: Make a melee attack. On a hit, it deals max damage.
 - Double Strike: Make a melee attack. It is a multi-attack(2).
 - Rage(2 grit): Until you end your turn without taking damage or making an attack, incoming attack damage is halved. Rage grants advantage on athletics checks.
+
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-4:  Class ability
+5-9:   +D6+1 HP
+10-12:  General ability 
+```
 
 ### Class Abilities
 
@@ -358,14 +360,7 @@ Your attacks have a critical success on a natural 19 as well as a natural 20.
 You now have expertise in athletics, and your unarmed attacks deal 4 damage.
 
 ## Ranger
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-3:   Class ability
-4-5:   +D6 Hearts
-6-8:   +3 Grit
-9-12:  General ability 
-```
+
 ### At level 1
 #### Skills
 - Daggers
@@ -381,6 +376,15 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Second Wind(2 grit): Use an action to heal D6 hearts.
 - Overwatch: Until your next turn, make up to three ranged attacks at creatures that move within line of sight.
 
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-3:   Class ability
+4-5:   +D6 Hearts
+6-8:   +3 Grit
+9-12:  General ability 
+```
+
 ### Class Abilities
 
 #### Grit Action: Called Shot
@@ -393,14 +397,6 @@ You may dual wield daggers to perform a multi-attack with two attacks. You have 
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
 
 ## Warrior
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-3:    Class ability
-4-5:    +D6 Hearts
-6-9:    +3 Grit
-10-12:  General ability 
-```
 ### At level 1
 #### Skills
 - Swords
@@ -417,6 +413,15 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Second Wind(2 grit): Use an action to heal D6 hearts.
 - Sentry: Until your next turn, you have three reactions which may be used on held attacks against separate targets.
 
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-3:    Class ability
+4-5:    +D6 Hearts
+6-9:    +3 Grit
+10-12:  General ability 
+```
+
 #### Commands
 You may spend grit on the following commands, which effect allies in earshot until the start of your next turn.
 - Retreat: Double movement when retreating.
@@ -430,14 +435,7 @@ You may spend grit on the following commands, which effect allies in earshot unt
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
 
 ## Brawler
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-4:  Class ability
-5:    +D6 HP
-6-9:  +D6 grit
-10-12:  General ability
-```
+
 ### At level 1
 #### Skills
 - Unarmed
@@ -451,6 +449,15 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Striking Stance: For the next minute, your unarmed attacks cannot deal less than 3 damage. Stances do not stack.
 - Reactive Stance: For the next minute, you have 3 reactions each turn. Stances do not stack.
 - Defensive Stance: For the next minute, you have a D6 bonus defending against attacks. Stances do not stack.
+
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-4:  Class ability
+5:    +D6 HP
+6-9:  +D6 grit
+10-12:  General ability
+```
 
 #### Brawling Proficiency
 Your unarmed attacks deal D6 damage. When making unarmed attacks, you may instead multi-attack a single target with three attacks. When you counter-attack, you may instead instantly grapple the target. These effects are lost when wearing armor.
@@ -479,14 +486,6 @@ When you successfully defend against an arrow or thrown weapon within 30ft, you 
 You run, climb, jump, swing, or springboard on your surroundings as part of your movement, granting advantage on an attack(or multi-attack) made that turn.
 
 ## Knight
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-4:  Class ability
-5-6:  +D6 grit
-7-9:  +2 Hearts
-10-12:  General ability 
-```
 ### At level 1
 #### Skills
 - Sword
@@ -502,6 +501,15 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Dire Strike: Make a melee attack. On a hit, it deals max damage.
 - Double Strike: Make a melee attack. It is a multi-attack(2).
 - Smite: Add D6 to a damage roll, or 2d6 against undead, demon, or spirit.
+
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-4:  Class ability
+5-6:  +D6 grit
+7-9:  +2 Hearts
+10-12:  General ability 
+```
 
 #### Oath
 Make an oath, which grants you magical powers such as smite and serves as your guiding ethic. Breaking your oath costs you your oath powers.
@@ -545,13 +553,6 @@ Spend one grit and aim your sword at a creature, demanding they answer a questio
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
 
 ## Wizard
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-5:    Class Ability 
-5-10:   Choose Between Two Random Spells To Learn
-11-12:  General Ability
-```
 ### At level 1
 
 #### Skills
@@ -569,6 +570,14 @@ You may cast spells you learn from the wizard spell list. Cantrips are trivial s
 - 1st: D6 DMG
 - 2nd: 3d6 DMG
 - 3rd: 6d6 DMG
+
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-5:    Class Ability 
+5-10:   Choose Between Two Random Spells To Learn
+11-12:  General Ability
+```
 
 ### Class Abilities
 
@@ -696,15 +705,6 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 ## Witch
 You work with the blessing of the threefold goddess. The Maiden threads the needle of life, the Mother pulls the thread, and the Crone severs it.
 
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-3:  Class ability
-4-5:  +2 Spirit points
-6-9:  +5 hearts to heal pool
-10:  Gain 1d6+1 Max Hearts
-11-12:  General ability
-```
 ### At level 1
 
 #### Skills
@@ -723,6 +723,16 @@ A witch typically awakens in childhood when she first attunes to her heart and h
 
 #### The Mother's Cauldron
 Every rest, you may mix ingredients into a potion and perform a magic ritual that grants you a pool of 10 hearts, your heal pool. You may expend 1 or more and touch a creature to heal it that many hearts.
+
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-3:  Class ability
+4-5:  +2 Spirit points
+6-9:  +5 hearts to heal pool
+10:  Gain 1d6+1 Max Hearts
+11-12:  General ability
+```
 
 ### Class Abilities
 
@@ -772,13 +782,7 @@ You make an unarmed attack in the form of a kiss. This attack automatically hits
 Your body appears to age and turn gaunt, the air around you growing chilly. All damage you take is subtracted from your heal pool. If an attacker is within 5ft of you, every heart taken from your heal pool is dealt to them as a damage. This spell ends when you rest or when your heal pool is exhausted.
 
 ## Alchemist
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
-```
-2-8:  Class Ability
-9-10:  +1 Brews per rest
-11-12:  General ability
-```
+
 ### At level 1
 #### Skills
 - Alchemy
@@ -788,6 +792,14 @@ You may spend an hour in nature gathering wild alchemical ingredients. Make an a
 
 #### Brew Potions
 You start with three brews per rest. During a rest, you may expend a brew and attempt to create a potion, provided you have brewing equipment and containers to fill. Describe the desired effect of the potion incorporating on one or more ingredients consumed by the brew process, negotiating a DC with the keeper. Once you agree on a potion effect, ingredients, and a DC, make an alchemy check against that DC. On a success, you brew the potion as described. A potion can be used to coat up to ten sharp weapons, which will dry up after being used on a target, or after a minute of being applied.
+
+### At level 2 and higher
+Roll twice on the table below for a random boon.
+```
+2-8:  Class Ability
+9-10:  +1 Brews per rest
+11-12:  General ability
+```
 
 ### Class Abilities
 
@@ -807,8 +819,14 @@ You may expend three brews to attempt a spell potion. Choose three different ing
 You gain proficiency in crossbows and hand crossbows.
 
 ## Priest
-### Boons Table(2d6)
-At level 2 and higher, roll twice on this table for a random boon.
+
+### At level 1
+
+#### Astro Magic
+You have 7 soul points, which recover on a rest. You learn 3 random names. Using the names you know, you may craft spells, negotiating the cost with the keeper. Each time you create a spell, the cost may change.
+
+### At level 2 and higher
+Roll twice on the table below for a random boon.
 ```
 2-4:  New name
 5:  +1d6+1 soul points
@@ -817,10 +835,6 @@ At level 2 and higher, roll twice on this table for a random boon.
 10:  +D6 HP
 11-12:  General ability
 ```
-### At level 1
-
-#### Astro Magic
-You have 7 soul points, which recover on a rest. You learn 3 random names. Using the names you know, you may craft spells, negotiating the cost with the keeper. Each time you create a spell, the cost may change.
 
 ### Names
 11. Fortune

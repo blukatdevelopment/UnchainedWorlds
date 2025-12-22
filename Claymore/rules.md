@@ -248,6 +248,7 @@ You start with 10 hearts, your unarmed attacks deal 2 damage, your base movement
 
 ## Thief
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-5:  Class ability
 6-8:  +D6 grit
@@ -313,6 +314,7 @@ You make a magically infused insult against a creature who can understand you. T
 
 ## Brute
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-4:  Class ability
 5-9:   +D6+1 HP
@@ -357,6 +359,7 @@ You now have expertise in athletics, and your unarmed attacks deal 4 damage.
 
 ## Ranger
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-3:   Class ability
 4-5:   +D6 Hearts
@@ -391,6 +394,7 @@ Gain proficiency with a new weapon, or expertise with a weapon you are proficien
 
 ## Warrior
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-3:    Class ability
 4-5:    +D6 Hearts
@@ -427,6 +431,7 @@ Gain proficiency with a new weapon, or expertise with a weapon you are proficien
 
 ## Brawler
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-4:  Class ability
 5:    +D6 HP
@@ -475,6 +480,7 @@ You run, climb, jump, swing, or springboard on your surroundings as part of your
 
 ## Knight
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-4:  Class ability
 5-6:  +D6 grit
@@ -540,6 +546,7 @@ Gain proficiency with a new weapon, or expertise with a weapon you are proficien
 
 ## Wizard
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-5:    Class Ability 
 5-10:   Choose Between Two Random Spells To Learn
@@ -690,6 +697,7 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 You work with the blessing of the threefold goddess. The Maiden threads the needle of life, the Mother pulls the thread, and the Crone severs it.
 
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-3:  Class ability
 4-5:  +2 Spirit points
@@ -765,6 +773,7 @@ Your body appears to age and turn gaunt, the air around you growing chilly. All 
 
 ## Alchemist
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-8:  Class Ability
 9-10:  +1 Brews per rest
@@ -799,6 +808,7 @@ You gain proficiency in crossbows and hand crossbows.
 
 ## Priest
 ### Boons Table(2d6)
+At level 2 and higher, roll twice on this table for a random boon.
 ```
 2-4:  New name
 5:  +1d6+1 soul points

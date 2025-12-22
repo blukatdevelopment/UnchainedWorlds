@@ -101,7 +101,7 @@ To determine your adventurer's physical appearance, choose or roll for their anc
 When creating a adventurer, you will need to decide the background they grew up in. Claymore's core rules offer only peasants. 
 
 ## Peasant 
-You were raised within a village of fifty or so families who all know one another. Each family is granted a plot of land and required to farm a portion of it to pay to their land Lord or Lady. Though families sell goods for salt at the village market, families will pitch in to help each other through hard times. The passing of the seasons bring many holiday celebrations whose names and traditions change from village to village. It's unlikely you've ever left a ten mile radius of your village, and equally unlikely you were raised to read and write.
+You were raised within the safety of a walled off village of fifty or so families who all know one another. Each family is granted a plot of land and required to farm a portion of it to pay to their land Lord or Lady. Though families sell goods for salt at the village market, families will pitch in to help each other through hard times. The passing of the seasons bring many holiday celebrations whose names and traditions change from village to village. It's unlikely you've ever left a ten mile radius of your village, and equally unlikely you were raised to read and write.
 
 ### Profession
 with their time left over after farming for their lord, a peasant household spends the rest on a profession to cover living expenses. Roll on the table below for a family profession. This is your last name. You may also add the profession as a skill proficiency.
@@ -201,18 +201,19 @@ Characters gain levels by gaining experience points(XP). For levels 0-20, the fo
 20: 3550
 ```
 ## Random class
-If you need help deciding, roll a D20 against this table, re-rolling as needed.
-1. Thief
-2. Brute
-3. Ranger
-4. Warrior
-5. Brawler
-6. Knight
-7. Wizard
-8. Witch
-9. Alchemist
-10. Priest
-
+If you need help deciding, roll a D20 against this table.
+```
+1-2. Thief
+3-4. Brute
+5-6. Ranger
+7-8. Warrior
+9-10. Brawler
+11-12. Knight
+13-14. Wizard
+15-16. Witch
+17-18. Alchemist
+19-20. Priest
+```
 ## General Ability list
 When you gain a general ability when rolling on a boon table, you may pick from this list.
 

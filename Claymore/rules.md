@@ -423,7 +423,7 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Dire Strike: Make a melee attack. On a hit, it deals max damage.
 - Double Strike: Make a melee attack. It is a multi-attack(2).
 - Second Wind(2 grit): Use an action to heal D6 hearts.
-- Sentry: Until your next turn, you have three reactions which may be used on held attacks against separate targets.
+- Sentry: Until your next turn, you have three reactions for counter-attacks.
 
 #### Commands
 You may spend grit on the following commands, which effect allies in earshot until the start of your next turn.

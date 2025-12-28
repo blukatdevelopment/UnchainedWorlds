@@ -248,6 +248,8 @@ If you couldn't before, you can now read and write. Choose one of the following 
 You start with 10 hearts, your unarmed attacks deal 2 damage, your base movement is 30ft per turn, and you may pick one general skill that relates to your profession.
 
 ## Thief
+Nimble and sneaky, the thief can pass by vigilant eyes and cut purses undetected. An adventuring party that needs access to black market goods and services needs only recruit a thief, who is apt to locate fences, sell swords, corrupt guards, beggar informants, and the secret inventory carried by merchants.
+
 ### At level 1
 #### Skills
 - Daggers
@@ -315,6 +317,8 @@ You gain an instrument from the list below. Every rest, you may practice your in
 You make a magically infused insult against a creature who can understand you. Target  must save or take 2d6 damage from the psychic strain.
 
 ## Brute
+Legends tell of those whose hearts filled with the fiery rage of the Maiden, and who became more beast than man. Seasoned adventurers know this to be true, and refer to this sort as brutes. Though the brutes may not know where their power comes from, they know full-well how to wield it. A brute is an excellent first line of defense for a party against blades and fangs alike.
+
 ### At level 1
 #### Skills
 - Greataxes
@@ -361,6 +365,7 @@ Your attacks have a critical success on a natural 19 as well as a natural 20.
 You now have expertise in athletics, and your unarmed attacks deal 4 damage.
 
 ## Ranger
+For many, hunting is a matter of trade and survival. For the ranger, the hunt is a far more sacred activity. Some rangers hunt as a spiritual ritual, others as a continuation of archery after retiring from an army, and others yet for the thrill of the hunt. A party which needs to traverse the wilds, track monsters, or to stealthily snipe an enemy leader is wise to recruit a ranger.
 
 ### At level 1
 #### Skills
@@ -369,6 +374,7 @@ You now have expertise in athletics, and your unarmed attacks deal 4 damage.
 - Athletics
 - Stealth
 - Perception
+- Survival
 
 #### Grit
 You have 3 grit, which recovers on a rest. You may spend grit on the following:
@@ -391,6 +397,9 @@ Roll twice on the table below for a random boon.
 #### Grit Action: Called Shot
 Make a ranged attack, aiming at a specific bodypart, without any penalties. You may shoot an object out of a creature's hand this way, or else aim for the head(or equivalent weak pont) to deal critical damage on a hit.
 
+### Wilderness training
+You gain expertise in survival as well as proficiency in nature and animal handling.
+
 #### Dagger Expert
 You may dual wield daggers to perform a multi-attack with two attacks. You have advantage when defending with two daggers.
 
@@ -398,6 +407,8 @@ You may dual wield daggers to perform a multi-attack with two attacks. You have 
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
 
 ## Warrior
+Trained in the art of war, the warrior actively shapes the battlefield through superior strategy and battle tactics. A party who wishes to win large battles, command a small force of hired swords, or outmaneuver a numerically superior enemy is wise to recruit a warrior in their ranks.
+
 ### At level 1
 #### Skills
 - Swords
@@ -414,6 +425,13 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Second Wind(2 grit): Use an action to heal D6 hearts.
 - Sentry: Until your next turn, you have three reactions which may be used on held attacks against separate targets.
 
+#### Commands
+You may spend grit on the following commands, which effect allies in earshot until the start of your next turn.
+- Retreat: Double movement when retreating.
+- Charge: Advantage on attack rolls.
+- Fire: Max damage on ranged attacks.
+- Hold the line: +D6 defending against melee attacks
+
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
@@ -423,33 +441,28 @@ Roll twice on the table below for a random boon.
 10-12:  General ability 
 ```
 
-#### Commands
-You may spend grit on the following commands, which effect allies in earshot until the start of your next turn.
-- Retreat: Double movement when retreating.
-- Charge: Advantage on attack rolls.
-- Fire: Max damage on ranged attacks.
-- Hold the line: +D6 defending against melee attacks
-
 ### Class Abilities
 
 #### Weapons Training
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
 
 ## Brawler
+It's said the heart of some are touched by the icy fingers of the Crone. It's believed their intuitions extend a hair into the future, which is the only explanation for their reaction times. Whatever the truth may be, the brawler is a blur of fists and claws in combat. Weapons and armor only slow the brawler down, and so they forego them. A party which needs a plain clothes assassin, scout, or stealthy frontliner is wise to recruit a brawler.  
 
 ### At level 1
 #### Skills
 - Unarmed
 - Athletics
 - Acrobatics
+- Insight
 - Stealth
 - Intimidation
 
 #### Grit
-You have 3 grit, which recovers on a rest. You may spend grit on the following:
-- Striking Stance: For the next minute, your unarmed attacks cannot deal less than 3 damage. Stances do not stack.
-- Reactive Stance: For the next minute, you have 3 reactions each turn. Stances do not stack.
-- Defensive Stance: For the next minute, you have a D6 bonus defending against attacks. Stances do not stack.
+You have 3 grit, which recovers on a rest. You may spend grit on the stances below. You may not use a stance when wearing armor, and may only have one stance active at once.
+- Striking Stance: For the next minute, your unarmed attacks cannot deal less than 3 damage.
+- Reactive Stance: For the next minute, you have 3 reactions each turn.
+- Defensive Stance: For the next minute, you have a D6 bonus defending against attacks.
 
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
@@ -487,6 +500,8 @@ When you successfully defend against an arrow or thrown weapon within 30ft, you 
 You run, climb, jump, swing, or springboard on your surroundings as part of your movement, granting advantage on an attack(or multi-attack) made that turn.
 
 ## Knight
+The royal blood of a fallen kingdom are neither noble, nor peasants. With no lords to serve, they instead raise their swords for good. Though not all knights have once-royal blood in their veins, they all swear an oath. Their oath is answered with supernatural power so long as it is kept. A party which needs to fight undead, demons, or wicked mortals is wise to recruit a knight to their ranks.
+
 ### At level 1
 #### Skills
 - Sword
@@ -547,20 +562,22 @@ You select a chalice and it turns silver, gleaming in the sunlight. You have a p
 #### Sword of Scales(Requires oath of Justice)
 You hold a non-magical sword up to the constellation of Libra and it becomes your sword of scales, making it a +1 sword. It shimmers silver in sunlight and deals an extra 2d6 damage against humanoids who are violent wrongdoers, including corrupt authorities.
 
-#### compel Truth(Requires Sword of Scales)
+#### Compel Truth(Requires Sword of Scales)
 Spend one grit and aim your sword at a creature, demanding they answer a question truthfully. Until you point your sword away, they cannot knowingly tell a lie. You may spend another grit and make a contested magic check to compel them to speak if they attempt to remain silent.
 
 #### Weapons Training
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
 
 ## Wizard
+The mages guild grants licenses for arcane magic to wizards. Though they are legitimate under iron law, wizards are widely feared and mistrusted from stories passed on since the latter days of the mage wars. It's a common belief that every wizard is secretly either a necromancers, placing curses, or might accidentally vaporize half of a village with their magic. A party which needs to read magical text, study arcane artifacts, and wield reality-bending powers is well-served by recruiting a wizard.
+
 ### At level 1
 
 #### Skills
 - Magic
 
 #### Wizard Education
-You received an education in magic from a licensed tutor, guild, or university, and as a result of graduating your training have a spellbook containing the spells you learned along the way. During each rest, you charge your book, allowing you to cast each leveled spell within it once drawing from the spellbook's stored magic. Your spellbook contains three spells:
+You receive an education in magic and gain a spellbook containing the spells you learned along the way. During each rest, you charge your book, allowing you to cast each leveled spell within it once drawing from the spellbook's stored magic. Your spellbook contains three spells:
 1. Fire Bolt(C), Cold Ray(C), Shocking Grasp(C), or Magic Missile(1st)
 2. Telepathy(C), Minor Illusion(C), Mage Hand(C), or Invisibility(1st)
 3. Disguise Self(1st), Shield(1st), Find Familiar(1st), or Whispered Spell(1st)
@@ -704,7 +721,7 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 
 
 ## Witch
-You work with the blessing of the threefold goddess. The Maiden threads the needle of life, the Mother pulls the thread, and the Crone severs it.
+You work with the blessing of the threefold goddess. The Maiden threads the needle of life, the Mother pulls the thread, and the Crone severs it. Some venture out to find witches with desperate need for their healing, while others carry superstitious fears any witch may sacrifice them to the Crone. A party who wishes to quickly recover from injuries and raise their fallen is well-served by recruiting a witch.
 
 ### At level 1
 
@@ -753,13 +770,13 @@ Every rest, you may meditate under the moon to bathe yourself in the Crone's mag
 ## Witch Spells
 
 ### Tears of Respite
-You shed tears onto the body of a creature who has died in the last minute, instantly bringing them back to life with 1 heart.
+You shed tears onto the body of a creature who has died in the last minute, instantly bringing it back to life with 1 heart.
 
 ### Sweet Song
-You sing a sweet melody to one creature within earshot, healing them for 3d6 hearts.
+You sing a sweet melody to one creature within earshot, healing it for 3d6 hearts.
 
 ### Shield of Innocence
-You focus on one creature you can see. So long as you use your action to maintain this spell and the target does not attack or cast spells, they gain 6 armor value.
+You focus on one creature you can see. So long as you use your action to maintain this spell and the target does not attack or cast spells, it gains 6 armor value.
 
 ### Flaming Locks
 You extend your arms and cry out. The air around you heats up and your hair turns fiery red. A blast of flame extends from your palms in a 15ft cone. Targets must save to halve 3d6 damage.
@@ -783,6 +800,7 @@ You make an unarmed attack in the form of a kiss. This attack automatically hits
 Your body appears to age and turn gaunt, the air around you growing chilly. All damage you take is subtracted from your heal pool. If an attacker is within 5ft of you, every heart taken from your heal pool is dealt to them as a damage. This spell ends when you rest or when your heal pool is exhausted.
 
 ## Alchemist
+Seen as possibly the most legitimate form of magic user, apothecaries are a common sight in larger cities, and their goods are peddled far and wide. It's a rarer breed of alchemist which adventurers, usually by teaching themself the art with makeshift equipment and whichever exotic ingredients they can salvage from fallen monsters and foraged wildlife. A party who wishes to remain well-stocked with a variety of potions at little expense is wise to recruit an alchemist.
 
 ### At level 1
 #### Skills
@@ -820,6 +838,7 @@ You may expend three brews to attempt a spell potion. Choose three different ing
 You gain proficiency in crossbows and hand crossbows.
 
 ## Priest
+Priests and priestesses speak and act in service of the Planets. Though the entire pantheon is well-known, some divine names are more welcome than others, or else beloved in one town and feared in another. A party which needs a highly flexible magic user is well-served by recruiting a priest.
 
 ### At level 1
 

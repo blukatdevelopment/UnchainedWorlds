@@ -920,7 +920,7 @@ Other names: bars, gold, shinies. Gold, silver, and other precious metals are pr
 - 15C Bullsyeye Lantern, 60ft cone, lasts 6 hours
 
 ## Weapons
-DMG = damage
+DMG = damage. 
 Crossbows require an action to reload.
 
 ### Ammo

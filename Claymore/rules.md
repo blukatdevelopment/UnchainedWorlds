@@ -432,8 +432,8 @@ Once per turn, you may spend a grit to shout one of the following commands, whic
 - Hold the line!: +D6 defending against melee attacks
 - Flank them!: Advantage to attack rolls when flanking.(ally on each side of enemy within 5ft)
 
-#### Mercenaries
-You may now directly command two contracted mercenaries in battle, provided they have an active contract with you. Demoralizing events such as losing half their hearts, witnessing an ally die, or witnessing a huge monster may trigger a morale check. You make a contested persuasion check against the mercenary. On a failure, the mercenary is routed and flees the battle. To recruit a mercenary, you pay a contract measured in weeks. Mercenaries are always loyal while under contract and passing their morale checks. The options for mercenary recruitment are given below.
+#### Mercenary Recruitment
+You may now directly command one contracted mercenary in battle, provided they have an active contract with you. Demoralizing events such as losing half their hearts, witnessing an ally die, or witnessing a huge monster may trigger a morale check. You make a contested persuasion check against the mercenary. On a failure, the mercenary is routed and flees the battle. To recruit a mercenary, you pay a contract measured in weeks. Mercenaries are always loyal while under contract and passing their morale checks. The options for mercenary recruitment are given below.
 
 ```
 Commoner

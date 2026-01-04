@@ -206,7 +206,7 @@ If you need help deciding, roll a D20 against this table.
 1-2. Thief
 3-4. Brute
 5-6. Ranger
-7-8. Warrior
+7-8. Commander
 9-10. Brawler
 11-12. Knight
 13-14. Wizard
@@ -283,7 +283,7 @@ Gain proficiency in a new skill, or expertise in a skill you already have. Exclu
 Gain D6 maximum hearts.
 
 #### Street Rat
-You have a keen eye for the illicit, and you're able to easily find the signs criminal contacts leave for their colleagues. If the black market is active around you, you will find it after investigating the locals for an hour. This includes(but is not limited to) fences, dealers, smugglers, informants, assassins, mercenaries, corrupt guards, and gangs.
+You have a keen eye for the illicit, and you're able to easily find the signs criminal contacts leave for their colleagues. If the black market is active around you, you will find it after investigating the locals for an hour. This includes(but is not limited to) fences, dealers, smugglers, informants, assassins, corrupt guards, and gangs.
 
 #### Rooftop Runner
 You now have expertise in acrobatics and take half the normal damage from falling.
@@ -406,8 +406,8 @@ You may dual wield daggers to perform a multi-attack with two attacks. You have 
 #### Weapons Training
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
 
-## Class: Warrior
-Trained in the art of war, the warrior actively shapes the battlefield through superior strategy and battle tactics. A party who wishes to win large battles, command a small force of hired swords, or outmaneuver a numerically superior enemy is wise to recruit a warrior in their ranks.
+## Class: Commander
+Trained in the art of war, the commander actively shapes the battlefield through superior strategy and battle tactics. A party who wishes to win large battles, command a small force of hired swords, or outmaneuver a numerically superior enemy is wise to recruit a commander in their ranks.
 
 ### At level 1
 #### Skills
@@ -426,25 +426,62 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Sentry: Until your next turn, you have three reactions for counter-attacks.
 
 #### Commands
-You may spend grit on the following commands, which effect allies in earshot until the start of your next turn.
-- Retreat: Double movement when retreating.
-- Charge: Advantage on attack rolls.
-- Fire: Max damage on ranged attacks.
-- Hold the line: +D6 defending against melee attacks
+Once per turn, you may spend a grit to shout one of the following commands, which effect allies in earshot until the start of your next turn.
+- Retreat!: Double movement when retreating.
+- Charge!: +D6 to on melee attack rolls.
+- Fire!: Max damage on ranged attacks(not spells).
+- Hold the line!: +D6 defending against melee attacks
+- Flank them!: Advantage to attack rolls when flanking.(ally on each side of enemy within 5ft)
+
+#### Mercenaries
+You may now directly command two contracted mercenaries in battle, provided they have an active contract with you. Demoralizing events such as losing half their hearts, witnessing an ally die, or witnessing a huge monster may trigger a morale check. You make a contested persuasion check against the mercenary. On a failure, the mercenary is routed and flees the battle. To recruit a mercenary, you pay a contract measured in weeks. Mercenaries are always loyal while under contract and passing their morale checks. The options for mercenary recruitment are given below.
+
+```
+Commoner
+10 Hearts
+0 Armor Value (clothes)
+Knife(D6 damage)
+Weekly Rate: 3.5 Coins
+
+Hunter
+10 Hearts
+1 Armor Value (Leather)
+Bow and 20 arrows(2d6 damage, proficient)
+Skills
+- Perception
+- Stealth
+- Survival
+Knife(D6 damage, proficient)
+Weekly Rate: 7 Coins
+
+Soldier
+15 Hearts
+2 Armor Value (Shield)
+Sword (2d6 damage, proficient)
+Skills
+- Athletics
+- Animal Handling
+- Survival
+Weekly Rate: 10.5 Coins
+
+Veteran
+20 HP
+2 Armor Value (Chain)
+Skills
+- Athletics
+- Animal Handling
+- Survival
+Claymore(3d6 damage, proficient)
+Crossbow and 20 bolts(3d6 damage, proficient)
+Weekly Rate: 21 Coins
+```
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
-```
-2-3:    Class ability
-4-5:    +D6 Hearts
-6-9:    +3 Grit
-10-12:  General ability 
-```
-
-### Class Abilities
-
-#### Weapons Training
-Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
+Pick one of the following
+- 2d6 HP
+- 2d6 Grit
+- D6 grit + D6 HP
+- You may recruit one additional mercenary
 
 ## Class: Brawler
 It's said the heart of some are touched by the icy fingers of the Crone. It's believed their intuitions extend a hair into the future, which is the only explanation for their reaction times. Whatever the truth may be, the brawler is a blur of fists and claws in combat. Weapons and armor only slow the brawler down, and so they forego them. A party which needs a plain clothes assassin, scout, or stealthy frontliner is wise to recruit a brawler.  

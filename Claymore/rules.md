@@ -411,8 +411,7 @@ Trained in the art of war, the commander actively shapes the battlefield through
 
 ### At level 1
 #### Skills
-- Swords
-- Crossbows
+- All weapons
 - Athletics
 - Intimidation
 - Persuasion

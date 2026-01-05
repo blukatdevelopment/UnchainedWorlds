@@ -1073,6 +1073,7 @@ These prices reflect a shopping trip to a major city's markets.
 - 3T 10ft Ladder
 - 3T Basket
 - 3T hairbrush
+- 1C Glass Vial
 - 1C Shovel
 - 1C Pickaxe
 - 1C Crowbar

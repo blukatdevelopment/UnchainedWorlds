@@ -968,7 +968,7 @@ Crossbows require an action to reload.
 - Rock
 - 1T Sling
 - 1C Boomerang
-- 1C Blowdart
+- 1C Blowgun
 
 ### D6DMG
 - 1SP Club

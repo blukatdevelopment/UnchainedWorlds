@@ -500,6 +500,9 @@ You have 3 grit, which recovers on a rest. You may spend grit on the stances bel
 - Reactive Stance: For the next minute, you have 3 reactions each turn.
 - Defensive Stance: For the next minute, you have a D6 bonus defending against attacks.
 
+#### Brawling Proficiency
+Your unarmed attacks deal D6 damage. When making unarmed attacks, you may instead multi-attack a single target with three attacks. When you counter-attack, you may instead instantly grapple the target. These effects are lost when wearing armor.
+
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
@@ -508,9 +511,6 @@ Roll twice on the table below for a random boon.
 6-9:  +D6 grit
 10-12:  General ability
 ```
-
-#### Brawling Proficiency
-Your unarmed attacks deal D6 damage. When making unarmed attacks, you may instead multi-attack a single target with three attacks. When you counter-attack, you may instead instantly grapple the target. These effects are lost when wearing armor.
 
 ### Class Abilities
 
@@ -873,6 +873,29 @@ You may expend three brews to attempt a spell potion. Choose three different ing
 #### Marksmanship
 You gain proficiency in crossbows and hand crossbows.
 
+### Common ingredients
+When shopping, roll on this table three times for a selection of ingredients. The price of each ingredient is D6 trinkets, rolled separately.
+1. Lavender
+2. Mugwort
+3. Sage
+4. Rosemary
+5. Thyme
+6. Chamomile
+7. Mint
+8. Lemon Balm
+9. Valerian
+10. Wormwood
+11. Vervain
+12. Rose petals
+13. Bay leaf
+14. Rue
+15. Elderleaf
+16. Juniper Berries
+17. 
+18. 
+19. 
+20. 
+
 ## Class: Priest
 Priests and priestesses speak and act in service of the Planets. Though the entire pantheon is well-known, some divine names are more welcome than others, or else beloved in one town and feared in another. A party which needs a highly flexible magic user is well-served by recruiting a priest.
 
@@ -1057,15 +1080,10 @@ These prices reflect a shopping trip to a major city's markets.
 - 5C Survival manual(half-proficiency with survival)
 
 ### Misc
-- 1T Nail
 - 1T 10ft Pole
-- 1T Incense
 - 1T Whetstone
-- 1T Chalk Stick
-- 1T Pouch of pepper
 - 1T 10 wooden clothes pegs
 - 1T Skein of yarn
-- 1T Soap bar
 - 2T Piton
 - 2T Wood Whistle
 - 3T Flint and steel
@@ -1073,6 +1091,8 @@ These prices reflect a shopping trip to a major city's markets.
 - 3T 10ft Ladder
 - 3T Basket
 - 3T hairbrush
+- 3T Abacus
+- 5T Dog collar
 - 1C Glass Vial
 - 1C Shovel
 - 1C Pickaxe
@@ -1094,3 +1114,106 @@ These prices reflect a shopping trip to a major city's markets.
 - 5C Bottle of fine wine
 - 5C Chest: eight gallons
 - 5C Merchant's kit: scales, Guild charter handbook, Guild hall map
+
+Random Trinket Table
+If you find yourself in a pinch, you may wish to open your purse and examine the trinkets to see if they may be useful. 
+1. Nail
+2. Pouch of pepper
+3. Bone chance cube
+4. Clay animal figure
+5. Ball of wax
+6. Sewing needle
+7. Thimble
+8. Wood Spoon
+9. Tin Fork
+10. Steel Butter knife
+11. Ball of string
+12. Scrap of leather
+13. Quill Pen
+14. Chalk Stick
+15. Soap Bar
+16. Bag of incense
+17. Sea Shell
+18. Charcoal Stick
+19. Paint brush
+20. Monster talon
+21. Monster fang
+22. Pouch of vegetable seeds
+23. Wood Comb
+24. 2ft copper jewelry wire
+25. Dog treat
+26. Pouch of white sand
+27. Amber piece
+28. Monster scale
+29. Clay holy symbol
+30. Wooden coin
+31. Tiny Lodestone
+32. Tin Measuring Cup
+33. 
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
+47. 
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
+57. 
+58. 
+59. 
+60. 
+61. 
+62. 
+63. 
+64. 
+65. 
+66. 
+67. 
+68. 
+69. 
+70. 
+71. 
+72. 
+73. 
+74. 
+75. 
+76. 
+77. 
+78. 
+79. 
+80. 
+81. 
+82. 
+83. 
+84. 
+85. 
+86. 
+87. 
+88. 
+89. 
+90. 
+91. 
+92. 
+93. 
+94. 
+95. 
+96. 
+97. 
+98. 
+99. 
+100. 

@@ -891,10 +891,10 @@ When shopping, roll on this table three times for a selection of ingredients. Th
 14. Rue
 15. Elderleaf
 16. Juniper Berries
-17. 
-18. 
-19. 
-20. 
+17. Monster Talon
+18. Monster Fang
+19. Chicken foot
+20. Ram horn
 
 ## Class: Priest
 Priests and priestesses speak and act in service of the Planets. Though the entire pantheon is well-known, some divine names are more welcome than others, or else beloved in one town and feared in another. A party which needs a highly flexible magic user is well-served by recruiting a priest.

@@ -956,7 +956,9 @@ Roll twice on the table below for a random boon.
 # Gear
 
 ## Currency
-1 Bar = 100 Coins = 1,000 Trin = 10,000 Saltpounds
+1 Bar = 100 Coins
+1 Coin = 10 Trin
+1 Trin = 10 salt pounds
 
 ### Saltpound(SP)
 Other names: salt or pounds. Each salt pound is a literal pound of salt, an essential commodity which peasant farmers cannot themselves produce, and which coastal cities produce in great abundance. While the tiny economies of villages may rely on the saltpound, only salt traders in towns and cities will accept salt as payment.

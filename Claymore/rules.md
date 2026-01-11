@@ -661,7 +661,7 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 3. Shape Fire(C): You move, extinguish, grow, or sculpt a flame that fits within a 5ft cube.
 4. Burning Hands (1st): You create a 15ft cone of flame from your palms. Creatures must save to halve damage.
 5. Scorching Ray(2nd): You fire a ray of flame from each palm. Each ray deals damage separately, stacking.
-6. Fireball(3rd): You shoot a pea-sized bolt of fire from your index finger which explodes into a 30ft diameter fireball. Creatures must save to halve damage. 
+6. Fireball(3rd): You shoot a pea-sized bolt of fire from your index finger which explodes into a 60ft diameter fireball. Creatures must save to halve damage. 
 
 ### 2 Water Magic
 1. Cold Ray(C): You produce a ray of freezing energy from your index finger, which can freeze up to a 10ft cube of water into ice. Targets you hit must save to avoid having the effected area encased in ice.
@@ -689,7 +689,7 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 
 ### 5 Force Magic
 1. Shield(1st): Until the start of your next turn, you have 12 armor value.
-2. Magic Missile(1st): Fire 3 spectral darts that always hit. Each dart deals separate damage, which stack together if sharing the same target.
+2. Magic Missile(1st): Fire 3 spectral darts that always hit. Each dart deals D6 damage, stacking if darts share a target.
 3. Mage Armor(1st): Create a magical barrier around yourself that has 2 armor value and 10 durability value. Mage armor prevents you from getting wet in the rain or when splashed with water.
 4. Telekinesis(2nd): Lift an object up to 300ft. May use to grapple a creature, who may save to resist the spell.
 5. Tiny Hut(3rd): Create a half-submerged sphere of force 10ft in diameter centered on the caster, which lasts for 8 hours. The magic barrier allows air to pass through and may be shattered by a single attack dealing 50 or more damage.

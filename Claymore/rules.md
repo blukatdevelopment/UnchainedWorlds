@@ -620,10 +620,10 @@ You receive an education in magic and gain a spellbook containing the spells you
 
 #### Wizard Spellcasting
 You may cast spells you learn from the wizard spell list. Cantrips are trivial spells and can be cast at will by pointing the index finger. All other spells require the caster to hold either their spellbook or wand in order to cast, and the caster must speak the spell's name to cast it this way. Damage dealt to targets is generally capped by the spell's level.
-- C(antrip): 2DMG
-- 1st: D6 DMG
-- 2nd: 3d6 DMG
-- 3rd: 6d6 DMG
+- C(antrip): D6MG
+- 1st: 3d6 DMG
+- 2nd: 6d6 DMG
+- 3rd: 12d6 DMG
 
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
@@ -717,7 +717,7 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 3. Cloud of Daggers(2nd): Create a cloud of flying daggers that fit within a 10ft cube for 1 hour and stab any creature that enters the cube, which must save to halve damage.
 4. Conjure Shadow(2nd): you create a shadow beast(8d6 hearts, 2d6 damage) that lasts for one hour and immediately dissipates if shined with bright light.
 5. Black Tentacles(2nd): A portal opens and up to six tentacles pull creatures targets within 30ft. The tentacles suck the life from anything they touch. Targets must save to avoid taking damage and being dragged 15ft. The portal closes after 3 rounds, capturing any targets within.
-6. Teleport(3rd): Make a DC5 magic check. On a success, up to 10 willing targets(including yourself if you wish) standing together teleport to a location you have already visited. On a failure, there is a momentary ripple in the air and each target takes damage.
+6. Teleport(3rd): Make a DC5 magic check. On a success, up to 10 willing targets(including yourself if you wish) standing together teleport to a location you have already visited. On a failure, there is temporary ripple in space and each target takes 4d6 damage.
 
 ### 9 Alteration Magic
 1. Invisibility(1st): Touch a creature, turning them invisible for one hour. Ends early if creature attacks or casts a spell.
@@ -1081,9 +1081,7 @@ These prices reflect a shopping trip to a major city's markets.
 
 ### Misc
 - 1T 10ft Pole
-- 1T Whetstone
 - 1T 10 wooden clothes pegs
-- 1T Skein of yarn
 - 2T Piton
 - 2T Wood Whistle
 - 3T Flint and steel
@@ -1114,12 +1112,13 @@ These prices reflect a shopping trip to a major city's markets.
 - 5C Bottle of fine wine
 - 5C Chest: eight gallons
 - 5C Merchant's kit: scales, Guild charter handbook, Guild hall map
+- 10C Bottle of strong spirits
 
 Random Trinket Table
 If you find yourself in a pinch, you may wish to open your purse and examine the trinkets to see if they may be useful. 
 1. Nail
 2. Pouch of pepper
-3. Bone chance cube
+3. Bone number cube
 4. Clay animal figure
 5. Ball of wax
 6. Sewing needle
@@ -1149,48 +1148,48 @@ If you find yourself in a pinch, you may wish to open your purse and examine the
 30. Wooden coin
 31. Tiny Lodestone
 32. Tin Measuring Cup
-33. 
-34. 
-35. 
-36. 
-37. 
-38. 
-39. 
-40. 
-41. 
-42. 
+33. Tiny copper knife
+34. Exotic feather
+35. Colorful Snail shell
+36. Waxed envelope
+37. Ration biscuit
+38. Ration Jerky
+39. Clay jar with lid
+40. Glass marble
+41. Wooden pipe
+42. pouch of tobacco
 43. 
-44. 
-45. 
-46. 
-47. 
-48. 
-49. 
-50. 
-51. 
-52. 
-53. 
-54. 
-55. 
-56. 
-57. 
-58. 
-59. 
-60. 
-61. 
+44. Whittled toy soldier
+45. Whittled holy symbol
+46. Wooden number cube
+47. Bone Signal whistle
+48. Clay Vial of grease
+49. Clay Vial of resin
+50. Clay Vial of red ink
+51. Clay Vial of salve
+52. Clay Vial of glue
+53. Clay Vial of rust powder
+54. Clay Vial of iron ore
+55. Clay Vial of mustard
+56. Clay Vial of mushroom ketchup
+57. Clay Vial of strong spirits
+58. Clay Vial of rose molasses
+59. Clay Vial of flax oil
+60. Clay Vial of black ink
+61. Clay Vial of 
 62. 
 63. 
 64. 
-65. 
-66. 
-67. 
-68. 
-69. 
-70. 
+65. Whetstone
+66. 3 inch iron in
+67. Skein of yarn
+68. Waxed box of tinder
+69. Small tin container
+70. Rag 
 71. 
-72. 
-73. 
-74. 
+72. Wool socks
+73. Wool hat
+74. Wool mittens
 75. 
 76. 
 77. 

@@ -52,8 +52,22 @@ When an adventurer hits 0 hit points, they may make a death saving throw to avoi
 ## Attacks
 An attacker and defender both roll a D20. If the attacker succeeds, they deal damage to the defender. If the attacker fails, the defender has a chance to counter-attack if they are within range and have a weapon in-hand. Some adventurers may make multi-attacks. A multi-attack involves rolling a separate D20 for each attack, and allowing the defender to roll one D20 against all of them. A defender can only counter-attack against a multi-attack if all attacks fail. Damage is rolled in D6s.
 
-## Natural Healing From Rest
-Sleeping for eight hours heals an adventurer 1HP. A day of bed rest instead heals 3HP.
+## Physical needs and rest
+### Rest
+During the downtime between adventures, an adventurer generally heals completely.
+When on an adventure, an adventurer can regain 1HP by resting in a comfortable bed roll or bed, and can regain 3HP by spending a day in bed rest.
+A rest consists of 8 hours of sleep, after which an adventurer recovers class resources such as grit.
+
+### Water
+When venturing across the overworld, having a water skin that can be refilled at streams suffices for water.
+Inside a dungeon, an adventurer requires 1 gallon of water (two waterskins) per day, and must find water sources to refresh.
+A dehydrated adventurer loses HP each day. The number lost starts at 3HP, and doubles for each consecutive day without water. (3, 6, 12, 24, 48) Few adventurers can survive past three days without water.
+
+### Food
+An adventurer needs to eat 2lbs of food each day to sustain themselves. Failing this, the adventurer gains a -1 penalty to all D20 rolls which increases each day without food. Eating a meal or spending 1 grit reduces the penalty by 1.
+
+### Sleep
+An adventurer needs to sleep 8 hours each night, or else they become exhausted. After the first night of rest skipped, they gain a -2 penalty to all D20 rolls. After the second night, the adventurer must make a DC5 check each hour to resist falling asleep where they stand. An adventurer can spend 1 grit to automatically pass a check.
 
 # Ancestry
 To determine your adventurer's physical appearance, choose or roll for their ancestry. Roll a D6 for the tens place and another D6 for the ones place on the table below.
@@ -371,6 +385,7 @@ For many, hunting is a matter of trade and survival. For the ranger, the hunt is
 #### Skills
 - Daggers
 - Bows
+- Crossbows
 - Athletics
 - Stealth
 - Perception

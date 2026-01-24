@@ -931,6 +931,7 @@ Roll twice on the table below for a random boon.
 ```
 
 ### Names
+```
 11. Fortune
 12. Light
 13. Shadow
@@ -967,6 +968,7 @@ Roll twice on the table below for a random boon.
 64. Summer
 65. Autumn
 66. Winter
+```
 
 # Gear
 

@@ -283,6 +283,7 @@ You have 3 grit, which recovers on a rest. You may spend it on the following opt
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-5:  Class ability
 6-8:  +D6 grit
 9-12:  General ability
@@ -350,6 +351,7 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-4:  Class ability
 5-9:   +D6+1 HP
 10-12:  General ability 
@@ -401,6 +403,7 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-3:   Class ability
 4-5:   +D6 Hearts
 6-8:   +3 Grit
@@ -521,6 +524,7 @@ Your unarmed attacks deal D6 damage. When making unarmed attacks, you may instea
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-4:  Class ability
 5:    +D6 HP
 6-9:  +D6 grit
@@ -572,6 +576,7 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-4:  Class ability
 5-6:  +D6 grit
 7-9:  +2 Hearts
@@ -643,6 +648,7 @@ You may cast spells you learn from the wizard spell list. Cantrips are trivial s
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-5:    Class Ability 
 5-10:   Choose Between Two Random Spells To Learn
 11-12:  General Ability
@@ -796,6 +802,7 @@ Every rest, you may mix ingredients into a potion and perform a magic ritual tha
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-3:  Class ability
 4-5:  +2 Spirit points
 6-9:  +5 hearts to heal pool
@@ -866,6 +873,7 @@ You start with three brews per rest. During a rest, you may expend a brew and at
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-8:  Class Ability
 9-10:  +1 Brews per rest
 11-12:  General ability
@@ -922,6 +930,7 @@ You have 7 soul points, which recover on a rest. You learn 3 random names. Using
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
+Boons table(2d6)
 2-4:  New name
 5:  +1d6+1 soul points
 6-8:  2 soul points

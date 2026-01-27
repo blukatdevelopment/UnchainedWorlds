@@ -237,7 +237,7 @@ You may now fly at the same speed you walk.
 ### Claw proficiency(Requires claws)
 You train to use your claws more effectively. You may now climb at the same speed you walk. You are proficient with your claws, which deal 2d6 damage.
 
-### Jaws proficiency(Requires with fangs)
+### Jaws proficiency(Requires fangs)
 You train to use your jaws more effectively. You are proficient with your jaws, which now deal D6 damage and automatically grapple on a hit. If you have surprise when attacking with your jaws, they deal 3d6 damage.
 
 ### Night eyes(Requires nocturnal vision)
@@ -281,7 +281,7 @@ You have 3 grit, which recovers on a rest. You may spend it on the following opt
 - Hide: Attempt to hide without using an action.
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-5:  Class ability
@@ -349,7 +349,7 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Rage(2 grit): Until you end your turn without taking damage or making an attack, incoming attack damage is halved. Rage grants advantage on athletics checks.
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-4:  Class ability
@@ -401,7 +401,7 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Overwatch: Until your next turn, make up to three ranged attacks at creatures that move within line of sight.
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-3:   Class ability
@@ -522,7 +522,7 @@ You have 3 grit, which recovers on a rest. You may spend grit on the stances bel
 Your unarmed attacks deal D6 damage. When making unarmed attacks, you may instead multi-attack a single target with three attacks. When you counter-attack, you may instead instantly grapple the target. These effects are lost when wearing armor.
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-4:  Class ability
@@ -580,7 +580,7 @@ Make an oath, which grants you magical powers such as smite and serves as your g
 - Justice: I will right the world's wrongs, or die trying.
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-4:  Class ability
@@ -646,7 +646,7 @@ You may cast spells you learn from the wizard spell list. Cantrips are trivial s
 - 3rd: 12d6 DMG
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-5:    Class Ability 
@@ -800,7 +800,7 @@ A witch typically awakens in childhood when she first attunes to her heart and h
 Every rest, you may mix ingredients into a potion and perform a magic ritual that grants you a pool of 10 hearts, your heal pool. You may expend 1 or more and touch a creature to heal it that many hearts.
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-3:  Class ability
@@ -871,7 +871,7 @@ You may spend an hour in nature gathering wild alchemical ingredients. Make an a
 You start with three brews per rest. During a rest, you may expend a brew and attempt to create a potion, provided you have brewing equipment and containers to fill. Describe the desired effect of the potion incorporating on one or more ingredients consumed by the brew process, negotiating a DC with the keeper. Once you agree on a potion effect, ingredients, and a DC, make an alchemy check against that DC. On a success, you brew the potion as described. A potion can be used to coat up to ten sharp weapons, which will dry up after being used on a target, or after a minute of being applied.
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-8:  Class Ability
@@ -896,44 +896,21 @@ You may expend three brews to attempt a spell potion. Choose three different ing
 #### Marksmanship
 You gain proficiency in crossbows and hand crossbows.
 
-### Common ingredients
-When shopping, roll on this table three times for a selection of ingredients. The price of each ingredient is D6 trinkets, rolled separately.
-1. Lavender
-2. Mugwort
-3. Sage
-4. Rosemary
-5. Thyme
-6. Chamomile
-7. Mint
-8. Lemon Balm
-9. Valerian
-10. Wormwood
-11. Vervain
-12. Rose petals
-13. Bay leaf
-14. Rue
-15. Elderleaf
-16. Juniper Berries
-17. Monster Talon
-18. Monster Fang
-19. Chicken foot
-20. Ram horn
-
 ## Class: Priest
 Priests and priestesses speak and act in service of the Planets. Though the entire pantheon is well-known, some divine names are more welcome than others, or else beloved in one town and feared in another. A party which needs a highly flexible magic user is well-served by recruiting a priest.
 
 ### At level 1
 
 #### Astro Magic
-You have 7 soul points, which recover on a rest. You learn 3 random names. Using the names you know, you may craft spells, negotiating the cost with the keeper. Each time you create a spell, the cost may change.
+You have 7 spirit points, which recover on a rest. You learn 3 random names. Using the names you know, you may craft spells, negotiating the cost with the keeper. Each time you create a spell, the cost may change.
 
 ### At level 2 and higher
-Roll twice on the table below for a random boon.
+Roll twice on the table below for a total of two new boons.
 ```
 Boons table(2d6)
 2-4:  New name
-5:  +1d6+1 soul points
-6-8:  2 soul points
+5:  +1d6+1 spirit points
+6-8:  +2 spirit points
 9:  +1 HP
 10:  +D6 HP
 11-12:  General ability

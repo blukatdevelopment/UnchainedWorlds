@@ -985,6 +985,10 @@ Boons table(2d6)
 1 Bar = 100 Coins
 1 Coin = 10 Trin
 1 Trin = 10 salt pounds
+Another way to look at it
+1 bar = 100 Coins
+1 trin = 0.1 Coins
+1 pound = 0.01 Coins.
 
 ### Saltpound(SP)
 Other names: salt or pounds. Each salt pound is a literal pound of salt, an essential commodity which peasant farmers cannot themselves produce, and which coastal cities produce in great abundance. While the tiny economies of villages may rely on the saltpound, only salt traders in towns and cities will accept salt as payment.
@@ -993,7 +997,7 @@ Other names: salt or pounds. Each salt pound is a literal pound of salt, an esse
 Other names: trin. A trinket is a small commodity item such as a nail, needle, thimble, spoon, ball of yarn, herbal packet, monster Trin, or hardtack biscuit. There is an unwritten rule among peasants that any commodity item is worth at least one trin, but more valuable ones can be fairly haggled to multiple trin. Trin is common among peasants, outlanders, and poorer cityfolk, but merchants selling more expensive goods will often insist upon trading in coin, rounding up.
 
 ### Coin(C)
-Other names: crowns, imperial. For untold centuries the empire has minted coins with the faces of the presiding emperors on them, earning them the nickname of crowns. All imperial taxes are collected in coin.
+Other names: crowns, imperial. For untold centuries the empire has minted coins with the faces of the presiding emperors on them, earning them the nickname of crowns. All imperial taxes are collected in coin. Coins are typically made from bronze, brass, nickel, or other non-precious metals, relying on the empire to back their value.
 
 ### Bars(B)
 Other names: bars, gold, shinies. Gold, silver, and other precious metals are pressed into bars, sized for equal trade value. While the life savings of a whole village may be only a few coins, fine jewelery, clothing, ships, and arcane items are traded with bars.
@@ -1005,6 +1009,18 @@ Other names: bars, gold, shinies. Gold, silver, and other precious metals are pr
 - 5C Lamp, 15ft radius, lasts 6 hours
 - 15C Hooded Lantern, 30ft radius, lasts 6 hours
 - 15C Bullsyeye Lantern, 60ft cone, lasts 6 hours
+
+## Beasts of burden
+- 25C Mule/Donkey/Pony(Pulls vehicles)(15HP, 2d6)
+- 50C Battle Bird (Seats 1)(15HP, 2d6)
+- 75C War horse(Seats 2)(15HP, 2d6)
+
+## Vehicles
+- 25C Two-wheeled cart(Seats 1 or carries cargo)
+- 50C Charriot(Seats 1)
+- 75C Four-wheeled wagon(seats 8)
+- 100C Carriage(seats 2 on front, 4 inside)
+- 200C Ballista Cart(30HP, 8d6 damage, crew of 3 needed, one turn reload)
 
 ## Weapons
 DMG = damage. 
@@ -1028,7 +1044,6 @@ Crossbows require an action to reload.
 - 7T Whip
 - 1C Hammer
 - 2C Knife/Dagger
-- 75C Hand Crossbow
 
 ### 2d6DMG
 - 5T Flint Spear
@@ -1039,6 +1054,7 @@ Crossbows require an action to reload.
 - 10C Mace 10C
 - 20C Halberd 20C
 - 25C Shortbow
+- 75C Hand Crossbow
 
 ### 3d6DMG
 - 1C Greatclub
@@ -1056,8 +1072,8 @@ AV = armor value = flat damage reduction
 DV = durability value = number of hits armor can take before breaking
 
 ### Clothes(0AV)
-- 5SP Simple tunic or dress
-- 5SP Purse: half a pint, fixed to belt or backpack
+- 2T Purse: half a pint, fixed to belt or backpack
+- 2T Simple tunic or dress
 - 1C Town clothes: shoes, socks, trousers, shirt
 - 3C Traveler clothes: boots, stockings, sturdy pants, and winter coat
 - 10C Fine clothes: pointed shoes, stockings, puffy pants, dress shirt, dress coat
@@ -1088,7 +1104,7 @@ These prices reflect a shopping trip to a major city's markets.
 
 ### Travel Gear
 - 1SP Fresh Ration(5 day shelf life): bread, cheese, vegetables, meat
-- 5T Iron Ration(shelf stable): hardtack biscuits, jerky, and potted meat
+- 5T Iron Ration(shelf stable): standard imperial 2lb military ration. Watertight sack containing some combination of hard biscuits, dried fruit, nuts, fruit preserves, jerky, sausage, hard cheese, and potted meat.
 - 1T Wineskin of Cheap wine
 - 1SP Clay jar: one pint
 - 5SP Waterskin: two quarts
@@ -1108,14 +1124,14 @@ These prices reflect a shopping trip to a major city's markets.
 - 5C Survival manual(half-proficiency with survival)
 
 ### Misc
+- 1SP 20lb sack of feed(one day ration for mounts)
 - 1T 10ft Pole
-- 1T 10 wooden clothes pegs
 - 2T Piton
-- 2T Wood Whistle
+- 2T Drone Flute
 - 3T Flint and steel
 - 3T Block and Tackle
 - 3T 10ft Ladder
-- 3T Basket
+- 3T Large Basket
 - 3T hairbrush
 - 3T Abacus
 - 5T Dog collar
@@ -1128,119 +1144,145 @@ These prices reflect a shopping trip to a major city's markets.
 - 1C 50ft Rope
 - 1C Wooden Bucket
 - 1C Stuffed animal
+- 1C Drum
 - 2C Hunting Trap
 - 2C 10ft Chain
 - 2C Portable Ram
 - 5C Healer's Kit (10 charges, D6 Hearts, won't heal past half max hearts)
+- 5C Alembic, Calcinator, Retort, or Mortar & Pestle
 - 5C Grappling Hook
 - 5C Manacles
 - 5C Steel Mirror
 - 5C Bell
-- 5C perfume
-- 5C Bottle of fine wine
+- 5C Fine Perfume
+- 5C Bottle of Fine wine
 - 5C Chest: eight gallons
 - 5C Merchant's kit: scales, Guild charter handbook, Guild hall map
 - 10C Bottle of strong spirits
+- 20C Brass Horn
+- 30C Lute, Viola, Dulcimer, or Hurdy-Gurdy
 
-Random Trinket Table
-If you find yourself in a pinch, you may wish to open your purse and examine the trinkets to see if they may be useful. 
-1. Nail
-2. Pouch of pepper
-3. Bone number cube
-4. Clay animal figure
-5. Ball of wax
-6. Sewing needle
-7. Thimble
-8. Wood Spoon
-9. Tin Fork
-10. Steel Butter knife
-11. Ball of string
-12. Scrap of leather
-13. Quill Pen
-14. Chalk Stick
-15. Soap Bar
-16. Bag of incense
-17. Sea Shell
-18. Charcoal Stick
-19. Paint brush
-20. Monster talon
-21. Monster fang
-22. Pouch of vegetable seeds
-23. Wood Comb
-24. 2ft copper jewelry wire
-25. Dog treat
-26. Pouch of white sand
-27. Amber piece
-28. Monster scale
-29. Clay holy symbol
-30. Wooden coin
-31. Tiny Lodestone
-32. Tin Measuring Cup
-33. Tiny copper knife
-34. Exotic feather
-35. Colorful Snail shell
-36. Waxed envelope
-37. Ration biscuit
-38. Ration Jerky
-39. Clay jar with lid
-40. Glass marble
-41. Wooden pipe
-42. pouch of tobacco
-43. 
-44. Whittled toy soldier
-45. Whittled holy symbol
-46. Wooden number cube
-47. Bone Signal whistle
-48. Clay Vial of grease
-49. Clay Vial of resin
-50. Clay Vial of red ink
-51. Clay Vial of salve
-52. Clay Vial of glue
-53. Clay Vial of rust powder
-54. Clay Vial of iron ore
-55. Clay Vial of mustard
-56. Clay Vial of mushroom ketchup
-57. Clay Vial of strong spirits
-58. Clay Vial of rose molasses
-59. Clay Vial of flax oil
-60. Clay Vial of black ink
-61. Clay Vial of 
-62. 
-63. 
-64. 
-65. Whetstone
-66. 3 inch iron in
-67. Skein of yarn
-68. Waxed box of tinder
-69. Small tin container
-70. Rag 
-71. 
-72. Wool socks
-73. Wool hat
-74. Wool mittens
-75. 
-76. 
-77. 
-78. 
-79. 
-80. 
-81. 
-82. 
-83. 
-84. 
-85. 
-86. 
-87. 
-88. 
-89. 
-90. 
-91. 
-92. 
-93. 
-94. 
-95. 
-96. 
-97. 
-98. 
-99. 
-100. 
+
+
+### Random Trinket Table
+If you find yourself in a pinch, you may wish to open your purse and examine the trinkets you are carrying to see if they may be useful to you. Some of these trinkets might be haggled for more than 1 trin, but typical markets will never value them at less than 1 trin.
+1. Spoon(Bronze, Copper, Wood, Bone)
+2. Fork(Bronze, Iron, Steel, Bone)
+3. Butter knife(Wood, Bone, Copper, Bronze, Iron, Steel)
+4. Soap Bar
+5. Measuring Cup(Wood, Tin, Copper)
+6. Tiny Whittling/Filet Knife(Copper, Bronze, Iron, Steel)
+7. Chipped cup(Clay, Wood, Bone, Tin)
+8. Small Crude Bowl(Clay, Wood, Bone, Tin)
+9. Small Crude Plate(Clay, Wood, Bone, Tin)
+10. Ball of Fiber(String, Twine, Yarn)
+11. Ball of Wax
+12. Sewing needle(Bone, Iron, Steel)
+13. Thimble(Wood, Tin)
+14. Tiny ingot(copper, Tin, Bronze, Iron)
+15. Polished Button(Wood, Bone, Bronze)
+16. Whetstone
+17. Spool(Wood, Bone, Tin)
+18. String of Beads(Clay, Wooden)
+19. Fine Glass bead(Red, Blue, Green, Yellow, Orange)
+20. Bundle of Candle Wicks(1d6+4)
+21. Bundle of wooden clothes pegs(1d6+4)
+22. Buckle(Bone, Wood, Copper, Bronze, Iron, Steel)
+23. Scrap of Cloth(Linen, Silk, Lace)
+24. Clay Vial of Holy Water
+25. Clay vial(Glue, Grease)
+26. Clay vial(Flax Oil, Resin, Wood Alcohol)
+27. 1lb Bonemeal Pouch
+28. Monster Part(Talon, Fang, Scale, Horn, Feather, Bone)
+29. Clay Vial(Hemlock, Wolfsbane, Foxglove)
+30. Beastfolk Left Ear with Imperial Brand
+31. Dead Nature Sprite(Grass, Bug, Flower, Pebble, Frost, Ember)
+32. Lock Pick
+33. Bone Toy(Number Cube, Animal, Domino, Chess Piece)
+34. Wooden Toy(Top, Whirlygig, Animal, 2d6 Blocks, Doll)
+35. Bag of 2d6+4 Stone marbles
+36. Painted Clay Figure(Knight, Prince/Princess, Witch, Monster, Wizard, Dragon)
+37. Small Flute(Clay, Wood, Bone)
+38. Quill Pen
+39. Writing stick(Chalk, Charcoal, Lead)
+40. Painting Pallete
+41. Horse Hair Paint brush
+42. Scrap of paper or Parchment
+43. Clay Vial of Ink(Black, Red, Indigo, Yellow)
+44. Comb(Wood, Bone, Bronze, Iron, Steel)
+45. 2ft copper wire
+46. Incense(packet, cone, stick)
+47. Iron Holy Pendant(Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, The Maiden, The Mother, The Crone)
+48. Challenge coin(Wood, Bone, Bronze, Iron, Steel)
+49. Pipe(Wood, Bone, Copper)
+50. Packet of Devil's Herb
+51. Devil's Shroom
+52. Clay Vial of Poppy's Tears
+53. Cork
+54. Tiny Brass Bell
+55. Packet of dried berries(elderberry, hawthorn, juniper)
+56. Herb Packet(Sage, Rosemary, Thyme, Catnip, Comfrey, Elderleaf)
+57. Chunk of Willow Bark
+58. Dried Burdock Root
+59. Clay vial(Soft Soap, Rose Water, Musk)
+60. Clay vial of Tincture(Mint, Lemon, Vanilla, Medicinal Blend)
+61. Tiny Watertight Box(Wood, Tin)
+62. Packet of Black Pepper
+63. Dried Fire Pepper
+64. Travel Snack(Hard Biscuit, Chunk of Jerky, Hunter Sausage, Hunk of Hard Cheese)
+65. Boiled sweet(Strawberry, Blueberry, Rose, Lemon, Orange, Peppermint)
+66. Packet of Imported Spice(Yellow, Red, Orange, Green)
+67. Packet of Dried mushrooms
+68. Citrus Peels(Lemon, Orange, Lime)
+69. Packet of dry fruit(Apples, Pears, Currants, Cranberries, Raisins, Cherries)
+70. Clay Jar of Fruit Preserves(Strawberry, Blackberry, Queen's Jam, Cranberries, Marmalade, )
+71. Clay vial(Mustard, Mushroom Ketchup, Molasses, Vinegar)
+72. Nail(Bronze, Iron, Steel)
+73. Pouch of Seeds(Vegetable, Fruit, Herb, Spice, Flax)
+74. Fishing Hook(Bone, Bronze, Steel)
+75. Small tinderbox containing charcloth, fatwood, and tinder(10 uses)
+76. Sulfur Match
+77. Shell(Snail, Crab, Clam, Scallop, Conch, Oyster)
+78. Packet of Hot White Sand
+79. Bones(Chicken, Lizard, Wolf)
+80. Ram's Horn
+81. Chunk of Antler
+82. Clump of Ore(Copper, Tin, Iron, Lead)
+83. Clump of Dust(Brimstone, Rust, Temple Dirt)
+84. Unworked Strap of Leather
+85. Solid Chunk of Flint
+86. Lump of Amber
+87. Tiny Lodestone
+88. Rough Gemstone(Turqoise, Citrine, Agate, Tiger Eye, Amazonite, Fluorite)
+89. Rough Gemstone(Rose Quartz, Jasper, Amethyst, Crystal Quartz, Garnet)
+90. Rough Gemstone(Sodalite, Camelian, Obsidian, Azurite, Rhodonite, Chrysocolla)
+91. Rough Gemstone(Moonstone, Alabaster, Black Onyx, Carnelian, Opal, Rainbow Flourite)
+92. Rough Gemstone(Serpentine, Aquamarine, Sapphire, Ruby, Emerald, Topaz)
+93. Worn Garment With Holes(Scarf, Hat, Undershirt, Underpants, Hankerchief)
+94. Single Garment(Mitten, Sock, Glove, Stocking, Sandal, Slipper)
+95. Dirty Rag
+96. Unbroken Wishbone
+97. Two cups of wheat flour in pouch
+98. Small Steel File
+99. Steel Tweasers
+100. Steel Latching Pin
+
+
+# Acknowledgements
+## Specific Contributions
+[D4 Caltrops d100 impedimenta](https://blog.d4caltrops.com/2019/04/random-impedimenta-d100-single-page.html) for some trinkets.
+[Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark) for the concept of boons tables.
+
+## General Inspiration
+Here's some inspirations which may or may not show in this document, but certainly have inspired my design ethos.
+[DungeonCraft](https://www.youtube.com/@DUNGEONCRAFT1) my introduction to grimdark fantasy, brutal difficulty, and mechanical minimalism.
+[RuneHammer](https://www.youtube.com/@Runehammer1) excellent source of one-off mechanics, encounter/adventure/campaign/system/atmosphere design.
+[Corkboards and Curiosities](https://www.youtube.com/@corkboardsandcuriosities) encounter and campaign design from an artistic/dramatic perspective.
+[RPG PHD](https://www.youtube.com/@rpgphd)
+[Dungeon Masterpiece](https://www.youtube.com/@DungeonMasterpiece) tweaks on various classical adventure design concepts and mechanics.
+[Questing Beast](https://www.youtube.com/@QuestingBeast) exposure to various OSR concepts.
+[Mystic Arts](https://www.youtube.com/channel/UCJQEEltSpi8LXqMH8uTrCQQ)
+[The Angry GM](https://theangrygm.com/) analysis of various dynamics.
+[Bandit's Keep](https://www.youtube.com/@BanditsKeep) examples of oldschool-flavored homebrew.
+[MCDM](https://www.youtube.com/@helloMCDM) intro to mainstream D&D, "tell, don't show", running the game like a movie, heroic power fantasy.
+[The Alexandrian](https://www.youtube.com/@TheAlexandrian) Jacquaysing(not Xandering) the dungeon, 3 clue rule.

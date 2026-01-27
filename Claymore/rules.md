@@ -571,7 +571,7 @@ The royal blood of a fallen kingdom are neither noble, nor peasants. With no lor
 You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Dire Strike: Make a melee attack. On a hit, it deals max damage.
 - Double Strike: Make a melee attack. It is a multi-attack(2).
-- Smite: Add D6 to a damage roll, or 2d6 against undead, demon, or spirit.
+- Smite: Used when a hit lands. Add D6 to a damage roll, or 2d6 against undead, demon, or spirit. May stack multiple smites.
 
 #### Oath
 Make an oath, which grants you magical powers such as smite and serves as your guiding ethic. Breaking your oath costs you your oath powers.

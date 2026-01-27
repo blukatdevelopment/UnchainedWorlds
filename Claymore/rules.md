@@ -1278,7 +1278,7 @@ Here's some inspirations which may or may not show in this document, but certain
 [DungeonCraft](https://www.youtube.com/@DUNGEONCRAFT1) my introduction to grimdark fantasy, brutal difficulty, and mechanical minimalism.
 [RuneHammer](https://www.youtube.com/@Runehammer1) excellent source of one-off mechanics, encounter/adventure/campaign/system/atmosphere design.
 [Corkboards and Curiosities](https://www.youtube.com/@corkboardsandcuriosities) encounter and campaign design from an artistic/dramatic perspective.
-[RPG PHD](https://www.youtube.com/@rpgphd)
+[RPG PHD](https://www.youtube.com/@rpgphd) various concepts explained from an academic lens.
 [Dungeon Masterpiece](https://www.youtube.com/@DungeonMasterpiece) tweaks on various classical adventure design concepts and mechanics.
 [Questing Beast](https://www.youtube.com/@QuestingBeast) exposure to various OSR concepts.
 [Mystic Arts](https://www.youtube.com/channel/UCJQEEltSpi8LXqMH8uTrCQQ)

@@ -37,7 +37,7 @@ In general, no special handling is needed. The Brute, Ranger, Brawler, Knight, a
 
 
 ## Wizard
-Wizards scale geometrically, and exiting their larval stage offers powerful area of effect and reality-bending spells. Might want to give the spells list a once-over to make sure
+Wizards scale geometrically, and exiting their larval stage offers powerful area of effect and reality-bending spells. Might want to give the spells list a once-over to make sure you don't have any puzzles that are insta-solved by them.
 
 ## Witch
 Healbots that can revive the party with magic. Give them an opportunity to interact with animals or nature spirits here and there. If they try to befriend animals, have them make a few contested animal handling checks(advantage if they use food). Four or five should be needed to tame an animal, with every failure resulting in either hostility or the critter fleeing and needing to be caught again. If anyone is to tame a wild creature, it's a witch.

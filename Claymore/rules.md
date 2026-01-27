@@ -313,7 +313,7 @@ You have advantage on checks to resist being grappled or restrained, and cannot 
 You automatically succeed in using an object like a thick book, backpack, or piece of furniture as a shield, absorbing all or a portion of an attack's damage.
 
 #### Backstab
-When you attack a surprised enemy from behind, you deal maximum damage.
+When you melee attack a surprised enemy from behind, you deal maximum damage.
 
 #### On Guard!
 You gain expertise with swords.

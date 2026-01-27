@@ -7,8 +7,8 @@ This campaign is built around game sessions 2-4 hours in length for a party of 2
 ### Game Formats
 Here's the different sorts of games run on the server.
 
-#### Monster of the Week(MOTW)
-These are small, self-contained adventures that last a single session. The simplest plot for a MOTW might be a literal monster hunt, but mysteries, heists, and five room dungeons are also options.
+#### Job of the Week(JOTW)
+These are small, self-contained adventures that last a single session. The simplest plot for a JOTW might be a literal monster hunt, but mysteries, heists, and five room dungeons are also options.
 
 #### Plot Arc
 Multiple sessions with separate B plots, but a shared A plot. One format is to have three sessions with a three act structure, making the third a climax that might be a boss battle or big confrontation.

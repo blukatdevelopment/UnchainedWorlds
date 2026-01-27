@@ -573,6 +573,12 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Double Strike: Make a melee attack. It is a multi-attack(2).
 - Smite: Add D6 to a damage roll, or 2d6 against undead, demon, or spirit.
 
+#### Oath
+Make an oath, which grants you magical powers such as smite and serves as your guiding ethic. Breaking your oath costs you your oath powers.
+- Vengeance: I will avenge the fallen by slaying their murderers.
+- Protection: I will defend the powerless without exception.
+- Justice: I will right the world's wrongs, or die trying.
+
 ### At level 2 and higher
 Roll twice on the table below for a random boon.
 ```
@@ -582,12 +588,6 @@ Boons table(2d6)
 7-9:  +2 Hearts
 10-12:  General ability 
 ```
-
-#### Oath
-Make an oath, which grants you magical powers such as smite and serves as your guiding ethic. Breaking your oath costs you your oath powers.
-- Vengeance: I will avenge the fallen by slaying their murderers.
-- Protection: I will defend the powerless without exception.
-- Justice: I will right the world's wrongs, or die trying.
 
 ### Class Abilities
 

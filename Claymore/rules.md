@@ -253,7 +253,7 @@ Choose one of the starting spells offered to a wizard and learn it. You may now 
 You gain proficiency with swords, spears, bows, horseriding, and survival.
 
 ### Endurance Training
-You gain 5 maximum hearts and have advantage when resisting the effects of cold, poison, and illness.
+You gain 5 maximum hearts and have advantage when using their constitution to resist physical effects such as cold, poison, and illness. 
 
 ### Academic Training
 If you couldn't before, you can now read and write. Choose one of the following skills and either gain proficiency or expertise(if you are already proficient): Magic, Nature, Animal Handling, Medicine, Survival, Performance, Persuasion.

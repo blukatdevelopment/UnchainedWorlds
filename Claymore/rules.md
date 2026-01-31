@@ -247,7 +247,7 @@ You train to use your natural night vision. You can see well in low-light condit
 When you use a healer's kit, you now heal 2d6 hearts.
 
 ### Blood Magic
-Choose one of the starting spells offered to a wizard and learn it. You may now expend hearts in order to cast wizard spells that you know. A 1st level spell consumes D6, 2nd consumes 2d6, and 3rd consumes 3d6.
+Choose one of the starting spells offered to a wizard and learn it. You may now expend hearts in order to cast wizard spells that you know. Cantrip consumes 1, 1st level spell consumes D6, 2nd consumes 2d6, and 3rd consumes 3d6.
 
 ### Martial Training
 You gain proficiency with swords, spears, bows, horseriding, and survival.

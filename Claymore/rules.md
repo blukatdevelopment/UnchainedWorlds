@@ -499,6 +499,7 @@ Pick one of the following
 - 2d6 Grit
 - D6 grit + D6 HP
 - You may recruit one additional mercenary
+- General Ability
 
 ## Class: Brawler
 It's said the heart of some are touched by the icy fingers of the Crone. It's believed their intuitions extend a hair into the future, which is the only explanation for their reaction times. Whatever the truth may be, the brawler is a blur of fists and claws in combat. Weapons and armor only slow the brawler down, and so they forego them. A party which needs a plain clothes assassin, scout, or stealthy frontliner is wise to recruit a brawler.  
@@ -640,7 +641,7 @@ You receive an education in magic and gain a spellbook containing the spells you
 
 #### Wizard Spellcasting
 You may cast spells you learn from the wizard spell list. Cantrips are trivial spells and can be cast at will by pointing the index finger. All other spells require the caster to hold either their spellbook or wand in order to cast, and the caster must speak the spell's name to cast it this way. Damage dealt to targets is generally capped by the spell's level.
-- C(antrip): D6MG
+- C(antrip): D6MG1.
 - 1st: 3d6 DMG
 - 2nd: 6d6 DMG
 - 3rd: 12d6 DMG
@@ -1027,9 +1028,9 @@ Crossbows require an action to reload.
 - 5T Flint Handaxe
 - 5C Steel Spear
 - 5C Steel Handaxe
-- 10C Sword 10C
-- 10C Mace 10C
-- 20C Halberd 20C
+- 10C Sword
+- 10C Mace
+- 20C Halberd
 - 25C Shortbow
 - 75C Hand Crossbow
 

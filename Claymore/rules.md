@@ -904,6 +904,8 @@ Priests and priestesses speak and act in service of the Planets. Though the enti
 #### Skills
 - Magic
 - Religion
+- Insight
+- Persuasion
 
 #### Astro Magic
 You have 7 spirit points, which recover on a rest. You learn 3 random names. Using the names you know, you may craft spells, negotiating the cost with the keeper. Each time you create a spell, the cost may change.

@@ -247,7 +247,7 @@ You train to use your natural night vision. You can see well in low-light condit
 When you use a healer's kit, you now heal 2d6 hearts.
 
 ### Blood Magic
-Choose one of the starting spells offered to a wizard and learn it. You may now expend hearts in order to cast wizard spells that you know. Cantrip consumes 1, 1st level spell consumes D6, 2nd consumes 2d6, and 3rd consumes 3d6.
+Choose one of the starting spells offered to a wizard via Wizard Education and learn it. You may now expend hearts in order to cast wizard spells that you know. Cantrip consumes 1, 1st level spell consumes D6, 2nd consumes 2d6, and 3rd consumes 3d6.
 
 ### Martial Training
 You gain proficiency with swords, spears, bows, horseriding, and survival.
@@ -432,7 +432,7 @@ Trained in the art of war, the commander actively shapes the battlefield through
 - All weapons
 - Athletics
 - Intimidation
-- Persuasion
+- Persuasionendurance training
 - Insight
 
 #### Grit
@@ -641,7 +641,7 @@ You receive an education in magic and gain a spellbook containing the spells you
 
 #### Wizard Spellcasting
 You may cast spells you learn from the wizard spell list. Cantrips are trivial spells and can be cast at will by pointing the index finger. All other spells require the caster to hold either their spellbook or wand in order to cast, and the caster must speak the spell's name to cast it this way. Damage dealt to targets is generally capped by the spell's level.
-- C(antrip): D6MG1.
+- C(antrip): D6MG.
 - 1st: 3d6 DMG
 - 2nd: 6d6 DMG
 - 3rd: 12d6 DMG
@@ -901,6 +901,9 @@ You gain proficiency in crossbows and hand crossbows.
 Priests and priestesses speak and act in service of the Planets. Though the entire pantheon is well-known, some divine names are more welcome than others, or else beloved in one town and feared in another. A party which needs a highly flexible magic user is well-served by recruiting a priest.
 
 ### At level 1
+#### Skills
+- Magic
+- Religion
 
 #### Astro Magic
 You have 7 spirit points, which recover on a rest. You learn 3 random names. Using the names you know, you may craft spells, negotiating the cost with the keeper. Each time you create a spell, the cost may change.

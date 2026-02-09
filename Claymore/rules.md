@@ -187,7 +187,7 @@ You get the following items:
 - Purse with 5 trinkets
 
 # Classes
-Unless otherwise specified, adventurers begin as commoners at level 0 and level up from there by gaining XP. When an adventurer reaches level 1, they pick a class(or may roll a D20 for a random one on the table below). At level 1, they are granted certain benefits. At level 2 and higher, an adventurer gains benefits by rolling twice per level on the boons table for their class.
+Unless otherwise specified, adventurers begin as commoners at level 0 and level up from there by gaining XP. When an adventurer reaches level 1, they pick a class(or may roll a D20 for a random one on the table below). At level 1, they are granted certain benefits. After level 1 an adventurer can choose from a list of options to gain as they level up.
 
 ## Level Progression
 Characters gain levels by gaining experience points(XP). For levels 0-20, the following table shows how much total XP you need.
@@ -253,7 +253,7 @@ Choose one of the starting spells offered to a wizard via Wizard Education and l
 You gain proficiency with swords, spears, bows, horseriding, and survival.
 
 ### Endurance Training
-You gain 5 maximum hearts and have advantage when using their constitution to resist physical effects such as cold, poison, and illness. 
+You gain 5 maximum hearts and have proficiency when making saves that rely on your physical constitution, such as when resisting the effects of cold, poison, and illness.
 
 ### Academic Training
 If you couldn't before, you can now read and write. Choose one of the following skills and either gain proficiency or expertise(if you are already proficient): Magic, Nature, Animal Handling, Medicine, Survival, Performance, Persuasion.
@@ -280,22 +280,16 @@ You have 3 grit, which recovers on a rest. You may spend it on the following opt
 - Focus: Add an extra D6 bonus to a roll already benefiting from a skill proficiency.
 - Hide: Attempt to hide without using an action.
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-5:  Class ability
-6-8:  +D6 grit
-9-12:  General ability
-```
+### After level 1
+Choose either a class ability or general ability.
 
 ### Class Abilities
 
 #### Skill Training
-Gain proficiency in a new skill, or expertise in a skill you already have. Excludes weapons.
+Gain proficiency in a new skill, or expertise in a skill you already have. Excludes weapons. You may select this ability multiple times.
 
-#### Endurance
-Gain D6 maximum hearts.
+#### Thieve's Endurance
+You gain +1HP and +3 grit.
 
 #### Street Rat
 You have a keen eye for the illicit, and you're able to easily find the signs criminal contacts leave for their colleagues. If the black market is active around you, you will find it after investigating the locals for an hour. This includes(but is not limited to) fences, dealers, smugglers, informants, assassins, corrupt guards, and gangs.
@@ -348,22 +342,19 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Double Strike: Make a melee attack. It is a multi-attack(2).
 - Rage(2 grit): Until you end your turn without taking damage or making an attack, incoming attack damage is halved. Rage grants advantage on athletics checks.
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-4:  Class ability
-5-9:   +D6+1 HP
-10-12:  General ability 
-```
+### After level 1
+Choose either a class ability or general ability.
 
 ### Class Abilities
 
-#### Grit Increase
-Gain +3 grit.
+#### Brutal Endurance
+You gain +10HP. You restore 3 hearts from a night of rest, and 9 from a full day of bed rest. You may select this ability again for an additional +5HP when you reach levels 5, 7, 9, and 13.
+
+#### Brutal Grit
+You gain +3 grit. You may select this ability multiple times.
 
 #### Reckless Strike
-Your next melee attack this turn has advantage. Until your next turn, melee attacks have advantage against you.
+Your melee attacks this turn have advantage. Until your next turn, melee attacks have advantage against you.
 
 #### Grit Action: Great Throw
 Throw a great weapon up to 30 feet, making a ranged attack with advantage. On a hit, it deals max damage.
@@ -400,17 +391,13 @@ You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Second Wind(2 grit): Use an action to heal D6 hearts.
 - Overwatch: Until your next turn, make up to three ranged attacks at creatures that move within line of sight.
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-3:   Class ability
-4-5:   +D6 Hearts
-6-8:   +3 Grit
-9-12:  General ability 
-```
+### After level 1
+Choose either a class ability or general ability.
 
 ### Class Abilities
+
+#### Ranger Endurance
+You gain 5 hearts and 3 grit. You may select this ability multiple times to gain 1 heart and 3 grit.
 
 #### Grit Action: Called Shot
 Make a ranged attack, aiming at a specific bodypart, without any penalties. You may shoot an object out of a creature's hand this way, or else aim for the head(or equivalent weak pont) to deal critical damage on a hit.
@@ -432,7 +419,7 @@ Trained in the art of war, the commander actively shapes the battlefield through
 - All weapons
 - Athletics
 - Intimidation
-- Persuasionendurance training
+- Persuasion
 - Insight
 
 #### Grit
@@ -493,13 +480,15 @@ Crossbow and 20 bolts(3d6 damage, proficient)
 Weekly Rate: 21 Coins
 ```
 
-### At level 2 and higher
-Pick one of the following
-- 2d6 HP
-- 2d6 Grit
-- D6 grit + D6 HP
-- You may recruit one additional mercenary
-- General Ability
+### After level 1
+Choose either a class ability or general ability.
+
+### Class abilities
+#### Commanding Endurance
+You gain 2 hearts or 3 grit. You may select this ability multiple times.
+
+#### Advanced Negotiation
+You may recruit one additional mercenary. You may select this ability multiple times.
 
 ## Class: Brawler
 It's said the heart of some are touched by the icy fingers of the Crone. It's believed their intuitions extend a hair into the future, which is the only explanation for their reaction times. Whatever the truth may be, the brawler is a blur of fists and claws in combat. Weapons and armor only slow the brawler down, and so they forego them. A party which needs a plain clothes assassin, scout, or stealthy frontliner is wise to recruit a brawler.  
@@ -522,17 +511,13 @@ You have 3 grit, which recovers on a rest. You may spend grit on the stances bel
 #### Brawling Proficiency
 Your unarmed attacks deal D6 damage. When making unarmed attacks, you may instead multi-attack a single target with three attacks. When you counter-attack, you may instead instantly grapple the target. These effects are lost when wearing armor.
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-4:  Class ability
-5:    +D6 HP
-6-9:  +D6 grit
-10-12:  General ability
-```
+### After level 1
+Choose either a class ability or general ability.
 
 ### Class Abilities
+
+#### Brawler's Endurance
+You gain 5 hearts and 1 grit. You make select this ability multiple times. Each time you select this ability, it grants 1 less heart(minimum 0) and 1 more grit.
 
 #### Grit Action: Flurry of Blows
 When making an unarmed attack, you strike three additional times, for a total of six attacks.
@@ -580,19 +565,15 @@ Make an oath, which grants you magical powers such as smite and serves as your g
 - Protection: I will defend the powerless without exception.
 - Justice: I will right the world's wrongs, or die trying.
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-4:  Class ability
-5-6:  +D6 grit
-7-9:  +2 Hearts
-10-12:  General ability 
-```
+### After level 1
+Choose either a class ability or general ability.
 
 ### Class Abilities
 
-#### Swordfighting expertise
+#### Knightly Endurance
+You gain 7 hearts and 1 grit. You make select this ability multiple times. Each time you select this ability, it grants 1 less heart and 1 more grit.
+
+#### Swordfighting Expertise
 You gain expertise with swords and may make two additional counter-attacks per turn.
 
 #### Call Steed
@@ -646,16 +627,16 @@ You may cast spells you learn from the wizard spell list. Cantrips are trivial s
 - 2nd: 6d6 DMG
 - 3rd: 12d6 DMG
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-5:    Class Ability 
-5-10:   Choose Between Two Random Spells To Learn
-11-12:  General Ability
-```
+### After level 1
+Choose either a class ability or general ability.
 
 ### Class Abilities
+
+#### Targeted Research
+You guide your studies. Select 3 spells which are either cantrips or 1st level, and which you don't know. Roll a D6 (1-2: spell A, 3-4: spell B, 5-6: spell C) to learn one. You may select this ability mutliple times. At level 5, you may select 2nd level spells. At level 10, you may select 3rd level spells.
+
+#### Exploratory Research
+You let your studies guide you. Roll three random spells from the wizard spell list and choose one. You may select this ability multiple times.
 
 #### Wand
 During a rest, you may fashion a stick into a wand, converting all previously made wands back into regular sticks. Your wand has 5 charges, which recover on a rest. You may cast a spell contained in your spellbook by using charges from the wand, the cost determined by the spell's level:
@@ -797,21 +778,22 @@ A witch typically awakens in childhood when she first attunes to her heart and h
 - Shield of Innocence
 - Flaming Locks
 
-#### The Mother's Cauldron
-Every rest, you may mix ingredients into a potion and perform a magic ritual that grants you a pool of 10 hearts, your heal pool. You may expend 1 or more and touch a creature to heal it that many hearts.
+#### The Mother's Comfort
+Every rest, you perform a ritual under the moon(even if it is not visible) and gain a pool of 10 hearts, your heal pool. You may expend 1 or more and touch a creature to heal it that many hearts.
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-3:  Class ability
-4-5:  +2 Spirit points
-6-9:  +5 hearts to heal pool
-10:  Gain 1d6+1 Max Hearts
-11-12:  General ability
-```
+### After level 1
+Choose either a class ability or general ability.
 
 ### Class Abilities
+
+#### Mother's Cauldron
+In a course of events which could be attributed to coincidence, you acquire a second-hand cauldron the size of a small pumpkin. Every rest, you may use the cauldron to perform a ritual wherein you brew an alchemical ingredient in your cauldron and pour it onto the ground, reciting the following verse: "Fire burns and water churns, bubbles rise, and earth returns." This ritual grants an additional +5 hearts to your heal pool. You may select this ability multiple times, increasing the number of ingredients you can add(+5 hearts per each).
+
+#### Crone's brew(Requires Mother's Cauldron)
+When you brew a potion in your cauldron, you may instead choose to drink the potion. If you do so, your heal pool is 10 hearts. For every ingredient brewed, the potion offers one serving. Each serving grants D6 overhealing when consumed. You may consume every serving yourself, or share with others during the ritual.
+
+#### Maiden's dance
+You learn to dance as you recite the maiden's verse. This attracts nature sprites which dance with you, bring their blessings, and leave. Each rest, roll a D6 to see how many sprites give you their blessing, adding the total to your maximum spirit points for the day(In other words, roll 1d6+3 for your spirit points each rest). You may select this ability multiple times to increase the rolled spirit points by D6.
 
 #### Mother's Verse
 You attune to the singing of the Mother aspect of the threefold goddess. You may now prepare four spells. You may also now prepare spells from the Mother's spell list:
@@ -869,27 +851,24 @@ Seen as possibly the most legitimate form of magic user, apothecaries are a comm
 You may spend an hour in nature gathering wild alchemical ingredients. Make an alchemy check against a DC selected by the keeper according to the abundance of resources in the space(very easy: 8, easy: 10, moderate 15, hard 20). If you succeed, subtract the DC from your roll and divide by 2(minimum of one) to determine how many ingredients you gather. The keeper will provide the name of each ingredient. After you gather an ingredient once, you may seek it out when gathering in the future. You may spend 10 minutes to attempt to harvest ingredients from each fallen monster's body one time. Make an alchemy check against a DC selected by the keeper(25, minus the monster's maximum hearts. Minimum 8.). Succeeding grants one monster part, and succeeding by 5 or more grants two monster parts. The keeper will provide the names of the monster parts.
 
 #### Brew Potions
-You start with three brews per rest. During a rest, you may expend a brew and attempt to create a potion, provided you have brewing equipment and containers to fill. Describe the desired effect of the potion incorporating on one or more ingredients consumed by the brew process, negotiating a DC with the keeper. Once you agree on a potion effect, ingredients, and a DC, make an alchemy check against that DC. On a success, you brew the potion as described. A potion can be used to coat up to ten sharp weapons, which will dry up after being used on a target, or after a minute of being applied.
+You start with 3 brews per rest. During a rest, you may expend a brew and attempt to create a potion, provided you have brewing equipment and containers to fill. Describe the desired effect of the potion incorporating on one or more ingredients consumed by the brew process, negotiating a DC with the keeper. Once you agree on a potion effect, ingredients, and a DC, make an alchemy check against that DC. On a success, you brew the potion as described. A potion can be used to coat up to ten sharp weapons, which will dry up after being used on a target, or after a minute of being applied.
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-8:  Class Ability
-9-10:  +1 Brews per rest
-11-12:  General ability
-```
+### After level 1
+Choose either a class ability or general ability.
 
 ### Class Abilities
 
 #### Physical Education
-You take time to study the physical arts. You gain three maximum hearts. You may select this ability no more than three times.
+You take time to study the physical arts. You gain +3 HP. You may select this ability a total of three times.
+
+### Alchemical training
+You hone your skill and have an additional +3 brews per rest. You may take select this ability a total of five times.
 
 #### Distillation
 You may use three times the ingredients for a potion to gain a +5 to the alchemy check.
 
 #### Purification
-You may expend two brews when brewing a potion, gaining a +5 to the alchemy check.
+You may expend 2 brews when brewing a potion, gaining a +5 to the alchemy check.
 
 #### Spell Potion
 You may expend three brews to attempt a spell potion. Choose three different ingredients and a wizard school of magic, and roll a spell from the school's spell list. The DC is 10 per spell level.
@@ -910,17 +889,24 @@ Priests and priestesses speak and act in service of the Planets. Though the enti
 #### Astro Magic
 You have 7 spirit points, which recover on a rest. You learn 3 random names. Using the names you know, you may craft spells, negotiating the cost with the keeper. Each time you create a spell, the cost may change.
 
-### At level 2 and higher
-Roll twice on the table below for a total of two new boons.
-```
-Boons table(2d6)
-2-4:  New name
-5:  +1d6+1 spirit points
-6-8:  +2 spirit points
-9:  +1 HP
-10:  +D6 HP
-11-12:  General ability
-```
+### After level 1
+Choose either a class ability or general ability.
+
+### Class Abilities
+
+#### Planetary Blessing
+Select one of the seven planets to gain its blessing. Each time you rest, choose between receiving the planet's boon, or a +D6 to that day's maximum spirit points. You may select this ability up to a total of seven times(one for each planet), and may choose between boons or spirit points per-planet. The boons are as follows:
+- Sun: Spend 1 spirit point to cast burning hands
+- Moon: 10 heart heal pool. Touch target to heal 1 or more
+- Mercury: One cantrip from the Wizard Education ability
+- Venus: Expertise with persuasion
+- Mars: Expertise with all weapons
+- Jupiter: Succeed one death save without rolling
+- Saturn: You do not need to eat, sleep, or drink water
+
+
+#### Divine name
+You spend time meditating until a new name appears in your mind. Roll on the names table for a name you don't know. You learn this name.
 
 ### Names
 ```
@@ -1254,7 +1240,6 @@ If you find yourself in a pinch, you may wish to open your purse and examine the
 # Acknowledgements
 ## Specific Contributions
 [D4 Caltrops d100 impedimenta](https://blog.d4caltrops.com/2019/04/random-impedimenta-d100-single-page.html) for some trinkets.
-[Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark) for the concept of boons tables.
 
 ## General Inspiration
 Here's some inspirations which may or may not show in this document, but certainly have inspired my design ethos.

@@ -449,12 +449,14 @@ Weekly Rate: 3.5 Coins
 Hunter
 10 Hearts
 1 Armor Value (Leather)
-Bow and 20 arrows(2d6 damage, proficient)
+Bow and 20 arrows(2d6 damage)
 Skills
+- All bows
+- Daggers
 - Perception
 - Stealth
 - Survival
-Knife(D6 damage, proficient)
+Knife(D6 damage)
 Weekly Rate: 7 Coins
 
 Soldier
@@ -462,6 +464,7 @@ Soldier
 2 Armor Value (Shield)
 Sword (2d6 damage, proficient)
 Skills
+- All melee weapons
 - Athletics
 - Animal Handling
 - Survival
@@ -471,11 +474,13 @@ Veteran
 30 HP
 2 Armor Value (Chain)
 Skills
+- All melee weapons
+- All crossbows
 - Athletics
 - Animal Handling
 - Survival
-Claymore(3d6 damage, proficient)
-Crossbow and 20 bolts(3d6 damage, proficient)
+Claymore(3d6 damage)
+Crossbow and 20 bolts(3d6 damage)
 Weekly Rate: 21 Coins
 ```
 

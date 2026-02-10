@@ -468,7 +468,7 @@ Skills
 Weekly Rate: 10.5 Coins
 
 Veteran
-20 HP
+30 HP
 2 Armor Value (Chain)
 Skills
 - Athletics

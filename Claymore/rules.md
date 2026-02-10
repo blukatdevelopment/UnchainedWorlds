@@ -809,7 +809,7 @@ Every rest, you may meditate under the moon to bathe yourself in the Crone's mag
 - Ice Armor
 
 #### Crone's dance[Requires Maiden's Dance, Crone's Verse]
-When you dance to the Crone's verse, you learn the names of the nature spirits who bless you. You may expend 5 spirit points to command some of the spirits to stay with you until you rest again.  Choose one of the following options
+When you dance to the Crone's verse, you learn the names of the nature spirits who bless you. You may expend 5 spirit points to attract spirits to stay with you until you rest again. You may select this ability a second time, allowing you to attract spirits twice for a total of 10 spirit points if you wish. Choose one of the following options
 - D6 sprites(1HP, 1DMG)(Grass, Bug, Flower, Pebble, Frost, or Ember)
 - Nymph(15HP, 2d6DMG)(Bush, Beast, Vine, Boulder, Ice, or Flame)
 - A magical or mundane beast you've seen before(15HP, 2d6DMG)

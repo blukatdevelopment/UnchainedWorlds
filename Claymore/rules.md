@@ -377,8 +377,7 @@ For many, hunting is a matter of trade and survival. For the ranger, the hunt is
 ### At level 1
 #### Skills
 - Daggers
-- Bows
-- Crossbows
+- All ranged(not thrown) weapons
 - Athletics
 - Stealth
 - Perception

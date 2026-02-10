@@ -772,7 +772,7 @@ You work with the blessing of the threefold goddess. The Maiden threads the need
 - Insight
 
 #### The Maiden's Verse
-A witch typically awakens in childhood when she first attunes to her heart and hears the singing of the Maiden aspect of the threefold goddess. While the words may vary, they are laced with the potent magic of the Maiden. Each rest, you may recite the maiden's verse and prepare two spells from the maiden's spell list. You have 3 spirit points which recover on a rest that you may use to cast spells. You may cast a prepared spell by consuming a spirit point. The maiden's spell list:
+A witch typically awakens in childhood when she first attunes to her heart and hears the singing of the Maiden aspect of the threefold goddess. While the words may vary, they are laced with the potent magic of the Maiden. Each rest, a witch may sing to the threefold goddess. During this ritual, you may recite the maiden's verse and prepare two spells from the maiden's spell list. You have 3 spirit points which recover on a rest that you may use to cast spells. You may cast a prepared spell by consuming a spirit point. The maiden's spell list:
 - Tears of Respite
 - Sweet Song
 - Shield of Innocence
@@ -787,16 +787,16 @@ Choose either a class ability or general ability.
 ### Class Abilities
 
 #### Mother's Cauldron
-In a course of events which could be attributed to coincidence, you acquire a second-hand cauldron the size of a small pumpkin. Every rest, you may use the cauldron to perform a ritual wherein you brew an alchemical ingredient in your cauldron and pour it onto the ground, reciting the following verse: "Fire burns and water churns, bubbles rise, and earth returns." This ritual grants an additional +5 hearts to your heal pool. You may select this ability multiple times, increasing the number of ingredients you can add(+5 hearts per each).
+In a course of events which could be attributed to coincidence, you acquire a second-hand cauldron the size of a small pumpkin. Each rest, you may create a witch's brew with one ingredient and pour it onto the ground, reciting: "Fire burns and water churns, bubbles rise, and earth returns." This ritual with one ingredient grants +5 to your heal pool. Each time you select this ability, you may add an additional ingredient to your brew, conferring +5 more hearts to your heal pool.
 
-#### Crone's brew(Requires Mother's Cauldron)
-When you brew a potion in your cauldron, you may instead choose to drink the potion. If you do so, your heal pool is 10 hearts. For every ingredient brewed, the potion offers one serving. Each serving grants D6 overhealing when consumed. You may consume every serving yourself, or share with others during the ritual.
+#### Crone's Brew(Requires Mother's Cauldron)
+When you make a witch's brew in your cauldron, you may choose to drink from it before pouring it out. For each ingredient in the brew, decide whether to drink from it and gain D6 overhealing, or leave it in the cauldron for +5 to your heal pool. If others are present for the ritual, you may let them drink from it.
 
-#### Maiden's dance
-You learn to dance as you recite the maiden's verse. This attracts nature sprites which dance with you, bring their blessings, and leave. Each rest, roll a D6 to see how many sprites give you their blessing, adding the total to your maximum spirit points for the day(In other words, roll 1d6+3 for your spirit points each rest). You may select this ability multiple times to increase the rolled spirit points by D6.
+#### Maiden's Dance
+You learn to dance as you recite the maiden's verse. This attracts nature spirits to bless you. Each rest, roll 1d6+3 for your max spirit points. You may select this ability multiple times to increase the roll by D6 each time.
 
 #### Mother's Verse
-You attune to the singing of the Mother aspect of the threefold goddess. You may now prepare four spells. You may also now prepare spells from the Mother's spell list:
+You attune to the singing of the Mother aspect of the threefold goddess and add it to your song. You may now prepare four spells. You may also now prepare spells from the Mother's spell list:
 - Mother's Blessing
 - Cradling Arms
 - Full Moon Serenade
@@ -807,6 +807,13 @@ Every rest, you may meditate under the moon to bathe yourself in the Crone's mag
 - Lunar Scythe
 - Kiss of Death
 - Ice Armor
+
+#### Crone's dance[Requires Maiden's Dance, Crone's Verse]
+When you dance to the Crone's verse, you learn the names of the nature spirits who bless you. You may expend 5 spirit points to command some of the spirits to stay with you until you rest again.  Choose one of the following options
+- D6 sprites(1HP, 1DMG)(Grass, Bug, Flower, Pebble, Frost, or Ember)
+- Nymph(15HP, 2d6DMG)(Bush, Beast, Vine, Boulder, Ice, or Flame)
+- A magical or mundane beast you've seen before(15HP, 2d6DMG)
+
 
 ## Witch Spells
 
@@ -895,7 +902,7 @@ Choose either a class ability or general ability.
 ### Class Abilities
 
 #### Planetary Blessing
-Select one of the seven planets to gain its blessing. Each time you rest, choose between receiving the planet's boon, or a +D6 to that day's maximum spirit points. You may select this ability up to a total of seven times(one for each planet), and may choose between boons or spirit points per-planet. The boons are as follows:
+Select one of the seven planets to gain its favor. Each time you rest, choose between receiving the planet's blessing, or a +D6 to that day's maximum spirit points. You may select this ability up to a total of seven times(one for each planet), and may choose between blessings or spirit points per-planet. The boons are as follows:
 - Sun: Spend 1 spirit point to cast burning hands
 - Moon: 10 heart heal pool. Touch target to heal 1 or more
 - Mercury: One cantrip from the Wizard Education ability

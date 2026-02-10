@@ -277,7 +277,7 @@ Nimble and sneaky, the thief can pass by vigilant eyes and cut purses undetected
 You have 3 grit, which recovers on a rest. You may spend it on the following options.
 - Dodge: Reduce incoming damage by D6.
 - Sprint: Double your movement this turn without spending an action.
-- Focus: Add an extra D6 bonus to a roll already benefiting from a skill proficiency.
+- Focus: Turn a skill proficiency into expertise for one check.
 - Hide: Attempt to hide without using an action.
 
 ### After level 1

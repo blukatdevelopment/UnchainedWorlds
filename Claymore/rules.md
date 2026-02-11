@@ -539,7 +539,7 @@ When you would successfully grapple a target, you may instead choose to swipe on
 When you successfully grapple a surprised creature from behind, you may perform the death hold to deal 6d6 damage.
 
 #### Grit Action: Return To Sender
-When you successfully defend against an arrow or thrown weapon within 30ft, you may spend a grit to catch the projectile and throw it back at the attacker, dealing normal damage.
+When you successfully defend against an arrow or thrown weapon within 30ft, you may spend a grit to catch the projectile and throw it back at the attacker, dealing D6.
 
 #### Grit Action: Acrobatic attack
 You run, climb, jump, swing, or springboard on your surroundings as part of your movement, granting advantage on an attack(or multi-attack) made that turn.

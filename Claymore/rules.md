@@ -261,6 +261,17 @@ If you couldn't before, you can now read and write. Choose one of the following 
 ## Class: Commoner
 You start with 10 hearts, your unarmed attacks deal 2 damage, your base movement is 30ft per turn, and you may pick one general skill that relates to your profession.
 
+```
+##########################
+# _____ _     _       __ #
+#|_   _| |   (_)     / _|#
+#  | | | |__  _  ___| |_ #
+#  | | | '_ \| |/ _ \  _|#
+#  | | | | | | |  __/ |  #
+#  \_/ |_| |_|_|\___|_|  #
+##########################
+```
+
 ## Class: Thief
 Nimble and sneaky, the thief can pass by vigilant eyes and cut purses undetected. An adventuring party that needs access to black market goods and services needs only recruit a thief, who is apt to locate fences, sell swords, corrupt guards, beggar informants, and the secret inventory carried by merchants.
 
@@ -324,7 +335,16 @@ You gain an instrument from the list below. Every rest, you may practice your in
 
 #### Vicious Mockery(Requires Bardic Magic)
 You make a magically infused insult against a creature who can understand you. Target  must save or take 2d6 damage from the psychic strain.
-
+```
+##############################
+# ______            _        #
+# | ___ \          | |       #
+# | |_/ /_ __ _   _| |_ ___  #
+# | ___ \ '__| | | | __/ _ \ #
+# | |_/ / |  | |_| | ||  __/ #
+# \____/|_|   \__,_|\__\___| #
+##############################
+```
 ## Class: Brute
 Legends tell of those whose hearts filled with the fiery rage of the Maiden, and who became more beast than man. Seasoned adventurers know this to be true, and refer to this sort as brutes. Though the brutes may not know where their power comes from, they know full-well how to wield it. A brute is an excellent first line of defense for a party against blades and fangs alike.
 
@@ -371,6 +391,19 @@ Your attacks have a critical success on a natural 19 as well as a natural 20.
 #### Brute Strength
 You now have expertise in athletics, and your unarmed attacks deal 4 damage.
 
+```
+######################################
+# ______                             #
+# | ___ \                            #
+# | |_/ /__ _ _ __   __ _  ___ _ __  #
+# |    // _` | '_ \ / _` |/ _ \ '__| #
+# | |\ \ (_| | | | | (_| |  __/ |    #
+# \_| \_\__,_|_| |_|\__, |\___|_|    #
+#                    __/ |           #
+#                   |___/            #
+######################################
+```
+
 ## Class: Ranger
 For many, hunting is a matter of trade and survival. For the ranger, the hunt is a far more sacred activity. Some rangers hunt as a spiritual ritual, others as a continuation of archery after retiring from an army, and others yet for the thrill of the hunt. A party which needs to traverse the wilds, track monsters, or to stealthily snipe an enemy leader is wise to recruit a ranger.
 
@@ -409,6 +442,17 @@ You may dual wield daggers to perform a multi-attack with two attacks. You have 
 
 #### Weapons Training
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
+
+```
+################################################################
+#  _____                                           _           #
+# /  __ \                                         | |          #
+# | /  \/ ___  _ __ ___  _ __ ___   __ _ _ __   __| | ___ _ __ #
+# | |    / _ \| '_ ` _ \| '_ ` _ \ / _` | '_ \ / _` |/ _ \ '__|#
+# | \__/\ (_) | | | | | | | | | | | (_| | | | | (_| |  __/ |   #
+#  \____/\___/|_| |_| |_|_| |_| |_|\__,_|_| |_|\__,_|\___|_|   #
+################################################################
+```
 
 ## Class: Commander
 Trained in the art of war, the commander actively shapes the battlefield through superior strategy and battle tactics. A party who wishes to win large battles, command a small force of hired swords, or outmaneuver a numerically superior enemy is wise to recruit a commander in their ranks.
@@ -494,6 +538,17 @@ You gain 2 hearts or 3 grit. You may select this ability multiple times.
 #### Advanced Negotiation
 You may recruit one additional mercenary. You may select this ability multiple times.
 
+```
+#########################################
+# ______                    _           #
+# | ___ \                  | |          #
+# | |_/ /_ __ __ ___      _| | ___ _ __ #
+# | ___ \ '__/ _` \ \ /\ / / |/ _ \ '__|#
+# | |_/ / | | (_| |\ V  V /| |  __/ |   #
+# \____/|_|  \__,_| \_/\_/ |_|\___|_|   #
+#                                       #
+#########################################
+```
 ## Class: Brawler
 It's said the heart of some are touched by the icy fingers of the Crone. It's believed their intuitions extend a hair into the future, which is the only explanation for their reaction times. Whatever the truth may be, the brawler is a blur of fists and claws in combat. Weapons and armor only slow the brawler down, and so they forego them. A party which needs a plain clothes assassin, scout, or stealthy frontliner is wise to recruit a brawler.  
 
@@ -543,6 +598,19 @@ When you successfully defend against an arrow or thrown weapon within 30ft, you 
 
 #### Grit Action: Acrobatic attack
 You run, climb, jump, swing, or springboard on your surroundings as part of your movement, granting advantage on an attack(or multi-attack) made that turn.
+
+```
+###################################
+#  _   __      _       _     _    #
+# | | / /     (_)     | |   | |   #
+# | |/ / _ __  _  __ _| |__ | |_  #
+# |    \| '_ \| |/ _` | '_ \| __| #
+# | |\  \ | | | | (_| | | | | |_  #
+# \_| \_/_| |_|_|\__, |_| |_|\__| #
+#                 __/ |           #
+#                |___/            #
+###################################
+```
 
 ## Class: Knight
 The royal blood of a fallen kingdom are neither noble, nor peasants. With no lords to serve, they instead raise their swords for good. Though not all knights have once-royal blood in their veins, they all swear an oath. Their oath is answered with supernatural power so long as it is kept. A party which needs to fight undead, demons, or wicked mortals is wise to recruit a knight to their ranks.
@@ -609,6 +677,17 @@ Spend one grit and aim your sword at a creature, demanding they answer a questio
 
 #### Weapons Training
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
+
+```
+#################################
+#  _    _ _                  _  #
+# | |  | (_)                | | #
+# | |  | |_ ______ _ _ __ __| | #
+# | |/\| | |_  / _` | '__/ _` | #
+# \  /\  / |/ / (_| | | | (_| | #
+#  \/  \/|_/___\__,_|_|  \__,_| #
+#################################
+```
 
 ## Class: Wizard
 The mages guild grants licenses for arcane magic to wizards. Though they are legitimate under iron law, wizards are widely feared and mistrusted from stories passed on since the latter days of the mage wars. It's a common belief that every wizard is secretly either a necromancers, placing curses, or might accidentally vaporize half of a village with their magic. A party which needs to read magical text, study arcane artifacts, and wield reality-bending powers is well-served by recruiting a wizard.
@@ -762,6 +841,16 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 5. Life Drain(3rd): Target a creature within 30ft, which must save to halve damage. Target ages 1 year for each damage they receive. You gain half the damage dealt as hearts, and gain all youth the target lost.
 6. Reanimate(3rd): Raise one creature from the dead. They are cold to the touch and cannot eat, sleep, or breathe. The raised may only heal through magic means and are considered undead. If they had reincarnated, their current incarnation instantly dies.
 
+```
+############################
+#  _    _ _ _       _      #
+# | |  | (_) |     | |     #
+# | |  | |_| |_ ___| |__   #
+# | |/\| | | __/ __| '_ \  #
+# \  /\  / | || (__| | | | #
+#  \/  \/|_|\__\___|_| |_| #
+############################
+```
 
 ## Class: Witch
 You work with the blessing of the threefold goddess. The Maiden threads the needle of life, the Mother pulls the thread, and the Crone severs it. Some venture out to find witches with desperate need for their healing, while others carry superstitious fears any witch may sacrifice them to the Crone. A party who wishes to quickly recover from injuries and raise their fallen is well-served by recruiting a witch.
@@ -851,6 +940,17 @@ You make an unarmed attack in the form of a kiss. This attack automatically hits
 ### Ice Armor
 Your body appears to age and turn gaunt, the air around you growing chilly. All damage you take is subtracted from your heal pool. If an attacker is within 5ft of you, every heart taken from your heal pool is dealt to them as a damage. This spell ends when you rest or when your heal pool is exhausted.
 
+```
+#################################################
+#   ___  _      _                    _     _    #
+#  / _ \| |    | |                  (_)   | |   #
+# / /_\ \ | ___| |__   ___ _ __ ___  _ ___| |_  #
+# |  _  | |/ __| '_ \ / _ \ '_ ` _ \| / __| __| #
+# | | | | | (__| | | |  __/ | | | | | \__ \ |_  #
+# \_| |_/_|\___|_| |_|\___|_| |_| |_|_|___/\__| #
+#################################################
+```
+
 ## Class: Alchemist
 Seen as possibly the most legitimate form of magic user, apothecaries are a common sight in larger cities, and their goods are peddled far and wide. It's a rarer breed of alchemist which adventurers, usually by teaching themself the art with makeshift equipment and whichever exotic ingredients they can salvage from fallen monsters and foraged wildlife. A party who wishes to remain well-stocked with a variety of potions at little expense is wise to recruit an alchemist.
 
@@ -886,6 +986,17 @@ You may expend three brews to attempt a spell potion. Choose three different ing
 
 #### Marksmanship
 You gain proficiency in crossbows and hand crossbows.
+
+```
+###############################
+# ______     _           _    #
+# | ___ \   (_)         | |   #
+# | |_/ / __ _  ___  ___| |_  #
+# |  __/ '__| |/ _ \/ __| __| #
+# | |  | |  | |  __/\__ \ |_  #
+# \_|  |_|  |_|\___||___/\__| #
+###############################
+```
 
 ## Class: Priest
 Priests and priestesses speak and act in service of the Planets. Though the entire pantheon is well-known, some divine names are more welcome than others, or else beloved in one town and feared in another. A party which needs a highly flexible magic user is well-served by recruiting a priest.

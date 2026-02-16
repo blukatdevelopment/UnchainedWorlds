@@ -952,17 +952,69 @@ Your body appears to age and turn gaunt, the air around you growing chilly. All 
 ```
 
 ## Class: Alchemist
-Seen as possibly the most legitimate form of magic user, apothecaries are a common sight in larger cities, and their goods are peddled far and wide. It's a rarer breed of alchemist which adventurers, usually by teaching themself the art with makeshift equipment and whichever exotic ingredients they can salvage from fallen monsters and foraged wildlife. A party who wishes to remain well-stocked with a variety of potions at little expense is wise to recruit an alchemist.
+Seen as possibly the most legitimate form of magic user, apothecaries are a common sight in larger cities, and their goods are peddled far and wide. It's a rarer breed of alchemist which adventures, usually by teaching themself the art with makeshift equipment and whichever exotic ingredients they can salvage from fallen monsters and foraged wildlife. A party who wishes to remain well-stocked with a variety of potions at little expense is wise to recruit an alchemist.
 
 ### At level 1
 #### Skills
 - Alchemy
+- Nature
+- Medicine
+- Blowguns
+- Daggers
 
-#### Gather and Harvest Ingredients
-You may spend an hour in nature gathering wild alchemical ingredients. Make an alchemy check against a DC selected by the keeper according to the abundance of resources in the space(very easy: 8, easy: 10, moderate 15, hard 20). If you succeed, subtract the DC from your roll and divide by 2(minimum of one) to determine how many ingredients you gather. The keeper will provide the name of each ingredient. After you gather an ingredient once, you may seek it out when gathering in the future. You may spend 10 minutes to attempt to harvest ingredients from each fallen monster's body one time. Make an alchemy check against a DC selected by the keeper(25, minus the monster's maximum hearts. Minimum 8.). Succeeding grants one monster part, and succeeding by 5 or more grants two monster parts. The keeper will provide the names of the monster parts.
+#### Foraging Ingredients
+You are adept with foraging for common alchemical ingredients from nature. During a rest, you may spend one or more alchemy point to forage for ingredients. For each alchemy point you spend foraging, you find D6 samples of one ingredient. Each sample fills a glass or clay vial. In the majority of the Blood Plains, roll against the table below (a D20 for the category, then a D6 for the specific item). If you are in a more exotic location, such as underground caverns, consult the keeper. During downtime(between adventures), you may forage 5 ingredients at no cost of alchemy points.
+
+1. Flower(Sunflower, Dandelion, Daisy, Lily, Thistle, Marigold)
+2. Flower(Lavender, Daffodil, Petunia, Morning Glory, Zinnia, Hibiscus)
+3. Flower(Magnolia, Primrose, Myrtle, Camellia, Crysantheum, Sweetpea)
+4. Flower(Petunia, Poppy, Orchid, Hydrangea, Azalea, Mistletoe)
+5. Mushroom(Warted Puffball, Morel, Hare's Ear, Horn of Plenty, Golden Coral, Lion's Mane)
+6. Mushroom(Beefsteak Fungus, Common Stinkhorn, Basket Stinkhorn, Bird's Nest Fungus, Split Gill, Giant Club Fungus)
+7. Mushroom(Yellow Stagshorn, Candlestick Fungus, Carnival Candy Slime Mold, Caterpillar Fungus growing on a wasp, Loose Smut of Wheat, Wheat Leaf Rust)
+8. Mushroom(Common earthball, Black Jelly Drops, Elastic Saddle, White Saddle, Coral Tooth Fungus, False Tinder Fungus)
+9. Mushroom(Chicken of the Woods, Sweet Tooth, Turkey Tail, Shingled Hedgehog, Cauliflower Fungus, Bergundy Truffle)
+10. Lichen(black, yellow, orange, blue, green, or red)
+11. Root(Burdock, Anise Root, Horseradish, Echinacea, Goldenseal, Ginseng)
+12. Root(Nettle, Chicory, Mullein, Carrot, Mandrake, Ginger)
+13. Root(Cattail, Lotus, False Dandelion, Sunchoke, Gayfeather, Blackhaw)
+14. Leaf(Sage, Yarrow, Peppermint, Witch Hazel, Lobelia, )
+15. Bark(Willow, Black Cherry, Pine, Slippery Elm, Sassafras)
+16. Fruit(Pawpaw, Wild Grapes, Blueberries, Brambles, Cranberries, Red Mulberries)
+17. Moss(Pincushion, Fern, Heath Star, Haircap, Creeping Feather, Creeping Cushion, Slender Silk)
+18. Bug(Spider, Dragonfly, Grasshopper, Leech, Snail, Moth)
+19. Bug(Beetle, Honey Bee, Centipede, Worm, Crayfish, Butterfly)
+20. Bones(Bird, Lizard, Snake, Mouse, Deer, Possum)
+
+#### Harvesting Ingredients
+You may spend 10 minutes to successfully harvest the external parts of one monster.(claws, talons, fangs, horns, beaks, scales, pelts, etc) You may spend 10 minutes and succeed a DC10 medicine check to harvest one internal part from a monster. To learn what alchemical parts a type of monster has, you may sacrifice one specimen for an exploratory dissection which destroys the specimen's parts. If you bring an intact specimen back at the end of an adventure, you may automatically harvest all parts successfully.
 
 #### Brew Potions
-You start with 3 brews per rest. During a rest, you may expend a brew and attempt to create a potion, provided you have brewing equipment and containers to fill. Describe the desired effect of the potion incorporating on one or more ingredients consumed by the brew process, negotiating a DC with the keeper. Once you agree on a potion effect, ingredients, and a DC, make an alchemy check against that DC. On a success, you brew the potion as described. A potion can be used to coat up to ten sharp weapons, which will dry up after being used on a target, or after a minute of being applied.
+You have 3 alchemy points. During a rest, you may expend a number of alchemy points and brew that many unique potions. Describe the desired effect of the potion incorporating on one or more ingredients consumed by the brew process, negotiating a DC with the keeper. Once you agree on the effect, ingredients, and DC, make an alchemy check to determine the quality of the potion you brew. A brewed potion or poison fits in a vial. A vial of poison can be dipped with the tip of a weapon 10 times, and the dipped item dries after 1 minute.
+- Superior(Roll a natural 20): Potion effect and duration are doubled
+- Greater(Succeed by 5 or more): +1 to effect, or(if effect has no numbers) +50% duration
+- Average(Succeed): Potion works normally
+- Lesser(Fail): A poison gets 1 on the table below. A poison gets a random side-effect. Side-effects persist until completing a rest.
+1. Half effect, or(if effect has no numbers) half duration
+2. Receive D6 damage
+3. Receive 1 damage
+4. Mentally regress to beast
+5. Telepathically broadcast your thoughts in a 90ft radius
+6. Cannot lift more than 10lbs with both arms
+7. Hands become snakes
+8. All sounds are painfully loud
+9. Skin gains sense of taste
+10. Metal objects rust rapidly if you touch them
+11. Swap locations with last creature you touched
+12. Amnesia
+13. See hat man following you
+14. Shivering and shaking hands
+15. Fingers become stuck in one pose
+16. Feet make a loud squeaky noise when you walk
+17. Hallucinations
+18. Flatulance
+19. Strong odor in 90ft radius
+20. Fur/skin/scales/feathers change color(Blue, Red, Green, Yellow, Pink, Orange)
 
 ### After level 1
 Choose either a class ability or general ability.
@@ -972,20 +1024,26 @@ Choose either a class ability or general ability.
 #### Physical Education
 You take time to study the physical arts. You gain +3 HP. You may select this ability a total of three times.
 
-### Alchemical training
-You hone your skill and have an additional +3 brews per rest. You may take select this ability a total of five times.
+#### Alchemical training
+You hone your skill and have an additional +3 alchemy points per rest. You may take select this ability a total of five times.
+
+#### Batch brewing
+When brewing a potion, you may consume multiple 
+
+#### Recipe book
+After you successfully brew a potion, you may now add the recipe to your own personal recipe book. If you have the recipe, you may skip a roll when brewing, automatically getting an average quality potion.
 
 #### Distillation
-You may use three times the ingredients for a potion to gain a +5 to the alchemy check.
+If your potion uses only one ingredient, you may instead expend three vials of that ingredient to gain a +1 to the potion's effect.
 
 #### Purification
-You may expend 2 brews when brewing a potion, gaining a +5 to the alchemy check.
+You may spend 5 alchemy points to re-brew a potion of poor quality, removing its side-effects.
 
 #### Spell Potion
-You may expend three brews to attempt a spell potion. Choose three different ingredients and a wizard school of magic, and roll a spell from the school's spell list. The DC is 10 per spell level.
+You may now brew spell potions, which require three ingredients corresponding to the effect. For the effect, choose a 1st level spell from the wizard's spell list. When you drink the potion, you may cast the spell within the next minute. The brewing DC is 15.
 
 #### Marksmanship
-You gain proficiency in crossbows and hand crossbows.
+You gain proficiency with crossbows and hand crossbows.
 
 ```
 ###############################
@@ -1216,6 +1274,7 @@ These prices reflect a shopping trip to a major city's markets.
 
 ### Misc
 - 1SP 20lb sack of feed(one day ration for mounts)
+- 5SP Clay vial
 - 1T 10ft Pole
 - 2T Piton
 - 2T Drone Flute
@@ -1239,6 +1298,7 @@ These prices reflect a shopping trip to a major city's markets.
 - 2C Hunting Trap
 - 2C 10ft Chain
 - 2C Portable Ram
+- 5C Padded vial case(Fits 25 vials)
 - 5C Healer's Kit (10 charges, D6 Hearts, won't heal past half max hearts)
 - 5C Alembic, Calcinator, Retort, or Mortar & Pestle
 - 5C Grappling Hook

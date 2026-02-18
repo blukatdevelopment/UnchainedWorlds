@@ -1068,7 +1068,7 @@ You take time to study the physical arts. You gain +3 HP. You may select this ab
 You hone your skill and have an additional +3 alchemy points per rest. You may take select this ability a total of five times.
 
 #### Batch brewing
-When brewing a potion, you may consume multiple 
+When brewing a potion, you may brew a set of three identical potions, sharing the alchemy check.
 
 #### Recipe book
 After you successfully brew a potion, you may now add the recipe to your own personal recipe book. If you have the recipe, you may skip a roll when brewing, automatically getting an average quality potion.

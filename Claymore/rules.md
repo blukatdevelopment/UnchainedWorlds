@@ -418,9 +418,9 @@ For many, hunting is a matter of trade and survival. For the ranger, the hunt is
 
 #### Grit
 You have 3 grit, which recovers on a rest. You may spend grit on the following:
-- Dire Shot: Make a ranged attack. On a hit, it deals max damage.
+- Precise Shot: Make a ranged attack, which has a +2d6 bonus to hit.
 - Double Shot: Make two ranged attacks.
-- Second Wind(2 grit): Use an action to heal D6 hearts.
+- Herbal Poultice: Spend 10 minutes, heal target D6 hearts.
 - Overwatch: Until your next turn, make up to three ranged attacks at creatures that move within line of sight.
 
 ### After level 1
@@ -434,8 +434,21 @@ You gain 5 hearts and 3 grit. You may select this ability multiple times to gain
 #### Grit Action: Called Shot
 Make a ranged attack, aiming at a specific bodypart, without any penalties. You may shoot an object out of a creature's hand this way, or else aim for the head(or equivalent weak pont) to deal critical damage on a hit.
 
-### Wilderness training
+#### Wilderness Training
 You gain expertise in survival as well as proficiency in nature and animal handling.
+
+#### Grit Action: Bushcraft(Requires Wilderness Training)
+You may spend 1 hour in the wilderness to produce crude adventuring gear. Choose from the following options:
+- 50ft rope
+- Flint axe, spear, or knife
+- Crude Bow(2d6 damage)
+- 1d6+1 torches
+- Waterskin
+- D6 flint arrows
+- D6 fresh rations
+
+#### Know Your Enemy
+You spend ten minutes studying a non-beastfolk creature, either by dissecting a dead specimen, or observing a live one. Until you complete a rest, you deal an addition D6 damage to this kind of creature.
 
 #### Dagger Expert
 You may dual wield daggers to perform a multi-attack with two attacks. You have advantage when defending with two daggers.
@@ -469,14 +482,14 @@ Trained in the art of war, the commander actively shapes the battlefield through
 You have 3 grit, which recovers on a rest. You may spend grit on the following:
 - Dire Strike: Make a melee attack. On a hit, it deals max damage.
 - Double Strike: Make a melee attack. It is a multi-attack(2).
-- Second Wind(2 grit): Use an action to heal D6 hearts.
+- Poultice: You take 10 minutes to forage ingredients, you forage ingredients to apply a poultice, healing one creature by D6.
 - Sentry: Until your next turn, you have three reactions for counter-attacks.
 
 #### Commands
-Once per turn, you may spend a grit to shout one of the following commands, which effect allies in earshot until the start of your next turn.
+Once per turn, you may spend a grit to shout one of the following commands as a free action, which effect allies in earshot until the start of your next turn.
 - Retreat!: Double movement when retreating.
 - Charge!: +D6 to on melee attack rolls.
-- Fire!: Max damage on ranged attacks(not spells).
+- Fire!:  Damage on ranged weapon attacks cannot be less than half.
 - Hold the line!: +D6 defending against melee attacks
 - Flank them!: Advantage to attack rolls when flanking.(ally on each side of enemy within 5ft)
 
@@ -562,10 +575,10 @@ It's said the heart of some are touched by the icy fingers of the Crone. It's be
 - Intimidation
 
 #### Grit
-You have 3 grit, which recovers on a rest. You may spend grit on the stances below. You may not use a stance when wearing armor, and may only have one stance active at once.
-- Striking Stance: For the next minute, your unarmed attacks cannot deal less than 3 damage.
-- Reactive Stance: For the next minute, you have 3 reactions each turn.
-- Defensive Stance: For the next minute, you have a D6 bonus defending against attacks.
+You have 3 grit, which recovers on a rest. You may spend grit on the stances below. You may not use a stance when wearing armor, and may only have one stance active at once. Each stance lasts exactly one minute(this turn and five more).
+- Striking Stance: Unarmed attacks deal max damage.
+- Defensive Stance: You have 2 Armor value and +D6 bonus defending against attacks.
+- Mobile Stance: You may hide or dash as a free action.
 
 #### Brawling Proficiency
 Your unarmed attacks deal D6 damage. When making unarmed attacks, you may instead multi-attack a single target with three attacks. When you counter-attack, you may instead instantly grapple the target. These effects are lost when wearing armor.
@@ -594,10 +607,13 @@ When you would successfully grapple a target, you may instead choose to swipe on
 When you successfully grapple a surprised creature from behind, you may perform the death hold to deal 6d6 damage.
 
 #### Grit Action: Return To Sender
-When you successfully defend against an arrow or thrown weapon within 30ft, you may spend a grit to catch the projectile and throw it back at the attacker, dealing D6.
+If you can see you attacker, you can counter-attack against arrows, darts, spears, etc by throwing them back for their normal damage.
 
 #### Grit Action: Acrobatic attack
-You run, climb, jump, swing, or springboard on your surroundings as part of your movement, granting advantage on an attack(or multi-attack) made that turn.
+You run, climb, jump, swing, or springboard on your surroundings as part of your movement, granting advantage on an attack(or multi-attack) made that turn. If your attack fails, you dodge the target's counterattack.
+
+#### Blindsight
+By detecting sound, scent, and vibrations in the ground, you can detect and attack creatures normally even with your eyes closed.
 
 ```
 ###################################
@@ -617,9 +633,9 @@ The royal blood of a fallen kingdom are neither noble, nor peasants. With no lor
 
 ### At level 1
 #### Skills
-- Sword
-- Lance
-- Crossbow
+- All swords
+- Lances
+- All crossbows
 - Athletics
 - Persuasion
 - Insight
@@ -648,11 +664,23 @@ You gain 7 hearts and 1 grit. You make select this ability multiple times. Each 
 #### Swordfighting Expertise
 You gain expertise with swords and may make two additional counter-attacks per turn.
 
-#### Call Steed
-You may expend 3 grit to whistle, conjuring a mystical horse(15 hearts, 2d6 damage trample attack) from thin air. With the oath of vengeance, your hell steed is skeletal and wreathed in flames that don't harm you. You may expend a grit to scorch those within a 5ft radius with your hell steed's flames, forcing them to save to halve 3d6 damage. With the oath of protection, your white steed is a winged pegasis which is capable of flight. The oath of justice turns the horse a deep gray and adorns it in silver jewlery and dragon scale armor(3 armor value, half damage from spells).
+#### Call Fiery Steed
+You expend 3 grit and point to a flame. The fire grows into the form of a steed, which you may ride unharmed. Other creatures receive D6 damage if they touch the steed.
 
-#### Sword of Wrath(Requires oath of vengeance)
+#### Call Winged Steed
+You expend 3 grit and speak a prayer toward a cloud. The clouds part to reveal a golden column of sunlight and a winged steed descending to serve you. The winged steed is capable of flight.
+
+#### Weapons Training
+Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
+
+#### Dark Aura(Requires Oath of Vengeance)
+You consume 2 grit, and for the next minute a dark aura extends in a 5ft radius. Objects around you rot, rust, and decay, flames burn blue, and creatures within the aura receive 2d6 damage at the start of their turn. Your unarmed attacks deal 2d6 damage, draining the life from targets and aging them one year per heart.
+
+#### Sword of Wrath(Requires Oath of Vengeance)
 You swear a pact with the Blade Devil, and he curses one sword, turning it into a +1 sword that is blood red. When you slay a creature with the sword, it consumes their soul and you recover 1 grit.
+
+#### Damnation(Requires Sword of Wrath)
+You spend 2 grit, point the sword of wrath at a target, and declare it damned. A rift to one of the hells opens 15ft from the target, and devilish chains wrap around the target, pulling it towards the rift. The creature is grappled, and at the start of its turn must succeed a DC15 strength check to avoid taking D6 damage and being pulled 5ft to the rift. If the creature enters the rift, the rift closes and the creature is trapped in that hell.
 
 #### Hell Runes(Requires Sword of Wrath)
 You learn one random rune from the table below, and may choose this ability again to gain more. You may select a rune and describe a spell, negotiating a cost in grit with the keeper. Once you have agreed on a spell effect and cost, you may cast it. The runes on the blade flicker and glow orange in the air around the blade when you use the magic of the hell runes. Hell Runes:
@@ -663,20 +691,32 @@ You learn one random rune from the table below, and may choose this ability agai
 5. Eye
 6. Rot
 
-#### Shield of Faith(Requires oath of protection)
+#### Golden Aura(Requires Oath of Protection)
+You consume 2 grit, and for the next minute a golden aura extends in a 5ft radius. Plants around you visibly grow, objects mend themselves, and allies within the aura receive 2 healing at the start of their turn. You may use your action to touch a creature and imbue it with youth, effectively removing 2d6 years from its age.
+
+#### Shield of Faith(Requires Oath of Protection)
 Any metal shield you wear gleams in the sunlight, providing +1 more armor value. When wielding such a shield, spell damage against you is halved. You may spend one grit to protect others standing adjacent to you with your shield, granting them its benefits(it still loses durability when blocking damage) until the start of your next turn.
+
+#### Sword of Mercy(Requires Oath of Protection)
+You select a sword and it turns silver, gleaming in the sunlight. This sword deals an additional D6 damage, but if it reduces a creature's hearts below 1, the creature is knocked unconscious and remains alive at 1 heart. A creature knocked unconscious by the sword of mercy will heal 1 heart per hour, waking when they are completely healed.
 
 #### Chalice of Life(Requires shield of faith)
 You select a chalice and it turns silver, gleaming in the sunlight. You have a pool of 10 hearts which recovers on each rest. A creature may drink from you chalice to restore one or more hearts from your pool. You may expend 1 grit to restore D6 hearts to your heal pool. You may expend one heart from this pool and anoint a recently deceased creature with water from your chalice to allow them to remake their death save.
 
-#### Sword of Scales(Requires oath of Justice)
+#### Call Silvery Steed
+You expend 3 grit and speak a prayer. An angel of justice appears in winged beastfolk form, requesting two proofs of residency on the mortal plane and provides steed acquisition form 406-E for you to sign in triplicate. The angel then ascends to the heavens to underwrite the request and argue your case before the SDC(Steed Disbursement Committee). The request must then be ratified by a 2/3 super-majority from the council of Humane Equine Handling and a regular majority from the council of fair monetary transmutation. In rare cases, the angelic intervention oversight committee may intervene for further questioning. If your request is not vetoed by the god of justice, then it will be fulfilled by the SDC, who will send the same angel of justice in winged beastfolk form to purchase a horse and deliver it to your current location with its mane dyed silver by a contractor. This process typically takes D6 business days from start to end, but be aware things are currently very busy, as it is always election year on the Justice level of the heavens.
+
+#### Silver Aura(Requires Oath of Justice)
+You consume 2 grit, and for the next minute a silver aura extends in a 5ft radius. Any damage dealt to your allies standing within the aura is immediately dealt back to their attackers in full.
+
+#### Sword of Scales(Requires Oath of Justice)
 You hold a non-magical sword up to the constellation of Libra and it becomes your sword of scales, making it a +1 sword. It shimmers silver in sunlight and deals an extra 2d6 damage against humanoids who are violent wrongdoers, including corrupt authorities.
+
+#### Litigation
+You consume 2 grit and point your sword of justice at a humanoid target, listing every evil deed they have done for the heavens to hear. An angel of justice appears in winged beastfolk form, opening their holy briefcase and serving the target repentence form 103-F. Until the the target completes the form and hands it to the angel of justice, they receive one damage for every evil deed you listed at the beginning of their turn. Completing the form takes one action per deed you listed. If anyone attacks the target during active litigation, they are held in contempt and handed their own copy of 103-F to fill out. The soul of a creature who dies by litigation is sentenced to a hundred years of ethereal community service performing invisible acts of kindness for the communities they wronged.
 
 #### Compel Truth(Requires Sword of Scales)
 Spend one grit and aim your sword at a creature, demanding they answer a question truthfully. Until you point your sword away, they cannot knowingly tell a lie. You may spend another grit and make a contested magic check to compel them to speak if they attempt to remain silent.
-
-#### Weapons Training
-Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
 
 ```
 #################################

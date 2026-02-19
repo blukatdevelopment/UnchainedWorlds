@@ -478,20 +478,20 @@ Trained in the art of war, the commander actively shapes the battlefield through
 - Persuasion
 - Insight
 
-#### Grit
-You have 3 grit, which recovers on a rest. You may spend grit on the following:
-- Dire Strike: Make a melee attack. On a hit, it deals max damage.
-- Double Strike: Make a melee attack. It is a multi-attack(2).
-- Poultice: You take 10 minutes to forage ingredients, you forage ingredients to apply a poultice, healing one creature by D6.
-- Sentry: Until your next turn, you have three reactions for counter-attacks.
-
-#### Commands
+#### Gritty Commands
 Once per turn, you may spend a grit to shout one of the following commands as a free action, which effect allies in earshot until the start of your next turn.
 - Retreat!: Double movement when retreating.
 - Charge!: +D6 to on melee attack rolls.
 - Fire!:  Damage on ranged weapon attacks cannot be less than half.
 - Hold the line!: +D6 defending against melee attacks
 - Flank them!: Advantage to attack rolls when flanking.(ally on each side of enemy within 5ft)
+
+#### Reactive Commands
+You learn a set of commands that you can use to target a single ally even after your turn is complete.
+These commands do not consume grit, but do consume your reaction.
+Watch out!: Grant +2d6 bonus to ally defending against an attack.
+Move!: Grant an ally an extra 30ft of movement.
+Gettem!: Grant advantage to ally's attack.
 
 #### Mercenary Recruitment
 You may now directly command one contracted mercenary in battle, provided they have an active contract with you. Demoralizing events such as losing half their hearts, witnessing an ally die, or witnessing a huge monster may trigger a morale check. You make a contested persuasion check against the mercenary. On a failure, the mercenary is routed and flees the battle. To recruit a mercenary, you pay a contract measured in weeks. Mercenaries are always loyal while under contract and passing their morale checks. The options for mercenary recruitment are given below.
@@ -550,6 +550,12 @@ You gain 2 hearts or 3 grit. You may select this ability multiple times.
 
 #### Advanced Negotiation
 You may recruit one additional mercenary. You may select this ability multiple times.
+
+#### Command: Get back here!
+You make a persuasion check with advantage to recall a retreating mercenary.
+
+#### Command: Focus!
+Allies have advantage on checks(excluding attacks and saves).
 
 ```
 #########################################
@@ -1462,6 +1468,7 @@ If you find yourself in a pinch, you may wish to open your purse and examine the
 # Acknowledgements
 ## Specific Contributions
 [D4 Caltrops d100 impedimenta](https://blog.d4caltrops.com/2019/04/random-impedimenta-d100-single-page.html) for some trinkets.
+[Mystic Arts](https://www.youtube.com/watch?v=2ZWk4szXXkY) for some commander abilities.
 
 ## General Inspiration
 Here's some inspirations which may or may not show in this document, but certainly have inspired my design ethos.
@@ -1471,7 +1478,6 @@ Here's some inspirations which may or may not show in this document, but certain
 [RPG PHD](https://www.youtube.com/@rpgphd) various concepts explained from an academic lens.
 [Dungeon Masterpiece](https://www.youtube.com/@DungeonMasterpiece) tweaks on various classical adventure design concepts and mechanics.
 [Questing Beast](https://www.youtube.com/@QuestingBeast) exposure to various OSR concepts.
-[Mystic Arts](https://www.youtube.com/channel/UCJQEEltSpi8LXqMH8uTrCQQ)
 [The Angry GM](https://theangrygm.com/) analysis of various dynamics.
 [Bandit's Keep](https://www.youtube.com/@BanditsKeep) examples of oldschool-flavored homebrew.
 [MCDM](https://www.youtube.com/@helloMCDM) intro to mainstream D&D, "tell, don't show", running the game like a movie, heroic power fantasy.

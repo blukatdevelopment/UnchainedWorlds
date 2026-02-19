@@ -552,7 +552,7 @@ You gain 2 hearts or 3 grit. You may select this ability multiple times.
 You may recruit one additional mercenary. You may select this ability multiple times.
 
 #### Command: Get back here!
-You make a persuasion check with advantage to recall a retreating mercenary.
+You make a persuasion check with advantage to recall retreating mercenaries. Roll once, and they roll against it.
 
 #### Command: Focus!
 Allies have advantage on checks(excluding attacks and saves).

@@ -11,7 +11,7 @@
 ####################################################
 ```
 # Claymore
-A rules-lite fantasy tabletop roleplaying game for dungeon-delving and adventuring.
+A rules-lite fantasy tabletop roleplaying game for the Verloren campaign.
 
 # Core mechanics
 The **keeper** controls a world and the creatures in it to the rest of the table. Players control adventurers who explore the world and go on adventures. In general, the keeper describes the situation, the player describes their character's attempted action, and the keeper resolves that action, using dice when needed.

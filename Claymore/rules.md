@@ -237,8 +237,11 @@ You may now fly at the same speed you walk.
 ### Claw proficiency(Requires claws)
 You train to use your claws more effectively. You may now climb at the same speed you walk. You are proficient with your claws, which deal 2d6 damage.
 
-### Jaws proficiency(Requires fangs)
+### Jaws Proficiency(Requires fangs)
 You train to use your jaws more effectively. You are proficient with your jaws, which now deal D6 damage and automatically grapple on a hit. If you have surprise when attacking with your jaws, they deal 3d6 damage.
+
+### Horns Proficiency(Requires horns)
+You train to use your horns in combat. You are proficient with your horns, which now deal D6 damage. If you run 20ft in a straight line and attack, your horns instead deal 3d6.
 
 ### Night eyes(Requires nocturnal vision)
 You train to use your natural night vision. You can see well in low-light conditions, albeit colorblind. On starry or moonlit nights you do not need an artificial lightsource, and the range of torches is expanded by 60 feet for you.

@@ -40,18 +40,6 @@ If an adventurer is proficient in a skill, they get a D6(six-sided die) bonus on
 ## Inventory
 How much an adventurer can carry is determined by plausibility. If you're ever unsure, talk it through with your keeper and the other players at the table.
 
-## Initiative
-When combat starts, adventurers enter initiative. One player rolls a D6 for the adventurers, and the keeper rolls a D6 for the monsters. The winning side goes first. After one side takes their turn, the next takes theirs, and so on. During a turn, an adventurer can move, perform a regular action such as attacking or casting a spell, and perform some free action such as retrieving an item from their belt or opening a door as they walk pass through it. Before an adventurer's next turn, they have a reaction which may be spent on making a counter-attack, performing a held action (such as waiting to fire an arrow when an enemy comes into sight), or otherwise reacting to their situation(ie attempting to trip a monster running past, at the risk of a counter-attack from the monster on failure).
-
-## Hearts And Damage
-An adventurer's health is measured in hearts, or heart points(HP). Damage reduces hearts, and healing raises it. Overhealing allows an adventurer's current hearts to exceed their maximum hearts.
-
-## Death Saving Throw
-When an adventurer hits 0 hit points, they may make a death saving throw to avoid dying. They roll a D6. On a 6, the adventurer miraculously survives with 1HP. On lower rolls, the adventurer dies.
-
-## Attacks
-An attacker and defender both roll a D20. If the attacker succeeds, they deal damage to the defender. If the attacker fails, the defender has a chance to counter-attack if they are within range and have a weapon in-hand. Some adventurers may make multi-attacks. A multi-attack involves rolling a separate D20 for each attack, and allowing the defender to roll one D20 against all of them. A defender can only counter-attack against a multi-attack if all attacks fail. Damage is rolled in D6s.
-
 ## Physical needs and rest
 ### Rest
 During the downtime between adventures, an adventurer generally heals completely.
@@ -68,6 +56,45 @@ An adventurer needs to eat 2lbs of food each day to sustain themselves. Failing 
 
 ### Sleep
 An adventurer needs to sleep 8 hours each night, or else they become exhausted. After the first night of rest skipped, they gain a -2 penalty to all D20 rolls. After the second night, the adventurer must make a DC5 check each hour to resist falling asleep where they stand. An adventurer can spend 1 grit to automatically pass a check.
+
+## Initiative
+When combat starts, adventurers enter initiative. One player rolls a D6 for the adventurers, and the keeper rolls a D6 for the monsters. The winning side goes first. After one side takes their turn, the next takes theirs, and so on. During a turn, an adventurer can move, perform a regular action such as attacking or casting a spell, and perform some free action such as retrieving an item from their belt or opening a door as they walk pass through it. Before an adventurer's next turn, they have a reaction which may be spent on making a counter-attack, performing a held action (such as waiting to fire an arrow when an enemy comes into sight), or otherwise reacting to their situation(ie attempting to trip a monster running past, at the risk of a counter-attack from the monster on failure).
+
+## Combat
+### Hearts And Damage
+An adventurer's health is measured in hearts, or heart points(HP). Damage reduces hearts, and healing raises it. Overhealing allows an adventurer's current hearts to exceed their maximum hearts.
+
+### Death Saving Throw
+When an adventurer hits 0 hit points, they may make a death saving throw to avoid dying. They roll a D6. On a 6, the adventurer miraculously survives with 1HP. On lower rolls, the adventurer dies.
+
+### Attacks
+An attacker and defender both roll a D20. If the attacker succeeds, they deal damage to the defender. If the attacker fails, the defender has a chance to counter-attack if they are within range and have a weapon in-hand. Some adventurers may make multi-attacks. A multi-attack involves rolling a separate D20 for each attack, and allowing the defender to roll one D20 against all of them. A defender can only counter-attack against a multi-attack if all attacks fail. Damage is rolled in D6s.
+
+## Level Progression
+Characters gain levels by gaining experience points(XP). For levels 0-20, the following table shows how much total XP you need.
+```
+0: 0
+1: 50
+2: 100
+3: 150
+4: 200
+5: 250
+6: 350
+7: 450
+8: 550
+9: 650
+10: 750
+11: 950
+12: 1150
+13: 1350
+14: 1550
+15: 1750
+16: 2050
+17: 2350
+18: 2650
+19: 2950
+20: 3550
+```
 
 # Ancestry
 To determine your adventurer's physical appearance, choose or roll for their ancestry. Roll a D6 for the tens place and another D6 for the ones place on the table below.
@@ -121,54 +148,42 @@ You were raised within the safety of a walled off village of fifty or so familie
 with their time left over after farming for their lord, a peasant household spends the rest on a profession to cover living expenses. Roll on the table below for a family profession. This is your last name. You may also add the profession as a skill proficiency.
 
 ```
-11. Planter: Farmer
-12. Tiller: Farmer
-13. Fielder: Farmer
+11. Planter: Farms
+12. Tiller: Farms
+13. Fielder: Farms
 14. Miller: Mills grain
-15. Kidman: Keeps goats
-16. Shepherd: Keeps sheep 
-17. Skinner: Deals hides and furs
-18. Fowler: Catches birds or wildfowl
-19. Forester: Keeper of forest
-20. Horner: Carves horn
-21. Fisher: Fisherman
-22. Trapper: Collects furs
-23. Baker: Baker
-24. Cook: Cook
-25. Cleaver: Butcher
-26. Mercer: Merchant
-27. Stiller: Distiller of spirits
-28. Brewer: Brewer of ale
-29. Glover: Maker of gloves
-30. Weaver: Weaver of cloth
-31. Taylor: Tailor
-32. Tanner: Tanner of hides
-33. Topper: Hat maker
-34. Sadler: Saddle maker
-35. Smith: Metalworker
-36. Mailer: One who mails (hammers) metal
-37. Coker: Charcoal maker or worker with coke
-38. Stoker: Feeder of a furnace
-39. Turner: Lathe worker
-40. Naylor: Maker of nails
-41. Cooper: Maker of barrels and casks
-42. Thatcher: Roofer using thatch
-43. Crocker: Maker of earthenware
-44. Barber: Cutter of hair, shaver, and surgeon
-45. Carter: Driver of a cart
-46. Chandler: Candlemaker
-51. Fletcher: Maker of arrows
-52. Webster: Weaver using web-weaving technique
-53. Chaucer: Shoemaker
-54. Churchill: Blacksmith
-55. Mason: Brick-layer
-56. Potter: Maker of pots
-61. Plowman: Farmer
-62. Roper: Rope-maker
-63. Sawyer: Woodcutter
-64. Woodman: Feller of trees
-65. Leech: Doctor or surgeon
-66. Hunter: Hunter
+15. Plowman: Guides a plow
+16. Shepherd: Herds sheep
+21. Skinner: Deals in hides and furs
+22. Fowler: Raises birds
+23. Mason: Lays bricks
+24. Horner: Carves horn
+25. Fisher: Collects fish
+26. Trapper: Catches small game
+31. Baker: Bakes bread
+32. Cook: Cooks meals
+33. Cleaver: Butchers animals
+34. Mercer: Sells goods
+35. Fletcher: Makes arrows
+36. Chaucer: Makes shoes
+41. Glover: Makes gloves
+42. Weaver: Weaves cloth
+43. Taylor: Sews textiles
+44. Tanner: Tans hides
+45. Topper: Makes hats
+46. Sadler: Makes saddles
+51. Potter: Maker of pots
+52. Mailer: One who mails (hammers) metal
+53. Hunter: Goes on hunts outside the walls
+54. Sawyer: Saws wood
+55. Roper: Makes ropes
+56. Leech: Performs medicinal blood-letting
+61. Cooper: Maker of barrels and casks
+62. Thatcher: Roofer using thatch
+63. Crocker: Maker of earthenware
+64. Barber: Cuts hair and beards
+65. Carter: Carts things across town
+66. Chandler: Makes candles of fat and wax
 ```
 
 ### Name
@@ -178,9 +193,6 @@ For a first name, roll on the profession table three times and combine the words
 3. Pull out some cool syllables: Pl er for
 4. Combine to make a name: Plerfor
 
-Pull out some syllables and tweak as necessary to make your first name. For a last name, use the profession you rolled above.
-Example: Plerfor Tanner
-
 ### Starting Gear
 You get the following items:
 - Simple tunic or dress
@@ -189,31 +201,6 @@ You get the following items:
 # Classes
 Unless otherwise specified, adventurers begin as commoners at level 0 and level up from there by gaining XP. When an adventurer reaches level 1, they pick a class(or may roll a D20 for a random one on the table below). At level 1, they are granted certain benefits. After level 1 an adventurer can choose from a list of options to gain as they level up.
 
-## Level Progression
-Characters gain levels by gaining experience points(XP). For levels 0-20, the following table shows how much total XP you need.
-```
-0: 0
-1: 50
-2: 100
-3: 150
-4: 200
-5: 250
-6: 350
-7: 450
-8: 550
-9: 650
-10: 750
-11: 950
-12: 1150
-13: 1350
-14: 1550
-15: 1750
-16: 2050
-17: 2350
-18: 2650
-19: 2950
-20: 3550
-```
 ## Random class
 If you need help deciding, roll a D20 against this table.
 ```
@@ -638,7 +625,7 @@ By detecting sound, scent, and vibrations in the ground, you can detect and atta
 ```
 
 ## Class: Knight
-The royal blood of a fallen kingdom are neither noble, nor peasants. With no lords to serve, they instead raise their swords for good. Though not all knights have once-royal blood in their veins, they all swear an oath. Their oath is answered with supernatural power so long as it is kept. A party which needs to fight undead, demons, or wicked mortals is wise to recruit a knight to their ranks.
+Not all those who crusade do so for a royale banner. Some are called to serve virtue, and in doing so swear an oath. Ever sympathetic to the cause, a thousand heavens and hells watch, listen, and lend their aid to the worthy. These entities are just as quick to revoke the assistance they lend.
 
 ### At level 1
 #### Skills
@@ -665,7 +652,7 @@ Make an oath, which grants you magical powers such as smite and serves as your g
 ### After level 1
 Choose either a class ability or general ability.
 
-### Class Abilities
+### Class Abilities(All Oaths)
 
 #### Knightly Endurance
 You gain 7 hearts and 1 grit. You make select this ability multiple times. Each time you select this ability, it grants 1 less heart and 1 more grit.
@@ -673,14 +660,15 @@ You gain 7 hearts and 1 grit. You make select this ability multiple times. Each 
 #### Swordfighting Expertise
 You gain expertise with swords and may make two additional counter-attacks per turn.
 
-#### Call Fiery Steed
-You expend 3 grit and point to a flame. The fire grows into the form of a steed, which you may ride unharmed. Other creatures receive D6 damage if they touch the steed.
-
-#### Call Winged Steed
-You expend 3 grit and speak a prayer toward a cloud. The clouds part to reveal a golden column of sunlight and a winged steed descending to serve you. The winged steed is capable of flight.
-
 #### Weapons Training
 Gain proficiency with a new weapon, or expertise with a weapon you are proficient with.
+
+### Oath Of Vengeance
+"I will avenge the fallen by slaying their murderers."
+Your proclamation spreads toothy grins across the hells. Devils writhe on their thrones, giddy over promise of that rarest suffering which only the self-righteous can bring. One rises to the occasion above all others, the blade devil. Wherever you go, whatever horrors you repackage as just desserts, your blood runs hot with the essence of the edge lord. 
+
+#### Call Fiery Steed(Requires Oath of Vengeance)
+You expend 3 grit and point to a flame. The fire grows into the form of a steed, which you may ride unharmed. Other creatures receive D6 damage if they touch the steed.
 
 #### Dark Aura(Requires Oath of Vengeance)
 You consume 2 grit, and for the next minute a dark aura extends in a 5ft radius. Objects around you rot, rust, and decay, flames burn blue, and creatures within the aura receive 2d6 damage at the start of their turn. Your unarmed attacks deal 2d6 damage, draining the life from targets and aging them one year per heart.
@@ -700,8 +688,20 @@ You learn one random rune from the table below, and may choose this ability agai
 5. Eye
 6. Rot
 
+### Oath of Protection
+"I will defend the powerless without exception."
+Your proclamation tugs at the heart strings of
+the most merciful angels of the heavens with
+rainbows, puppies, and fluffy white clouds.
+Each angel there views your struggles and
+sheds sympathetic tears from their hundreds
+of eyes. Be not afraid!
+
 #### Golden Aura(Requires Oath of Protection)
 You consume 2 grit, and for the next minute a golden aura extends in a 5ft radius. Plants around you visibly grow, objects mend themselves, and allies within the aura receive 2 healing at the start of their turn. You may use your action to touch a creature and imbue it with youth, effectively removing 2d6 years from its age.
+
+#### Call Winged Steed(Requires Oath of Protection)
+You expend 3 grit and speak a prayer toward a cloud. The clouds part to reveal a golden column of sunlight and a winged steed descending to serve you. The winged steed is capable of flight.
 
 #### Shield of Faith(Requires Oath of Protection)
 Any metal shield you wear gleams in the sunlight, providing +1 more armor value. When wielding such a shield, spell damage against you is halved. You may spend one grit to protect others standing adjacent to you with your shield, granting them its benefits(it still loses durability when blocking damage) until the start of your next turn.
@@ -711,6 +711,10 @@ You select a sword and it turns silver, gleaming in the sunlight. This sword dea
 
 #### Chalice of Life(Requires shield of faith)
 You select a chalice and it turns silver, gleaming in the sunlight. You have a pool of 10 hearts which recovers on each rest. A creature may drink from you chalice to restore one or more hearts from your pool. You may expend 1 grit to restore D6 hearts to your heal pool. You may expend one heart from this pool and anoint a recently deceased creature with water from your chalice to allow them to remake their death save.
+
+### Oath of Justice
+"I will right the world's wrongs, or die trying."
+Pursuant to section 5 of the Justice Accords, the Paladin Review Committee for the mortal planes region has accepted your oath for preliminary review. The chairmain of the PRC wishes to inform you that probationary paladin status has been granted. Be advised, the PRC will review your progress during the bi-weekly PRC paladin review meetings. A copy of the paladin terms of service will be delivered to you as soon as it is finalized. The final draft is on track for completion between 20 and 2000 years from now. In the mean time, please be patient and use your best judgement in your conduct.
 
 #### Call Silvery Steed
 You expend 3 grit and speak a prayer. An angel of justice appears in winged beastfolk form, requesting two proofs of residency on the mortal plane and provides steed acquisition form 406-E for you to sign in triplicate. The angel then ascends to the heavens to underwrite the request and argue your case before the SDC(Steed Disbursement Committee). The request must then be ratified by a 2/3 super-majority from the council of Humane Equine Handling and a regular majority from the council of fair monetary transmutation. In rare cases, the angelic intervention oversight committee may intervene for further questioning. If your request is not vetoed by the god of justice, then it will be fulfilled by the SDC, who will send the same angel of justice in winged beastfolk form to purchase a horse and deliver it to your current location with its mane dyed silver by a contractor. This process typically takes D6 business days from start to end, but be aware things are currently very busy, as it is always election year on the Justice level of the heavens.

@@ -469,7 +469,7 @@ Trained in the art of war, the commander actively shapes the battlefield through
 - Insight
 
 #### Gritty Commands
-Once per turn, you may spend a grit to shout one of the following commands as a free action, which effect allies in earshot until the start of your next turn.
+You have 3 grit. Once per turn, you may spend a grit to shout one of the following commands as a free action, which effect allies in earshot until the start of your next turn.
 - Retreat!: Double movement when retreating.
 - Charge!: +D6 to on melee attack rolls.
 - Fire!:  Damage on ranged weapon attacks cannot be less than half.

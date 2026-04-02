@@ -246,7 +246,7 @@ You gain proficiency with swords, spears, bows, horseriding, and survival.
 If you are dual-wielding weapons you are proficient with, you may perform a double-strike with them, no grit needed.
 
 ### Tavern Training
-If you couldn't spit and make a spitoon ring before, you can now. You gain 1 grit. Choose one of the following skills and either gain proficiency or expertise(if you are already proficient): Deception, Intuition, Performance, Intimidation.
+If you couldn't spit and make a spitoon ring before, you can now. You gain 1 grit. Choose one of the following skills and either gain proficiency or expertise(if you are already proficient): Deception, Intuition, Performance, Intimidation, sleight of hand, stealth.
 
 ### Endurance Training
 You gain 5 maximum hearts and have proficiency when making saves that rely on your physical constitution, such as when resisting the effects of cold, poison, and illness.

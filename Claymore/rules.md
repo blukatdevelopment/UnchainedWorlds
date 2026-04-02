@@ -308,10 +308,13 @@ You have advantage on checks to resist being grappled or restrained, and cannot 
 You automatically succeed in using an object like a thick book, backpack, or piece of furniture as a shield, absorbing all or a portion of an attack's damage.
 
 #### Backstab
-When you melee attack a surprised enemy from behind, you deal maximum damage.
+You now have expertise with daggers. When you dagger attack a surprised enemy from behind, you deal maximum damage.
+
+#### Grit Action: Bleeding Strike
+Make a dagger attack against a target with blood. Attack gains a +6 bonus to hit and damage. Target saves a DC15 to end bleeding, or takes 6 damage. Bleeding can be ended by DC15 medicine check.
 
 #### On Guard!
-You gain expertise with swords.
+You gain expertise with swords, and a +D6 bonus defending against melee attacks with a sword.
 
 #### Bardic Magic
 You gain an instrument from the list below. Every rest, you may practice your instrument to prepare two wizard spells. You may choose between the following school spell lists to roll a spell from: psychic, illusion, alteration. You may consume 3 grit per spell level(3 for 1st, 6 for 2nd, 9 for 3rd) to play your instrument and cast a prepared spell. 

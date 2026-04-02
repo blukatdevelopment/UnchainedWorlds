@@ -775,7 +775,7 @@ Choose either a class ability or general ability.
 You guide your studies. Select 3 spells which are either cantrips or 1st level, and which you don't know. Roll a D6 (1-2: spell A, 3-4: spell B, 5-6: spell C) to learn one. You may select this ability mutliple times. At level 5, you may select 2nd level spells. At level 10, you may select 3rd level spells.
 
 #### Exploratory Research
-You let your studies guide you. Roll three random spells from the wizard spell list and choose one. You may select this ability multiple times.
+You let your studies guide you. Roll three random spells from the wizard spell list and choose one.
 
 #### Wand
 During a rest, you may fashion a stick into a wand, converting all previously made wands back into regular sticks. Your wand has 5 charges, which recover on a rest. You may cast a spell contained in your spellbook by using charges from the wand, the cost determined by the spell's level:

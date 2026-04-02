@@ -242,11 +242,23 @@ Choose one of the starting spells offered to a wizard via Wizard Education and l
 ### Martial Training
 You gain proficiency with swords, spears, bows, horseriding, and survival.
 
+### Dual-wielder
+If you are dual-wielding weapons you are proficient with, you may perform a double-strike with them, no grit needed.
+
+### Tavern Training
+If you couldn't spit and make a spitoon ring before, you can now. You gain 1 grit. Choose one of the following skills and either gain proficiency or expertise(if you are already proficient): Deception, Intuition, Performance, Intimidation.
+
 ### Endurance Training
 You gain 5 maximum hearts and have proficiency when making saves that rely on your physical constitution, such as when resisting the effects of cold, poison, and illness.
 
 ### Academic Training
 If you couldn't before, you can now read and write. Choose one of the following skills and either gain proficiency or expertise(if you are already proficient): Magic, Nature, Animal Handling, Medicine, Survival, Performance, Persuasion.
+
+### Inventor
+You may now tinker with mundane and magical artifacts you find, combining and modifying them in ways that require technical skill. Workshop your deisgn with the keeper, and choose one limitation for your device:
+1. Chance of failure: 1 in 6 chance your device jams, misfires, or explodes(whichever is most appropriate).
+2. Consumes a magical resource: every use consumes HP, grit, spirit points, or an item.
+3. Debuff: It works perfectly for free each time, but comes with a downside.
 
 ## Class: Commoner
 You start with 10 hearts, your unarmed attacks deal 2 damage, your base movement is 30ft per turn, and you may pick one general skill that relates to your profession.

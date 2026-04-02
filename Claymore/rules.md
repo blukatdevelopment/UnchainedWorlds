@@ -254,8 +254,8 @@ You gain 5 maximum hearts and have proficiency when making saves that rely on yo
 ### Academic Training
 If you couldn't before, you can now read and write. Choose one of the following skills and either gain proficiency or expertise(if you are already proficient): Magic, Nature, Animal Handling, Medicine, Survival, Performance, Persuasion.
 
-### Inventor
-You may now tinker with mundane and magical artifacts you find, combining and modifying them in ways that require technical skill. Workshop your deisgn with the keeper, and choose one limitation for your device:
+### Inventor(Requires you can read and write)
+You may now tinker with mundane and magical artifacts you find, combining and modifying them in ways that require technical skill. Workshop your design with the keeper, and choose one limitation for your device:
 1. Chance of failure: 1 in 6 chance your device jams, misfires, or explodes(whichever is most appropriate).
 2. Consumes a magical resource: every use consumes HP, grit, spirit points, or an item.
 3. Debuff: It works perfectly for free each time, but comes with a downside.

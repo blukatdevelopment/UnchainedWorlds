@@ -65,7 +65,7 @@ When combat starts, adventurers enter initiative. One player rolls a D6 for the 
 An adventurer's health is measured in hearts, or heart points(HP). Damage reduces hearts, and healing raises it. Overhealing allows an adventurer's current hearts to exceed their maximum hearts.
 
 ### Death
-When an adventurer hits 0 hearts, their soul separates from their body. Various forms of spirits may interact with the severed soul, attempting to consume it, usher it to an after life, or make dark bargains. Depending on the condition of the body, a healer's kit or healing magic can bring an adventurer back from the brink of death. A DC15 medicine check can revive a flatlining adventurer to 1 heart.
+When an adventurer hits 0 hearts, their soul separates from their body. Various forms of spirits may interact with the severed soul, attempting to consume it, usher it to an after life, or make dark bargains. Depending on the condition of the body, healing magic can bring an adventurer back from the brink of death. A DC15 medicine check can revive a flatlining adventurer to 1 heart.
 
 ### Attacks
 An attacker and defender both roll a D20. If the attacker succeeds, they deal damage to the defender. If the attacker fails, the defender has a chance to counter-attack if they are within range and have a weapon in-hand. Some adventurers may make multi-attacks. A multi-attack involves rolling a separate D20 for each attack, and allowing the defender to roll one D20 against all of them. A defender can only counter-attack against a multi-attack if all attacks fail. Damage is rolled in D6s.
@@ -1367,7 +1367,7 @@ These prices reflect a shopping trip to a major city's markets.
 - 2C 10ft Chain
 - 2C Portable Ram
 - 5C Padded vial case(Fits 25 vials)
-- 5C Healer's Kit (10 charges, D6 Hearts, won't heal past half max hearts.)
+- 5C Healer's Kit (10 charges, D6 Hearts, won't heal past half max hearts. Takes 1 minute.)
 - 5C Alembic, Calcinator, Retort, or Mortar & Pestle
 - 5C Grappling Hook
 - 5C Manacles

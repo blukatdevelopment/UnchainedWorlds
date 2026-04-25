@@ -64,8 +64,8 @@ When combat starts, adventurers enter initiative. One player rolls a D6 for the 
 ### Hearts And Damage
 An adventurer's health is measured in hearts, or heart points(HP). Damage reduces hearts, and healing raises it. Overhealing allows an adventurer's current hearts to exceed their maximum hearts.
 
-### Death Saving Throw
-When an adventurer hits 0 hit points, they may make a death saving throw to avoid dying. They roll a D6. On a 6, the adventurer miraculously survives with 1HP. On lower rolls, the adventurer dies.
+### Death
+When an adventurer hits 0 hearts, their soul separates from their body. Various forms of spirits may interact with the severed soul, attempting to consume it, usher it to an after life, or make dark bargains. Depending on the condition of the body, a healer's kit or healing magic can bring an adventurer back from the brink of death. A DC15 medicine check can revive a flatlining adventurer to 1 heart.
 
 ### Attacks
 An attacker and defender both roll a D20. If the attacker succeeds, they deal damage to the defender. If the attacker fails, the defender has a chance to counter-attack if they are within range and have a weapon in-hand. Some adventurers may make multi-attacks. A multi-attack involves rolling a separate D20 for each attack, and allowing the defender to roll one D20 against all of them. A defender can only counter-attack against a multi-attack if all attacks fail. Damage is rolled in D6s.
@@ -234,7 +234,7 @@ You train to use your horns in combat. You are proficient with your horns, which
 You train to use your natural night vision. You can see well in low-light conditions, albeit colorblind. On starry or moonlit nights you do not need an artificial lightsource, and the range of torches is expanded by 60 feet for you.
 
 ### Healer
-When you use a healer's kit, you now heal 2d6 hearts.
+When you use a healer's kit, you now heal 2d6 hearts. You gain expertise with medicine.
 
 ### Blood Magic
 Choose one of the starting spells offered to a wizard via Wizard Education and learn it. You may now expend hearts in order to cast wizard spells that you know. Cantrip consumes 1, 1st level spell consumes D6, 2nd consumes 2d6, and 3rd consumes 3d6.
@@ -385,7 +385,7 @@ Your melee attacks this turn have advantage. Until your next turn, melee attacks
 Throw a great weapon up to 30 feet, making a ranged attack with advantage. On a hit, it deals max damage.
 
 #### Grit Action: Too Angry To Die
-Succeed one death save, provided you are currently raging.
+When you fall below 1 heart while raging, you may expend 1 grit to return to 1 heart and resume fighting.
 
 #### Thick Skulled
 Your skull is exceptionally thick. When detected via telepathy, your mind appears as that of a wild boar. Attempts to read your mind result in static. You may spend one grit to make an unarmed attack(headbutt) that deals 6 damage on a hit. You may not cast spells.
@@ -725,7 +725,7 @@ Any metal shield you wear gleams in the sunlight, providing +1 more armor value.
 You select a sword and it turns silver, gleaming in the sunlight. This sword deals an additional D6 damage, but if it reduces a creature's hearts below 1, the creature is knocked unconscious and remains alive at 1 heart. A creature knocked unconscious by the sword of mercy will heal 1 heart per hour, waking when they are completely healed.
 
 #### Chalice of Life(Requires shield of faith)
-You select a chalice and it turns silver, gleaming in the sunlight. You have a pool of 10 hearts which recovers on each rest. A creature may drink from you chalice to restore one or more hearts from your pool. You may expend 1 grit to restore D6 hearts to your heal pool. You may expend one heart from this pool and anoint a recently deceased creature with water from your chalice to allow them to remake their death save.
+You select a chalice and it turns silver, gleaming in the sunlight. You have a pool of 10 hearts which recovers on each rest. A creature may drink from you chalice to restore one or more hearts from your pool. You may expend 1 grit to restore D6 hearts to your heal pool. You may expend one heart from this pool and anoint a recently deceased creature with water from your chalice, sending angels to return their soul to their body.
 
 ### Oath of Justice
 "I will right the world's wrongs, or die trying."
@@ -900,7 +900,7 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 ### 12 Dark Magic
 1. Blindness(2nd): target must save or be blinded for the next minute, repeating the save at the start of each turn. If the target fails to save within the minute, the blindness becomes permanent.
 2. Flesh Melt(3rd): you point at the target and cause their flesh to bubble, blister, and slough off onto the ground, dealing damage that ignores armor. This attack automatically hits if the target is within 10ft.
-3. Possession(3rd): You may forfeit a death save in order to send your soul jumps into the body of a nearby humanoid or beast. If your body is magically revived, your soul returns to it.
+3. Possession(3rd): When you die, you may send your soul into the body of a nearby humanoid or beast. If your body is revived, your soul returns to it.
 4. Curse(3rd): target must save or else have one of the following effects until the curse is lifted. The caster chooses the curse and may lift it at will.
 - Verbal Diarrhea: Target cannot lie, and blurts out thoughts without any discretion
 - Putrid Stench: Target emanates a nausiating aroma within a 50ft radius
@@ -1149,7 +1149,7 @@ Select one of the seven planets to gain its favor. Each time you rest, choose be
 - Mercury: One cantrip from the Wizard Education ability
 - Venus: Expertise with persuasion
 - Mars: Expertise with all weapons
-- Jupiter: Succeed one death save without rolling
+- Jupiter: Once per rest, Jupiter wakes you up with 1 heart when you would otherwise die
 - Saturn: You do not need to eat, sleep, or drink water
 
 
@@ -1367,7 +1367,7 @@ These prices reflect a shopping trip to a major city's markets.
 - 2C 10ft Chain
 - 2C Portable Ram
 - 5C Padded vial case(Fits 25 vials)
-- 5C Healer's Kit (10 charges, D6 Hearts, won't heal past half max hearts)
+- 5C Healer's Kit (10 charges, D6 Hearts, won't heal past half max hearts.)
 - 5C Alembic, Calcinator, Retort, or Mortar & Pestle
 - 5C Grappling Hook
 - 5C Manacles

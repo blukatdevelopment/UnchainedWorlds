@@ -790,10 +790,7 @@ You guide your studies. Select 3 spells which are either cantrips or 1st level, 
 You let your studies guide you. Roll three random spells from the wizard spell list and choose one.
 
 #### Wand
-During a rest, you may fashion a stick into a wand, converting all previously made wands back into regular sticks. Your wand has 5 charges, which recover on a rest. You may cast a spell contained in your spellbook by using charges from the wand, the cost determined by the spell's level:
-- 1st: 1
-- 2nd: 3
-- 3rd: 15
+During a rest, you may fashion a stick into a wand, converting all previously made wands back into regular sticks. Your wand has 5 charges, which recover on a rest. You may cast a 1st level spell contained in your spellbook by consuming 1 charge from the wand.
 
 #### Wand improvement (Requires wand)
 Your wand gains 5 additional charges.

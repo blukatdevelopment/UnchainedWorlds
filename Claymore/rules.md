@@ -139,13 +139,14 @@ To determine your adventurer's physical appearance, choose or roll for their anc
 ```
 
 # Background
-When creating a adventurer, you will need to decide the background they grew up in. Claymore's core rules offer only peasants. 
+When creating a adventurer, you will need to decide the background they came from.
 
-## Peasant 
-You were raised within the safety of a walled off village of fifty or so families who all know one another. Each family is granted a plot of land and required to farm a portion of it to pay to their land Lord or Lady. Though families sell goods for salt at the village market, families will pitch in to help each other through hard times. The passing of the seasons bring many holiday celebrations whose names and traditions change from village to village. It's unlikely you've ever left a ten mile radius of your village, and equally unlikely you were raised to read and write.
+## Peasant
+All your life, the village elders insisted the world outside the wall is full of demons, highwaymen, and monsters. They begged you to stay and tend the fields and your family trade. They cursed the salt merchants who filled your head with stories of adventures, treasures, and mysteries. And yet, when you gathered all the supplies you could muster for your new life of adventuring, they saw you off and said a prayer to the seven spheres.
 
-### Profession
-with their time left over after farming for their lord, a peasant household spends the rest on a profession to cover living expenses. Roll on the table below for a family profession. This is your last name. You may also add the profession as a skill proficiency.
+### Family Trade
+It's unlikely you can read or write(try to get a 6 on a D6 if you're unsure), but you did learn a thing or two of your family trade.
+Choose or roll below for a family trade, and add it as a skill. Your family trade is also your last name.
 
 ```
 11. Planter: Farms
@@ -186,8 +187,8 @@ with their time left over after farming for their lord, a peasant household spen
 66. Chandler: Makes candles of fat and wax
 ```
 
-### Name
-For a first name, roll on the profession table three times and combine the words into a string of letters. Example below
+### First Name
+For a first name, roll on the family trade table three times and combine the words into a string of letters. Example below
 1. Roll three times: Planter Forester Horner
 2. Combine: Planterforesterhorner
 3. Pull out some cool syllables: Pl er for
@@ -197,6 +198,181 @@ For a first name, roll on the profession table three times and combine the words
 You get the following items:
 - Simple tunic or dress
 - Purse with 5 trinkets
+- Scythe, sickle, or handaxe
+- A backpack with 5 torches, a 50ft rope, and a waterskin
+
+## Noble
+All your life, you traded the freedom of peasantry for the responsibilities of the nobility. The peasants are without gratitude and believe you simply sit around indulging yourself in fine food and drink. What they fail to see is all of the hard work it takes to be a noble of good standing. Noble children are tutored in reading, writing, horse-back riding, and ettiquette. As they grow into adolescence, they take on greater responsibility, honing their talents for future blood games, showcasing the esteem of their banner at royal feasts, and familiarizing themselves with guild patrons to court for marriage. Peasants are never asked to engage in wars with other kingdoms, as per blood law. And yet, every adult noble is trained in combat, prepared to throw down their life to defend the throne. The unshoed, illiterate riff-raff should really learn some respect.
+
+
+### First Name
+Generate a name from a string of text. Example below.
+1. To get three words, answer the following. What ancestry is your character? What temperament do they have? What is their favorite food? Ex: goat stubborn cheese
+2. Combine: goatstubborncheese
+3. Pull out some cool syllables: stu rn ch
+4. Combine to make a name: Sturnch
+
+### Family Name
+Roll or choose the royal family you are born into.
+1. Blodsok
+2. Sworlang
+3. Re-roll
+4. Sieharton
+5. Irostal
+6. Funglis
+7. Frepato
+8. Smeltbay
+9. Isshifah
+10. Twotooth
+11. Appleblom
+12. Bitrok
+13. Firzier
+14. Cotower
+15. Fretplann
+16. Cossom
+17. Re-roll
+18. Frodra
+19. Ambonia
+20. Ruppach
+
+### Noble Training
+You are literate and proficient in the following skills
+- Horseback riding
+- Swords
+- Etiquette
+
+### Starting Gear
+You managed to gather these items before leaving home.
+- Fine clothes
+- Bottle of Fine wine
+- Jewelry worth 10C
+- Purse containing 20C
+- Signet ring
+- Sword
+
+### Reason for leaving
+A noble wouldn't give up their life to become an adventurer for no reason. What was yours? Roll or choose below, or come up with your own. You:
+1. were chosen for a battle royale blood game.
+2. denounced the noble lifestyle.
+3. severely injured or killed another noble.
+4. used the wrong fork in the presence of royalty.
+5. were caught in the act of shameful behavior.
+6. displayed too much sympathy for peasants.
+
+
+## Citizen
+You are a product of a new world nation, whether it be New Sarbald, or New Zeral. You received a free education from a church-run boarding school. In addition to reading, writing, and arithmetic, you learned about how your land's monarchy exists for show only. In effect, the monarch calls a vote for spending taxes and making major decisions, allowing citizens to effectively rule the nation. Your parents may have talked about salt merchants in the past, but they've become a relic of the past. Even the most remote villages receive regular visits from an airship capable of carrying tons and tons of goods at once. Sawn lumber, stone bricks, glass windows, steel nails, charcoal, and cast iron wood stoves are quite accessible, as are spidergoat products such as meat, milk, cheese, and silk. Between airship visits, royal couriers make almost daily visits via leatherwing to deliver newspapers and mail from the capital.
+
+### Family Trade
+Roll or choose a family trade below, which decides your last name. This is what your family growing up did for money.
+```
+1. Legherder: Spidergoat rancher
+2. Blower: Glassworker
+3. Soot: Charcoal maker
+4. Burnbottom: Charcoal maker
+5. Scorcher: Charcoal maker 
+6. Blaster: Miner
+7. Pickpak: Miner
+8. Orer: Miner
+9. Glowgil: Glowfish farmer
+10. Flapper: Leatherwing breeder
+11. Cogger: Factory worker
+12. Shield: Wall guard
+13. Spinner: ceramics maker
+14. Stiller: distilled spirits maker
+15. Clanger: metalworker
+16. Pourer: Smelter
+17. Feller: chops down trees
+18. Whacker: chops down trees
+19. Silky: weave silk fabric
+20. Brewer: coffee brewer
+```
+
+### Starting Gear
+You begin with the following:
+- Silk robe and leather shoes
+- Silk purse with 20C
+- Citizenship card
+
+
+## Westbottle Washout
+What happens in Westbottle stays in Westbottle, or so the rumors say. The city of Westbottle is a haven for the illicit, taboo, and unscrupulous. Everyone who stays has their reasons, and I'm sure you had yours, until now.
+
+### What's your deal?
+Choose or roll on the table below, which grants a skill and starting item.
+```
+1. Guild of Red exile(Persuasion, Iron holy symbol): Your albino colony kicked you out on account of a big misunderstanding. You know to touch your iron holy symbol when you're in the midst of the superstitious. Keeps them from calling you a demon and burning you at the stake.
+2. Urchin(Sleight of hand, lockpick): you steal what you can't afford, which just so happens to be everything.
+3. Entertainer(Performance, one instrument listed in Bardic Magic description): you blow a flute, strum a lute, or catterwall 
+4. Two-trin Sellsword(Swords, Sword): Mercenary? Hardly. You've mostly stood around and flexed, and it shows. If practicing with the sword weren't part of the gig, I'm sure you'd be holding it by the wrong end.
+5. Hustler(Deception, loaded dice): suckers pour into Westbottle every day, and you ran crooked games of chance until you cheated the wrong person.
+6. Crossroads Kid(nature, a leaf sprite you grew up with): Tale as old as time. You were left at a crossroads as a baby and taken in by some old wolf lady. When you came of age, she dropped you off at Westbottle. What's money, you ask? Aw, gee, they're gonna eat you alive, kid.
+7. Air Trader(Insight, vial of moondust): You had a foolproof gig renting a merchant stall on the airship. Buy low, sell high, and the coins flow. How'd you end up washed out in Westbottle?
+8. Sellsoul(Magic, one trinket you may use to summon a masked devil): you're on speaking terms with a masked devil. You know, the kind that make pacts. You're pretty sure you shouldn't have signed a contract without reading it, but in your defense, it was written in devil script.
+9. Lab rat(Athletics, roll a mutation): One minute you're going to make the easiest 5 coins of your life. The next, you wake up naked under a bridge with some cool new scars.
+10. Failed merchant(Insight, Donkey): Your store caught fire, you forgot to pay your protection money, or maybe your merchandice breached containment or came alive. Whatever the case, you're left with a beast of burden and no cart to pull.
+11. Wolfshark trainer(Animal Handling, Wolfshark): One of the wolfsharks you trained ate someone's face. Time to find a new line of work.
+12. Blood Realm Refugee(Survival, tinder box): You still have flashbacks of the sunless dayglow, the fireless nights, and the things watching you from the sea of blood. You've learned to count your blessings in this new world, and a degree of caution that may come in handy.
+13. Imperial Defector(All crossbows, autocrossbow and 9 bolts): A decade ago you woke up in field near some scorched forests. You couldn't remember where your imperial airship went, or how you got a nasty spider bite on the back of your neck. You've made Westbottle your home.
+14. Pit Fighter(Spears, Spear): You cut your teeth in the pit, working your way up from sparring matches to slaying actual monsters one-on-one.
+15. Bottle Family Exile(Intimidation, Bottle-shaped Pin): You used to work for the Bottle family(yes, the one that runs Westbottle!). You were once respected by the family and feared by locals. Now? If the family ever catches you in Westbottle, you'll be swimming with the fishes.
+16. Cultist of the Blood God(Performance, Blood God mask): Your home village, East Branch, was attacked by a nature spirit. That is, until a 100ft tall wolf man pulled it into a headlock and snapped its neck. Your village's walls were breached and your village was forced to flee. However, the creature guided your village to safety and only asked that your villagers dance for his amusement. Every night before bed, you do this dance again and ask for protection from the Blood God.
+```
+
+### Mutation Table
+Roll if relevant
+1. Your eyes glow red in the dark, granting you 30ft of night vision
+2. Your arms are transplanted from a monster. +1 to unarmed damage and athletics checks
+3. You have gills and can breathe under water
+4. Your have a third eye on your forehead, granting +1 to perception checks
+5. You have innate telepathy, but it is always active and large crowds are deafening to you.
+6. You have two prosthetic legs shimmering with blue runes, which react exactly like your old legs.
+
+## Academy Brat
+Your parents sent you to the adventuring academy in New Sarbald, where you became a weapon. You spent your childhood sleeping in a barracks, eating in a mess hall, studying in a classroom, and training on a proving ground. Your personal affects were limited to what fit inside a chest at the end of your bunk. As you grew, you were trained for a specialized role. The academy legally claims a 10% royalty on all adventuring and defense contracts you take.
+
+### Specialization
+You gain 50XP from your training, granting you one level in a class according to your specialization.
+Regardless of specialization, you receive the following gear:
+- Dog tags
+- One trinket from your family
+- Combat boots
+
+#### Assault(Brawler)
+You charge head-first into battle, soaking up damage.
+Gear:
+- Studded Leather Armor
+- Hand Crossbow(side-quiver, bayonet) and 30 bolts
+- Shield
+
+#### Support(Commander)
+You provide force multiplication.
+Gear:
+- Studded Leather Armor
+- Crossbow(side-quiver, light) and 30 bolts
+- Healer's Kit
+- Flint and steel
+- Smoke bomb
+- Fire bomb
+- Bomb
+
+#### Scout(Thief)
+You move undetected, gather information, and secure paths.
+Gear:
+- Leather armor
+- Hand Crossbow(side-quiver, scope) and 10 bolts
+- Dagger
+- Grappling hook
+- 50ft rope
+- Crowbar
+
+#### Sniper(Ranger)
+You provide overwatch and pin-point damage.
+Gear:
+- Cammoflauge Suit
+- Heavy Crossbow(Scope, Bipod) and 20 bolts
+- Hand Crossbow(side-quiver, Light)
+- Dagger
 
 # Classes
 Unless otherwise specified, adventurers begin as commoners at level 0 and level up from there by gaining XP. When an adventurer reaches level 1, they pick a class(or may roll a D20 for a random one on the table below). At level 1, they are granted certain benefits. After level 1 an adventurer can choose from a list of options to gain as they level up.
@@ -212,7 +388,7 @@ If you need help deciding, roll a D20 against this table.
 11-12. Knight
 13-14. Wizard
 15-16. Witch
-17-18. Alchemist
+17-18. Re-roll 
 19-20. Priest
 ```
 ## General Ability list
@@ -261,7 +437,7 @@ You may now tinker with mundane and magical artifacts you find, combining and mo
 3. Debuff: It works perfectly for free each time, but comes with a downside.
 
 ## Class: Commoner
-You start with 10 hearts, your unarmed attacks deal 2 damage, your base movement is 30ft per turn, and you may pick one general skill that relates to your profession.
+You start with 10 hearts, your unarmed attacks deal 2 damage, and your base movement is 30ft per turn.
 
 ```
 ##########################
@@ -520,6 +696,18 @@ Skills
 - Survival
 Knife(D6 damage)
 Weekly Rate: 7 Coins
+
+Academy Trooper
+15 Hearts
+1 Armor Value(Studded Leather)
+Crossbow(3d6 damage, proficient)(bayonet, light) and 20 bolts
+Hand Crossbow(2d6 damage, proficient)
+Skills
+- Crossbows
+- Athletics
+- Animal handling
+- Survival
+Weekly Rate: 10 Coins
 
 Soldier
 15 Hearts
@@ -918,7 +1106,7 @@ You take time to study a variety of topics and gain proficiency with nature, ani
 ```
 
 ## Class: Witch
-You work with the blessing of the threefold goddess. The Maiden threads the needle of life, the Mother pulls the thread, and the Crone severs it. Some venture out to find witches with desperate need for their healing, while others carry superstitious fears any witch may sacrifice them to the Crone. A party who wishes to quickly recover from injuries and raise their fallen is well-served by recruiting a witch.
+You work nature magic with the blessing of the threefold goddess. The Maiden threads the needle of life, the Mother pulls the thread, and the Crone severs it. Some venture out to find witches with desperate need for their healing, while others carry superstitious fears any witch may sacrifice them to the Crone. A party who wishes to quickly recover from injuries and raise their fallen is well-served by recruiting a witch.
 
 ### At level 1
 
@@ -930,106 +1118,38 @@ You work with the blessing of the threefold goddess. The Maiden threads the need
 - Insight
 
 #### The Maiden's Verse
-A witch typically awakens in childhood when she first attunes to her heart and hears the singing of the Maiden aspect of the threefold goddess. While the words may vary, they are laced with the potent magic of the Maiden. Each rest, a witch may sing to the threefold goddess. During this ritual, you may recite the maiden's verse and prepare two spells from the maiden's spell list. You have 3 spirit points which recover on a rest that you may use to cast spells. You may cast a prepared spell by consuming a spirit point. The maiden's spell list:
-- Tears of Respite
-- Sweet Song
-- Shield of Innocence
-- Flaming Locks
+Some hear it in their dreams, others while meditating or wandering in the woods, and some even claim to have seen the Maiden's fiery locks. You learn your personal version of the Maiden's Verse, which has no more than 15 syllables in it. You may sing it for 10 minutes to summon a total of 3 sprites into your service. Sprites are tiny nature spirits that appear as inch-tall glowing beastfolk with insect wings. Roll a D6 to see the element of each sprite summoned.
+```
+1. Water
+2. Ember
+3. Leaf
+4. Rock
+5. Spore
+6. Blood
+```
 
-#### The Mother's Comfort
-Every rest, you perform a ritual under the moon(even if it is not visible) and gain a pool of 10 hearts, your heal pool. You may expend 1 or more and touch a creature to heal it that many hearts.
+#### Elemental Casting
+You may consume sprites to cast spells with them.
+1 sprite: elemental attack dealing 2d6 damage on a hit.
+2 sprites: heal a target in sight by 2d6
+3 sprites: work with the keeper to create a spell based on the sprites consumed.
 
 ### After level 1
 Choose either a class ability or general ability.
 
 ### Class Abilities
 
+#### Longer Verse
+You learn more words to your Maiden's verse(and may add up to 10 new syllables), increasing its potency. You may select this ability up to four times, increasing the maximum number of sprites by 2 each time(maximum of 11 total sprites).
+
+#### Directed Serenade(Requires: level 4)
+As an action, you may now sing the Maiden's verse at a particular source, drawing 2d6 sprites from it(not exceeding your maximum number of sprites). This consumes the object, such as a bonfire, patch of grass, pool of water, or bleeding corpse.
+
 #### Mother's Cauldron
-In a course of events which could be attributed to coincidence, you acquire a second-hand cauldron the size of a small pumpkin. Each rest, you may create a witch's brew with one ingredient and pour it onto the ground, reciting: "Fire burns and water churns, bubbles rise, and earth returns." This ritual with one ingredient grants +5 to your heal pool. Each time you select this ability, you may add an additional ingredient to your brew, conferring +5 more hearts to your heal pool.
+You meditate under the full moon, and later stumble upon a cauldron the size of a pumpkin with a five-pointed star etched into it. Each night, you may brew a potion using up to three ingredients. Work with the keeper to create an effect for this potion based on the ingredients consumed. The resulting potion is poured into a wood bowl, cupped leaf, or tiny clay pot to be consumed within 7 days. Any numerical effects(such as damage or healing) may not exceed D6 per ingredient consumed.
 
-#### Crone's Brew(Requires Mother's Cauldron)
-When you make a witch's brew in your cauldron, you may choose to drink from it before pouring it out. For each ingredient in the brew, decide whether to drink from it and gain D6 overhealing, or leave it in the cauldron for +5 to your heal pool. If others are present for the ritual, you may let them drink from it.
-
-#### Maiden's Dance
-You learn to dance as you recite the maiden's verse. This attracts nature spirits to bless you. Each rest, roll 1d6+3 for your max spirit points. You may select this ability multiple times to increase the roll by D6 each time.
-
-#### Mother's Verse
-You attune to the singing of the Mother aspect of the threefold goddess and add it to your song. You may now prepare four spells. You may also now prepare spells from the Mother's spell list:
-- Mother's Blessing
-- Cradling Arms
-- Full Moon Serenade
-
-#### Crone's Verse(Requires Mother's Verse)
-You attune to the singing of the Crone aspect of the threefold goddess. You may now prepare six spells.
-Every rest, you may meditate under the moon to bathe yourself in the Crone's magic. You may now prepare spells from the Crone's spell list:
-- Lunar Scythe
-- Kiss of Death
-- Ice Armor
-
-#### Crone's dance[Requires Maiden's Dance, Crone's Verse]
-When you dance to the Crone's verse, you learn the names of the nature spirits who bless you. You may expend 5 spirit points to attract spirits to stay with you until you rest again. You may select this ability a second time, allowing you to attract spirits twice for a total of 10 spirit points if you wish. Choose one of the following options
-- D6 sprites(1HP, 1DMG)(Grass, Bug, Flower, Pebble, Frost, or Ember)
-- Nymph(15HP, 2d6DMG)(Bush, Beast, Vine, Boulder, Ice, or Flame)
-- A magical or mundane beast you've seen before(15HP, 2d6DMG)
-
-
-## Witch Spells
-
-### Tears of Respite
-You shed tears onto the body of a creature who has died in the last minute, instantly bringing it back to life with 1 heart.
-
-### Sweet Song
-You sing a sweet melody to one creature within earshot, healing it for 3d6 hearts.
-
-### Shield of Innocence
-You focus on one creature you can see. So long as you use your action to maintain this spell and the target does not attack or cast spells, it gains 6 armor value.
-
-### Flaming Locks
-You extend your arms and cry out. The air around you heats up and your hair turns fiery red. A blast of flame extends from your palms in a 15ft cone. Targets must save to halve 3d6 damage.
-
-### Mother's Blessing
-You embrace one creature and grant them the mother's blessing. Until you complete a rest or recast this spell, any damage the target receives is instead subtracted from your heal pool. When your heal pool is exhausted, the remainder of the damage is applied to you, ending the spell.
-
-### Cradling Arms
-You cradle a creature in your arms. You subtract 1 or more hearts from your heal pool, and the creature overheals that many hearts.
-
-### Full Moon Serenade
-You sit and sing the mother's verse for 10 minutes, regaining 6d6 hearts to your heal pool.
-
-### Lunar Scythe
-You hold up a staff and a scythe blade made from moonlight extends from it. This scythe uses your magic skill and deals 6d6 damage on a hit. The blade produces 30 feet of light and vanishes in the presence of sunlight or when you take a rest.
-
-### Kiss of Death
-You make an unarmed attack in the form of a kiss. This attack automatically hits a target who willingly kisses you. On a hit, the target takes 3d6 damage and falls into a coma. Each turn, the creature must make a save to wake from the coma and avoid taking 2d6 as they freeze from the inside out.
-
-### Ice Armor
-Your body appears to age and turn gaunt, the air around you growing chilly. All damage you take is subtracted from your heal pool. If an attacker is within 5ft of you, every heart taken from your heal pool is dealt to them as a damage. This spell ends when you rest or when your heal pool is exhausted.
-
+You may spend an hour to forage for an ingredient. If you succeed a DC 10 nature check, roll for the ingredient you find.
 ```
-#################################################
-#   ___  _      _                    _     _    #
-#  / _ \| |    | |                  (_)   | |   #
-# / /_\ \ | ___| |__   ___ _ __ ___  _ ___| |_  #
-# |  _  | |/ __| '_ \ / _ \ '_ ` _ \| / __| __| #
-# | | | | | (__| | | |  __/ | | | | | \__ \ |_  #
-# \_| |_/_|\___|_| |_|\___|_| |_| |_|_|___/\__| #
-#################################################
-```
-
-## Class: Alchemist
-Seen as possibly the most legitimate form of magic user, apothecaries are a common sight in larger cities, and their goods are peddled far and wide. It's a rarer breed of alchemist which adventures, usually by teaching themself the art with makeshift equipment and whichever exotic ingredients they can salvage from fallen monsters and foraged wildlife. A party who wishes to remain well-stocked with a variety of potions at little expense is wise to recruit an alchemist.
-
-### At level 1
-#### Skills
-- Alchemy
-- Nature
-- Medicine
-- Blowguns
-- Daggers
-
-#### Foraging Ingredients
-You are adept with foraging for common alchemical ingredients from nature. During a rest, you may spend one or more alchemy point to forage for ingredients. For each alchemy point you spend foraging, you find D6 samples of one ingredient. Each sample fills a glass or clay vial. In the majority of the Blood Plains, roll against the table below (a D20 for the category, then a D6 for the specific item). If you are in a more exotic location, such as underground caverns, consult the keeper. During downtime(between adventures), you may forage 5 ingredients at no cost of alchemy points.
-
 1. Flower(Sunflower, Dandelion, Daisy, Lily, Thistle, Marigold)
 2. Flower(Lavender, Daffodil, Petunia, Morning Glory, Zinnia, Hibiscus)
 3. Flower(Magnolia, Primrose, Myrtle, Camellia, Crysantheum, Sweetpea)
@@ -1050,65 +1170,70 @@ You are adept with foraging for common alchemical ingredients from nature. Durin
 18. Bug(Spider, Dragonfly, Grasshopper, Leech, Snail, Moth)
 19. Bug(Beetle, Honey Bee, Centipede, Worm, Crayfish, Butterfly)
 20. Bones(Bird, Lizard, Snake, Mouse, Deer, Possum)
+```
 
-#### Harvesting Ingredients
-You may spend 10 minutes to successfully harvest the external parts of one monster.(claws, talons, fangs, horns, beaks, scales, pelts, etc) You may spend 10 minutes and succeed a DC10 medicine check to harvest one internal part from a monster. To learn what alchemical parts a type of monster has, you may sacrifice one specimen for an exploratory dissection which destroys the specimen's parts. If you bring an intact specimen back at the end of an adventure, you may automatically harvest all parts successfully.
+#### Increased Potency(Requires: Mother's Cauldron)
+You may now brew with more ingredients to increase the brew's potency. The number of ingredients you may use in a brew increases by 1. You may select this ability up to three times(for a maximum of 6 ingredients). Any numerical effects(such as damage or healing) are still limited to D6 per ingredient.
 
-#### Brew Potions
-You have 3 alchemy points. During a rest, you may expend a number of alchemy points and brew that many unique potions. Describe the desired effect of the potion incorporating on one or more ingredients consumed by the brew process, negotiating a DC with the keeper. Once you agree on the effect, ingredients, and DC, make an alchemy check to determine the quality of the potion you brew. A brewed potion or poison fits in a vial. A vial of poison can be dipped with the tip of a weapon 10 times, and the dipped item dries after 1 minute.
-- Superior(Roll a natural 20): Potion effect and duration are doubled
-- Greater(Succeed by 5 or more): +1 to effect, or(if effect has no numbers) +50% duration
-- Average(Succeed): Potion works normally
-- Lesser(Fail): A poison gets 1 on the table below. A poison gets a random side-effect. Side-effects persist until completing a rest.
-1. Half effect, or(if effect has no numbers) half duration
-2. Receive D6 damage
-3. Receive 1 damage
-4. Mentally regress to beast
-5. Telepathically broadcast your thoughts in a 90ft radius
-6. Cannot lift more than 10lbs with both arms
-7. Hands become snakes
-8. All sounds are painfully loud
-9. Skin gains sense of taste
-10. Metal objects rust rapidly if you touch them
-11. Swap locations with last creature you touched
-12. Amnesia
-13. See hat man following you
-14. Shivering and shaking hands
-15. Fingers become stuck in one pose
-16. Feet make a loud squeaky noise when you walk
-17. Hallucinations
-18. Flatulance
-19. Strong odor in 90ft radius
-20. Fur/skin/scales/feathers change color(Blue, Red, Green, Yellow, Pink, Orange)
+#### Increased volume(Requires: Mother's Cauldron, Level 4)
+When you brew, you may now create multiple doses of the same potion. You may create one potion for every two ingredients consumed.
 
-### After level 1
-Choose either a class ability or general ability.
+#### Sprite's Guidance(Requires: Mother's Caundron, Level 4)
+When you forage, sprites guide you to the nearest ingredient and you automatically succeed.
 
-### Class Abilities
+#### Crone's Bones(Requires: Mothers's Cauldron)
+Sooner or later, the dreams of all witches are visited by her. Appearing as a coyote woman silvered by age, she appraoches the dreamer and places a kiss on their forehead. When they wake, the witch feels a new connection with death.
 
-#### Physical Education
-You take time to study the physical arts. You gain +3 HP. You may select this ability a total of three times.
+You may now collect one bone from each slain enemy, and wear up to three of these bones on your person at a time, attuning to them magically. You may expend bones you've attuned to perform the Crone's miracles. When you do, the expended bones are reduced to dust and your eyes briefly glow silver.
 
-#### Alchemical training
-You hone your skill and have an additional +3 alchemy points per rest. You may take select this ability a total of five times.
+#### Greater Attunement(Requires: Crone's Bones)
+You may now attune to two additional bones. You may select this ability up to three times, for a total of 9 bones.
 
-#### Batch brewing
-When brewing a potion, you may brew a set of three identical potions, sharing the alchemy check.
+#### Instant Attunement(Requires: Crone's Bones, level 4)
+Whenever you create an item that requires attunement, you may instantly attune to it at that moment.
 
-#### Recipe book
-After you successfully brew a potion, you may now add the recipe to your own personal recipe book. If you have the recipe, you may skip a roll when brewing, automatically getting an average quality potion.
+### Crone's Miracles
+Below are the miracles available via the Crone's Bones. A creature may attune to no more than one item at a time, and attunement requires 10 minutes spent intensely focusing on the item. If an item has finite charges, the Crone may expend bones to recharge it, and the item ceases to be magical when all charges are expended.
 
-#### Distillation
-If your potion uses only one ingredient, you may instead expend three vials of that ingredient to gain a +1 to the potion's effect.
+#### Waning Moon's Scythe
+Consumes 1 bone and uses a staff or walking stick.
+When attuned, a blade of silver moonlight extends from the walking stick, producing light for 30ft. When the blade hits an enemy, it consumes a charge and deals 6d6 damage. The scythe has 3 charges.
 
-#### Purification
-You may spend 5 alchemy points to re-brew a potion of poor quality, removing its side-effects.
+#### Scrying Sphere
+Consumes 1 bone, Sand, and a personal effect of the target such as a hair, article of clothing, or trinket.
+You create a glass ball the size of an apple. When you touch the glass ball with both hands, your eyes roll back and glow silver as you can see from the eyes of your target and hear from their ears, wherever they are. While scrying, you are blinded and deafened.
 
-#### Spell Potion
-You may now brew spell potions, which require three ingredients corresponding to the effect. For the effect, choose a 1st level spell from the wizard's spell list. When you drink the potion, you may cast the spell within the next minute. The brewing DC is 15.
+#### Death Ward
+Consumes 3 bones and a spore sprite.
+You create a bone necklace which wards death. A creature who attunes to this necklace is guarded from death. When the attuned falls below 1 heart, the necklace shatters and they are returned to 1 heart.
 
-#### Marksmanship
-You gain proficiency with crossbows and hand crossbows.
+#### Hex
+Consumes 4 bones, iron nail, and a personal effect of the target such as a hair, article of clothing, or trinket.
+You create a necklace which, when attuned to a creature, hexes the target. The hexed target has disadvantage on all rolls. If the attuned is targeted by a hex, a contested magic check is made, causing the loser's necklace to explode and deal 3d6 damage to all creatures within a 30ft radius.
+
+#### Wild Shape
+Consumes 5 bones, a blood sprite, bowl of moon water.
+You create a wishbone, and may snap it at any time to attune. Once attuned, your form shudders, ripples, and grows, destroying any clothing or armor you are wearing. You grow into an increasingly monstrous version of your previous beastfolk form that stands ten feet tall with glowing green eyes. In this form you are proficient with unarmed attacks that deal 3d6 damage, you have 30 hearts, and you may not cast spells nor speak. If your hearts fall below 1, your form reverts to normal and you are left unconscious with 1 heart. If you fall asleep or are nocked unconscious while in the wild shape, you awaken with no recollection of your life as a beast folk, and your wild shape becomes permanent.
+
+#### Shadow Ring
+Consumes 5 bones.
+You create a black ring. Once attuned, you may command your shadow, allowing it to separate from you and travel through any dark space. The shadow has 30 hearts, its attacks deal 3d6 damage. If the shadow falls below 1 hearts or is exposed to light, your ring shatters.
+
+#### Bone Armor
+Consumes 6 bones.
+You materialize a set of bone armor consisting of a horned skull helm and gauntlets terminating in long claws. The armor has 6 charges, and provides armor value equal to the number of charges. Each time the armor is hit, it loses one charge. The attuned is proficient with the claws. On a hit, one charge is consumed and the claws extend into the target, dealing 6d6 damage.
+
+#### Eyes of Sorrow
+Consumes 7 bones and a water sprite.
+Your eyes turn bright blue. While attuned, you have a pool of 30 hearts which recovers whenever you complete an 8 hour rest. You may spend 1 minute crying tears of sorrow onto a creature to heal them 1 or more hearts from the pool.
+
+#### Dark Bargain
+Consumes 8 bones, a spore sprite, the remains of one deceased beastfolk, and one living beastfolk.
+You lay the bones in a circle around both beastfolk, then chant. A purple flame burns, consuming all components. The flames recede, and the deceased beastfolk is revealed intact, gasping their first breaths reborn.
+
+#### Ice Circlet
+Consumes 8 bones, a water sprite.
+You create a silver circlet set with sapphires that is icy cold to the touch. Attuning causes your appearance to grow elderly and gaunt. If the attuned has less than full hearts and touches a creature, they deal D6 damage and heal as much. A kiss on the lips deals 3d6 damage, healing the attuned as much.
 
 ```
 ###############################
@@ -1228,6 +1353,7 @@ Other names: bars, gold, shinies. Gold, silver, and other precious metals are pr
 - 25C Mule/Donkey/Pony(Pulls vehicles)(15HP, 2d6)
 - 50C Battle Bird (Seats 1)(15HP, 2d6)
 - 75C War horse(Seats 2)(15HP, 2d6)
+- 200C Leatherwing(seats 6, or 3 with ballista)(60HP, 2d6)
 
 ## Vehicles
 - 25C Two-wheeled cart(Seats 1 or carries cargo)
@@ -1238,12 +1364,20 @@ Other names: bars, gold, shinies. Gold, silver, and other precious metals are pr
 
 ## Weapons
 DMG = damage. 
-Crossbows require an action to reload.
 
 ### Ammo
 - 1C 20 flint arrows
 - 3C 20 steel arrows
 - 3C 20 Bolts
+- 25C Exploding bolt: 4d6 damage, 30ft radius, heavy crossbow and ballista only
+
+### Crossbow mods
+Each crossbow can be fitted with up to two mods
+- 5C Side quiver: Stores 3 bolts on weapon
+- 15C Scope: Spend your reaction to aim, gaining +2 on attack roll
+- 15C Bipod: Remain stationary to use bipod, gaining +2 on attack roll
+- 10C Bayonet: crossbow can be used for melee attacks, dealing 2d6 on a hit
+- 20C Light: 60ft cone, lasts 6 hours
 
 ### 2DMG
 - Rock
@@ -1256,30 +1390,33 @@ Crossbows require an action to reload.
 - 3T Dart
 - 5T Javelin
 - 7T Whip
-- 1C Hammer
 - 2C Knife/Dagger
 
 ### 2d6DMG
 - 5T Flint Spear
 - 5T Flint Handaxe
+- 1C Hammer
 - 5C Steel Spear
 - 5C Steel Handaxe
 - 10C Sword
 - 10C Mace
 - 20C Halberd
 - 25C Shortbow
-- 75C Hand Crossbow
+- 25C Hand Crossbow(1 action reload)
+- 200C Autocrossbow(1 turn reload, 10 bolts, auto fire to multi-attack with -2 penalty)
+- 2C Fire bomb(shatters on impact, 10ft radius, burns for 3 turns)
 
 ### 3d6DMG
 - 1C Greatclub
 - 15C Warhammer
-- 25C Crossbow
+- 25C Crossbow(1 action reload)
 - 30C Greataxe
 - 50C Greatsword
 - 50C Longbow
 
 ### 4d6DMG
-- 50C Heavy Crossbow
+- 50C Heavy Crossbow(1 minute reload)
+- 25C Bomb(30ft radius)
 
 ## Armor
 AV = armor value = flat damage reduction
@@ -1297,6 +1434,7 @@ DV = durability value = number of hits armor can take before breaking
 - 2T Satchel: two gallons, worn over one shoulder
 - 1C Backpack: six gallons, two shoulder straps
 - 3C Rucksack: eighteen gallons, two shoulder straps
+- 5C Cammoflauge suit: provides +D6 to stealth checks when stationary
 
 ### Light(1AV)
 - 7T Leather 5DV
@@ -1374,6 +1512,7 @@ These prices reflect a shopping trip to a major city's markets.
 - 5C Bottle of Fine wine
 - 5C Chest: eight gallons
 - 5C Merchant's kit: scales, Guild charter handbook, Guild hall map
+- 5C Smoke bomb(30ft sphere, 1 minute)
 - 10C Bottle of strong spirits
 - 20C Brass Horn
 - 30C Lute, Viola, Dulcimer, or Hurdy-Gurdy
